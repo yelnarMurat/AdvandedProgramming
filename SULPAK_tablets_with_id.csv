@@ -1,0 +1,153 @@
+id,title,price,brand,code,list,size,memory,ram,network,main_camera,front_camera,code2
+s1,Планшет Samsung Galaxy Tab S6 10.5″ 128GB (SM-T865) Grey,239890,Samsung,374028,Планшеты,"10,5″ - 26,67 см",128 Гб,6 ГБ,Wi-Fi + 4G,13+5 Mpx,8 Mpx,(SM-T865)
+s2,Планшет Samsung Galaxy Tab A 10.1″ 32GB (SM-T515) Gold,89890,Samsung,303658,Планшеты,"10,1"" - 25,65 см",32 Гб,2 ГБ,Wi-Fi + 4G,8 Mpx,5 Mpx,(SM-T515)
+s3,Планшет Samsung Tab A 10.1″ 32GB (SM-T515) Black,89890,Samsung,303659,Планшеты,"10,1"" - 25,65 см",32 Гб,2 ГБ,Wi-Fi + 4G,8 Mpx,5 Mpx,(SM-T515)
+s4,Планшет Samsung Galaxy Tab A 8″ 32GB (SM-T295) Black,69890,Samsung,328242,Планшеты,"8″ - 20,3 см",32 Гб,2 ГБ,Wi-Fi + 4G,8 Mpx,5 Mpx,(SM-T295)
+s5,Планшет Samsung Galaxy Tab A 8″ 32GB Wi-Fi (SM-T290) Black,59890,Samsung,443490,Планшеты,"8″ - 20,3 см",32 Гб,2 ГБ,только Wi-Fi,8 Mpx,2 Mpx,(SM-T290)
+s6,Планшет Apple iPad 10.2″ 32GB Wi-Fi (MW752) Silver,169990,Apple,393692,Планшеты,"10,2″ - 25,9 см",32 Гб,2 ГБ,только Wi-Fi,8 Mpx,"1,2 Mpx",(MW752)
+s7,Планшет Samsung Galaxy Tab S5e 10.5″ 64GB (SM-T725) Black,149890,Samsung,303927,Планшеты,"10,5″ - 26,67 см",64 Гб,4 ГБ,Wi-Fi + 4G,13 Mpx,8 Mpx,(SM-T725)
+s8,Планшет Huawei MediaPad T3 10″ 16GB (AGS-L09) Gray,87890,Huawei,76491,Планшеты,"9,6″ - 24,3 см",16 Гб,2 ГБ,,5 Mpx,2 Mpx,(AGS-L09)
+s9,Планшет Samsung Galaxy Tab S6 10.5″ 128GB (SM-T865) Rose Blush,239890,Samsung,374029,Планшеты,"10,5″ - 26,67 см",128 Гб,6 ГБ,Wi-Fi + 4G,13+5 Mpx,8 Mpx,(SM-T865)
+s10,Планшет Samsung Galaxy Tab S6 Lite 10.4″ 64GB (SM-P615) Blue,179890,Samsung,460226,Планшеты,"10,4″ - 26.31 см",64 Гб,4 ГБ,Wi-Fi + 4G,8 Mpx,5 Mpx,(SM-P615)
+s11,Планшет Huawei MediaPad T3 7″ 16GB (BG2-U01) Gray,49990,Huawei,298066,Планшеты,,16 Гб,1 ГБ,,5 Mpx,2 Mpx,(BG2-U01)
+s12,Планшет Samsung Galaxy Tab A 8″ 32GB (SM-T295) Silver,69890,Samsung,328243,Планшеты,"8″ - 20,3 см",32 Гб,2 ГБ,Wi-Fi + 4G,8 Mpx,2 Mpx,(SM-T295)
+s13,"Планшет Apple iPad Pro 9,7″ (2016) 32GB WI-FI (A1674) Rose Gold",239990,Apple,68323,Планшеты,"9,7″ - 24,6 см",32 Гб,2 ГБ,только Wi-Fi,,,(A1674)
+s14,Планшет Samsung Galaxy Tab A 8″ 32GB Wi-Fi (SM-T290) Silver,59890,Samsung,443491,Планшеты,"8″ - 20,3 см",32 Гб,2 ГБ,только Wi-Fi,8 Mpx,2 Mpx,(SM-T290)
+s15,Планшет Apple iPad Pro 12.9″ (2015) 32GB Wi-Fi (ML0F2RK/A) Space Gray,317990,Apple,67238,Планшеты,"12,9″ - 32,77 см",32 Гб,4 ГБ,только Wi-Fi,,,(ML0F2RK/A)
+s16,Планшет Samsung Galaxy Tab S6 Lite 10.4″ 64GB (SM-P615) Gray,179890,Samsung,460225,Планшеты,"10,4″ - 26.31 см",64 Гб,4 ГБ,Wi-Fi + 4G,8 Mpx,5 Mpx,(SM-P615)
+s17,Планшет BQ 7036L,27290,BQ,437656,Планшеты,"7″ - 17,8 см",8 Гб,1 ГБ,Wi-Fi + 4G,2 Mpx,"0,3 Mpx",
+s18,Планшет Huawei MediaPad T3 10″ 16GB (AGS-L09) Gold,89790,Huawei,76492,Планшеты,"9,6″ - 24,3 см",16 Гб,2 ГБ,,5 Mpx,2 Mpx,(AGS-L09)
+s19,Планшет Samsung Galaxy Tab S5e 10.5″ 64GB (SM-T725) Gold,149890,Samsung,303926,Планшеты,"10,5″ - 26,67 см",64 Гб,4 ГБ,Wi-Fi + 4G,13 Mpx,8 Mpx,(SM-T725)
+s20,Планшет Apple iPad Pro 11″ (2020) 128GB Wi‑Fi + Cellular (MY2V2) Space Grey,543990,Apple,459956,Планшеты,"11″ - 27,94 см",128 Гб,6 ГБ,Wi-Fi + 4G,12 Mpx,7 Mpx,(MY2V2)
+s21,Планшет Apple iPad Pro 10.5″ (2017) 64GB Wi-Fi (MQDY2) Rose Gold,339990,Apple,79216,Планшеты,"10,5″ - 26,67 см",64 Гб,4 ГБ,только Wi-Fi,7 Mpx,12 Mpx,(MQDY2)
+s22,Планшет Apple iPad mini 5 64GB WI-FI (MUQW2) Space Gray ,233990,Apple,298081,Планшеты,"7,9″ - 20,1 см",64 Гб,3 ГБ,только Wi-Fi,8 Mpx,7 Mpx,(MUQW2)
+s23,Планшет Apple iPad Pro 11″ (2020) 128GB Wi‑Fi (MY232) Space Grey,458990,Apple,459954,Планшеты,"11″ - 27,94 см",128 Гб,6 ГБ,только Wi-Fi,12 Mpx,7 Mpx,(MY232)
+s24,Планшет Apple iPad Pro 12.9″ (2020) 128GB Wi‑Fi (MY2H2) Space Grey,572990,Apple,459957,Планшеты,"12,9″ - 32,77 см",128 Гб,6 ГБ,только Wi-Fi,12 Mpx,7 Mpx,(MY2H2)
+s25,Планшет Apple iPad mini 5 64GB WI-FI (MUQY2) Gold,233990,Apple,298083,Планшеты,"7,9″ - 20,1 см",64 Гб,3 ГБ,только Wi-Fi,8 Mpx,7 Mpx,(MUQY2)
+s26,Планшет Apple iPad Air 10.5″ (2019) 64GB WI-FI (MUUK2) Silver,282990,Apple,298070,Планшеты,"10,5″ - 26,67 см",64 Гб,3 ГБ,только Wi-Fi,8 Mpx,7 Mpx,(MUUK2)
+s27,Планшет Lenovo Tab M7 7″ 16GB (TB-7305I) Black,39890,Lenovo,392927,Планшеты,"7″ - 17,8 см",16 Гб,1 ГБ,,2 Mpx,2 Mpx,(TB-7305I)
+s28,Планшет BQ 1085L (Black),47690,BQ,460133,Планшеты,"10,1"" - 25,65 см",16 Гб,2 ГБ,Wi-Fi + 4G,5 Mpx,2 Mpx,(1085L)
+s29,Планшет Lenovo Tab M10 2/32GB 4G Black (TB-X505X),89990,Lenovo,427278,Планшеты,"10,1"" - 25,65 см",32 Гб,2 ГБ,Wi-Fi + 4G,2 Mpx,5 Mpx,(TB-X505X)
+s30,Планшет Lenovo Tab E7 TB-7104F Wi-Fi 7″ 8GB Black,29890,Lenovo,81029,Планшеты,"7″ - 17,8 см",8 Гб,1 ГБ,только Wi-Fi,2 Mpx,"0,3 Mpx",
+s31,Планшет BQ 7083G,23990,BQ,460320,Планшеты,"7″ - 17,8 см",8 Гб,1 ГБ,Wi-Fi + 3G,2 Mpx,"0,3 Mpx",
+s32,Планшет Apple iPad Pro 11″ (2018) 64GB Wi-Fi (MTXP2) Silver ,359990,Apple,390371,Планшеты,"11″ - 27,94 см",64 Гб,4 ГБ,только Wi-Fi,,,(MTXP2)
+s33,Планшет Apple iPad mini 5 64GB WI-FI (MUQX2) Silver ,233990,Apple,298082,Планшеты,"7,9″ - 20,1 см",64 Гб,3 ГБ,только Wi-Fi,8 Mpx,7 Mpx,(MUQX2)
+s34,"Планшет Lenovo Yoga 10.1"" 3/32GB 4G Grey (YT-X705X)",134890,Lenovo,460134,Планшеты,"10,1"" - 25,65 см",32 Гб,3 ГБ,,8 Mpx,5 Mpx,(YT-X705X)
+s35,Планшет Lenovo TB-7305X 1/16GB 4G Black ,49690,Lenovo,427277,Планшеты,"7″ - 17,8 см",16 Гб,1 ГБ,Wi-Fi + 4G,2 Mpx,5 Mpx,
+s36,Планшет Huawei MediaPad T5 10.1″ 16GB (AGS2-L09) Black,89890,Huawei,86511,Планшеты,"10,1"" - 25,65 см",16 Гб,2 ГБ,,5 Mpx,2 Mpx,(AGS2-L09)
+s37,Планшет Lenovo TB-8505X 2/32GB 4G Grey,69590,Lenovo,427279,Планшеты,"8″ - 20,3 см",32 Гб,2 ГБ,,2 Mpx,5 Mpx,
+s38,Планшет Apple iPad Pro 11″ (2018) 64GB Wi-Fi + Cellular (MU0M2) Space Grey,419890,Apple,88230,Планшеты,"11″ - 27,94 см",64 Гб,4 ГБ,Wi-Fi + 4G,12 Mpx,7 Mpx,(MU0M2)
+s39,Планшет Apple iPad Pro 11″ (2020) 128GB Wi‑Fi (MY252) Silver,458990,Apple,459955,Планшеты,"11″ - 27,94 см",128 Гб,6 ГБ,только Wi-Fi,12 Mpx,7 Mpx,(MY252)
+s40,Планшет Huawei MediaPad M5 8.4″ 64GB (SHT-AL09) Gray,189790,Huawei,86512,Планшеты,"8,4″ - 21,3 см",64 Гб,4 ГБ,Wi-Fi + 4G,13 Mpx,8 Mpx,(SHT-AL09)
+s41,Планшет Lenovo Tab E7 7″ TB-7104I 3G 8GB Black,32290,Lenovo,81030,Планшеты,"7″ - 17,8 см",8 Гб,1 ГБ,Wi-Fi + 3G,2 Mpx,"0,3 Mpx",
+s42,Планшет Samsung Galaxy Tab S7+ 12.4″ 128GB (SM-T975) Black,449890,Samsung,469004,Планшеты,"12,4″ - 31.5 см",128 Гб,6 ГБ,Wi-Fi + 4G,13+5 Mpx,8 Mpx,(SM-T975)
+s43,Планшет Apple iPad 10.2″ (2020) 32GB Wi-Fi (MYL92) Space Grey ,188790,Apple,471889,Планшеты,"10,2″ - 25,9 см",32 Гб,3 ГБ,только Wi-Fi,8 Mpx,"1,2 Mpx",(MYL92)
+s44,Планшет Samsung Galaxy Tab S7 11″ 128GB (SM-T875) Black,359890,Samsung,469002,Планшеты,"11″ - 27,94 см",128 Гб,6 ГБ,Wi-Fi + 4G,13+5 Mpx,8 Mpx,(SM-T875)
+s45,Планшет Apple iPad Pro 9.7″ (2016) 256GB Wi-Fi (MM1A2RK/A) Rose Gold,308990,Apple,71100,Планшеты,"9,7″ - 24,6 см",256 Гб,2 ГБ,только Wi-Fi,12 Mpx,5 Mpx,(MM1A2RK/A)
+s46,Планшет Apple iPad Pro 12.9″ (2018) 64GB Wi-Fi (MTEL2) Space Grey,459790,Apple,88236,Планшеты,"12,9″ - 32,77 см",64 Гб,4 ГБ,только Wi-Fi,12 Mpx,7 Mpx,(MTEL2)
+s47,Планшет Huawei MediaPad T3 8″ 16GB (KOB-L09) Gold ,78990,Huawei,83097,Планшеты,"8″ - 20,3 см",16 Гб,2 ГБ,,5 Mpx,2 Mpx,(KOB-L09)
+s48,Планшет Lenovo Tab M10 FHD Plus 4/64GB 4G Grey (TB-X606X),109990,Lenovo,467722,Планшеты,"10,3″ - 26,1 см",64 Гб,4 ГБ,Wi-Fi + 4G,8 Mpx,5 Mpx,(TB-X606X)
+s49,Планшет Huawei MediaPad T3 8″ 16GB (KOB-L09) Grey ,79590,Huawei,83096,Планшеты,"8″ - 20,3 см",16 Гб,2 ГБ,Wi-Fi + 4G,5 Mpx,2 Mpx,(KOB-L09)
+s50,Планшет Apple iPad mini 5 256GB WI-FI (MUU32) Space Gray ,318890,Apple,298084,Планшеты,"7,9″ - 20,1 см",256 Гб,3 ГБ,только Wi-Fi,8 Mpx,7 Mpx,(MUU32)
+s51,Планшет Apple iPad Pro 11″ 64GB Wi-Fi (3E149) Silver Demo,356990,Apple,86516,Планшеты,"11″ - 27,94 см",64 Гб,4 ГБ,,12 Mpx,7 Mpx,(3E149)
+s52,Планшет Apple iPad Air 10.5″ (2019) 64GB WI-FI + Cellular (MV0E2) Silver ,309990,Apple,298076,Планшеты,"10,5″ - 26,67 см",64 Гб,3 ГБ,Wi-Fi + 4G,8 Mpx,7 Mpx,(MV0E2)
+s53,Планшет Apple iPad 10.2″ (2020) 128GB Wi-Fi (MYLD2) Space Grey ,245990,Apple,471892,Планшеты,"10,2″ - 25,9 см",128 Гб,3 ГБ,только Wi-Fi,8 Mpx,"1,2 Mpx",(MYLD2)
+s54,Планшет Lenovo Tab M7 TB-7305F 1/16GB WiFi Black ,44990,Lenovo,467723,Планшеты,"7″ - 17,8 см",16 Гб,1 ГБ,Wi-Fi + 4G,2 Mpx,2 Mpx,
+s55,Планшет Apple iPad Pro 11″ (2020) 256GB Wi‑Fi + Cellular (MXE42) Space Grey ,601990,Apple,459997,Планшеты,"11″ - 27,94 см",256 Гб,6 ГБ,Wi-Fi + 4G,12 Mpx,7 Mpx,(MXE42)
+s56,Планшет Apple iPad Pro 12.9″ (2020) 256GB Wi‑Fi + Cellular (MXF52) Space Grey,716990,Apple,460008,Планшеты,"12,9″ - 32,77 см",256 Гб,6 ГБ,Wi-Fi + 4G,12 Mpx,7 Mpx,(MXF52)
+s57,Планшет Apple iPad mini 5 256GB WI-FI (MUU52) Silver ,318790,Apple,298085,Планшеты,"7,9″ - 20,1 см",256 Гб,3 ГБ,только Wi-Fi,8 Mpx,7 Mpx,(MUU52)
+s58,Планшет Apple iPad Pro 11″ (2018) 256GB Wi-Fi + Cellular (MU172) Silver,499890,Apple,390377,Планшеты,"11″ - 27,94 см",256 Гб,4 ГБ,Wi-Fi + 4G,12 Mpx,7 Mpx,(MU172)
+s59,Планшет Apple iPad Pro 12.9″ (2020) 256GB Wi‑Fi (MXAT2) Space Grey ,630990,Apple,460003,Планшеты,"12,9″ - 32,77 см",256 Гб,6 ГБ,только Wi-Fi,12 Mpx,7 Mpx,(MXAT2)
+s60,Планшет Samsung Galaxy Tab S7+ 12.4″ 128GB (SM-T975) Bronze,449890,Samsung,469005,Планшеты,"12,4″ - 31.5 см",128 Гб,6 ГБ,Wi-Fi + 4G,13+5 Mpx,8 Mpx,(SM-T975)
+s61,Планшет Apple iPad mini 5 64GB WI-FI + Cellular (MUX62) Silver ,307290,Apple,298088,Планшеты,"7,9″ - 20,1 см",64 Гб,3 ГБ,Wi-Fi + 4G,8 Mpx,7 Mpx,(MUX62)
+s62,Планшет Lenovo Tab M10 FHD Plus 2/32GB 4G Grey (TB-X606X),99990,Lenovo,467721,Планшеты,"10,3″ - 26,1 см",32 Гб,2 ГБ,Wi-Fi + 4G,8 Mpx,5 Mpx,(TB-X606X)
+s63,Планшет Apple iPad Pro 12.9″ (2020) 128GB Wi‑Fi + Cellular (MY3C2) Space Grey,658990,Apple,459958,Планшеты,"12,9″ - 32,77 см",128 Гб,6 ГБ,Wi-Fi + 4G,12 Mpx,7 Mpx,(MY3C2)
+s64,Планшет Apple iPad Pro 12.9″ (2020) 1TB Wi‑Fi (MXAX2) Space Grey,859990,Apple,460007,Планшеты,"12,9″ - 32,77 см",1 Тб,6 ГБ,только Wi-Fi,12 Mpx,7 Mpx,(MXAX2)
+s65,Планшет Apple iPad mini 5 256GB WI-FI (MUU62) Gold ,318790,Apple,298086,Планшеты,"7,9″ - 20,1 см",256 Гб,3 ГБ,только Wi-Fi,8 Mpx,7 Mpx,(MUU62)
+s66,Планшет Apple iPad Pro 12.9″ (2018) 64GB Wi-Fi (MTEM2) Silver,529990,Apple,390380,Планшеты,"12,9″ - 32,77 см",64 Гб,4 ГБ,только Wi-Fi,12 Mpx,7 Mpx,(MUU62)
+s67,Планшет Apple iPad Pro 12.9″ (2020) 1TB Wi‑Fi + Cellular (MXF92) Space Grey,945990,Apple,460012,Планшеты,"12,9″ - 32,77 см",1 Тб,6 ГБ,Wi-Fi + 4G,12 Mpx,7 Mpx,(MXF92)
+s68,Планшет Apple iPad Air 10.5″ (2019) 256GB WI-FI + Cellular (MV0N2) Space Gray ,379990,Apple,298078,Планшеты,"10,5″ - 26,67 см",256 Гб,3 ГБ,Wi-Fi + 4G,8 Mpx,7 Mpx,(MV0N2)
+s69,Планшет Apple iPad 10.2″ (2020) 128GB Wi-Fi (MYLF2) Gold,245990,Apple,471894,Планшеты,"10,2″ - 25,9 см",128 Гб,3 ГБ,только Wi-Fi,8 Mpx,"1,2 Mpx",(MYLF2)
+s70,Планшет Apple iPad Pro 12.9″ (2020) 512GB Wi‑Fi + Cellular (MXF82) Silver ,830990,Apple,460011,Планшеты,"12,9″ - 32,77 см",512 Гб,6 ГБ,Wi-Fi + 4G,12 Mpx,7 Mpx,(MXF82)
+s71,Планшет Samsung Galaxy Tab S7 11″ 128GB (SM-T875) Bronze,359890,Samsung,469003,Планшеты,"11″ - 27,94 см",128 Гб,6 ГБ,Wi-Fi + 4G,13+5 Mpx,8 Mpx,(SM-T875)
+s72,"Планшет Huawei MatePad 10.4"" 4/64GB (BAH3-L09) Black",139990,Huawei,471884,Планшеты,"10,4″ - 26.31 см",64 Гб,4 ГБ,Wi-Fi + 4G,8 Mpx,8 Mpx,(BAH3-L09)
+s73,Планшет Apple iPad 10.2″ (2020) 128GB Wi-Fi + Cellular (MYML2) Space Grey ,320990,Apple,471898,Планшеты,"10,2″ - 25,9 см",128 Гб,3 ГБ,Wi-Fi + 4G,8 Mpx,"1,2 Mpx",(MYML2)
+s74,Планшет Apple iPad Pro 11″ (2020) 512GB Wi‑Fi + Cellular (MXE62) Space Grey ,716990,Apple,459999,Планшеты,"11″ - 27,94 см",512 Гб,6 ГБ,Wi-Fi + 4G,12 Mpx,7 Mpx,(MXE62)
+s75,Планшет Prestigio Wize PMT4117 3G C,24890,Prestigio,469659,Планшеты,"7″ - 17,8 см",8 Гб,1 ГБ,Wi-Fi + 3G,2 Mpx,"0,3 Mpx",MTHJ2
+s76,Планшет Apple iPad Pro 12.9″ (2018) 64GB Wi-Fi + Cellular (MTHJ2) Space Grey,519790,Apple,88237,Планшеты,"12,9″ - 32,77 см",64 Гб,4 ГБ,Wi-Fi + 4G,12 Mpx,7 Mpx,MXE82
+s77,Планшет Apple iPad Pro 11″ (2020) 1TB Wi‑Fi + Cellular (MXE82) Space Grey,830990,Apple,460001,Планшеты,"11″ - 27,94 см",1 Тб,6 ГБ,Wi-Fi + 4G,12 Mpx,7 Mpx,MXE82
+s78,Планшет Apple iPad Pro 12.9″ (2018) 256GB Wi-Fi + Cellular (MTHV2) Space Grey,599990,Apple,88238,Планшеты,"12,9″ - 32,77 см",256 Гб,4 ГБ,Wi-Fi + 4G,12 Mpx,7 Mpx,MTHV2
+s79,Планшет Apple iPad 10.2″ (2020) 32GB Wi-Fi + Cellular (MYMH2) Space Grey ,262990,Apple,471895,Планшеты,"10,2″ - 25,9 см",32 Гб,3 ГБ,Wi-Fi + 4G,8 Mpx,"1,2 Mpx",MYMH2
+s80,Планшет Apple iPad 10.2″ (2020) 32GB Wi-Fi (MYLC2) Gold,188990,Apple,471891,Планшеты,"10,2″ - 25,9 см",32 Гб,3 ГБ,только Wi-Fi,8 Mpx,"1,2 Mpx",MYLC2
+s81,Планшет Apple iPad Pro 12.9″ (2020) 128GB Wi‑Fi + Cellular (MY3D2) Silver ,658990,Apple,459959,Планшеты,"12,9″ - 32,77 см",128 Гб,6 ГБ,Wi-Fi + 4G,12 Mpx,7 Mpx,MY3D2
+s82,Планшет Apple iPad 10.2″ (2020) 32GB Wi-Fi (MYLA2) Silver,188990,Apple,471890,Планшеты,"10,2″ - 25,9 см",32 Гб,3 ГБ,только Wi-Fi,8 Mpx,"1,2 Mpx",MYLA2
+s83,Планшет Apple iPad Pro 11″ (2020) 128GB Wi‑Fi + Cellular (MY2W2) Silver ,543990,Apple,459996,Планшеты,"11″ - 27,94 см",128 Гб,6 ГБ,Wi-Fi + 4G,12 Mpx,7 Mpx,MY2W2
+s84,Планшет Apple iPad Pro 12.9″ (2020) 512GB Wi‑Fi + Cellular (MXF72) Space Grey,830990,Apple,460010,Планшеты,"12,9″ - 32,77 см",512 Гб,6 ГБ,Wi-Fi + 4G,12 Mpx,7 Mpx,MXF72
+s85,Планшет Apple iPad 10.2″ (2020) 128GB Wi-Fi (MYLE2) Silver ,245990,Apple,471893,Планшеты,"10,2″ - 25,9 см",128 Гб,3 ГБ,только Wi-Fi,8 Mpx,"1,2 Mpx",MYLE2
+s86,Планшет Apple iPad mini 5 256GB WI-FI + Cellular (MUXC2) Space Gray ,393790,Apple,298090,Планшеты,"7,9″ - 20,1 см",256 Гб,3 ГБ,Wi-Fi + 4G,8 Mpx,7 Mpx,(MUXC2)
+s87,Планшет Apple iPad Pro 11″ (2018) 1TB Wi-Fi + Cellular (MU1V2) Space Grey,739990,Apple,88231,Планшеты,"11″ - 27,94 см",1 Тб,4 ГБ,Wi-Fi + 4G,12 Mpx,7 Mpx,MU1V2
+s88,Планшет Apple iPad Pro 12.9″ (2020) 512GB Wi‑Fi (MXAV2) Space Grey,744990,Apple,460005,Планшеты,"12,9″ - 32,77 см",512 Гб,6 ГБ,только Wi-Fi,12 Mpx,7 Mpx,MXAV2
+s89,Планшет Apple iPad mini 5 256GB WI-FI + Cellular (MUXD2) Silver ,398990,Apple,298091,Планшеты,"7,9″ - 20,1 см",256 Гб,3 ГБ,Wi-Fi + 4G,8 Mpx,7 Mpx,(MUXD2)
+s90,Планшет Apple iPad Air 10.5″ (2019) 256GB WI-FI + Cellular (MV0P2) Silver ,379990,Apple,298079,Планшеты,"10,5″ - 26,67 см",256 Гб,3 ГБ,Wi-Fi + 4G,8 Mpx,7 Mpx,MV0P2
+s91,Планшет Apple iPad Pro 11″ (2020) 512GB Wi‑Fi (MXDE2) Space Grey,630990,Apple,459993,Планшеты,"11″ - 27,94 см",512 Гб,6 ГБ,только Wi-Fi,12 Mpx,7 Mpx,MV0P2
+s92,Планшет Apple iPad Pro 11″ (2020) 1TB Wi‑Fi (MXDG2) Space Grey,744990,Apple,459995,Планшеты,"11″ - 27,94 см",1 Тб,6 ГБ,только Wi-Fi,12 Mpx,7 Mpx,MXDG2
+s93,Планшет Apple iPad Pro 12.9″ 64GB Wi-Fi Demo (3D941) Space Grey,469990,Apple,86517,Планшеты,"12,9″ - 32,77 см",64 Гб,4 ГБ,,12 Mpx,7 Mpx,(3D941)
+s94,Планшет Apple iPad Pro 11″ (2020) 512GB Wi‑Fi (MXDF2) Silver,630990,Apple,459994,Планшеты,"11″ - 27,94 см",512 Гб,6 ГБ,только Wi-Fi,12 Mpx,7 Mpx,MXDF2
+s95,Планшет Apple iPad Pro 12.9″ (2020) 512GB Wi‑Fi (MXAW2) Silver,744990,Apple,460006,Планшеты,"12,9″ - 32,77 см",512 Гб,6 ГБ,только Wi-Fi,12 Mpx,7 Mpx,MXAW2
+s96,Планшет Samsung Galaxy Tab A7 10.4″ (SM-T505) Gold,119890,Samsung,474822,Планшеты,"10,4″ - 26.31 см",32 Гб,3 ГБ,Wi-Fi + 4G,8 Mpx,5 Mpx,(SM-T505)
+s97,"Планшет Huawei MatePad T 8"" 2/32GB",69990,Huawei,471885,Планшеты,"8″ - 20,3 см",32 Гб,2 ГБ,Wi-Fi + 4G,5 Mpx,2 Mpx,
+s98,Планшет Samsung Galaxy Tab A7 10.4″ (SM-T505) Gray,119890,Samsung,474821,Планшеты,"10,4″ - 26.31 см",32 Гб,3 ГБ,Wi-Fi + 4G,8 Mpx,5 Mpx,(SM-T505)
+s99,Планшет Prestigio Smartkids 3197 Blue,27990,Prestigio,474833,Планшеты,"7″ - 17,8 см",16 Гб,1 ГБ,только Wi-Fi,2 Mpx,"0,3 Mpx",
+s100,Планшет Prestigio MultiPad Wize 4137 4G Black,33990,Prestigio,474832,Планшеты,"7″ - 17,8 см",16 Гб,1 ГБ,Wi-Fi + 4G,2 Mpx,"0,3 Mpx",
+s101,Планшет Prestigio Smartkids 3197 Pink,27990,Prestigio,474834,Планшеты,"7″ - 17,8 см",16 Гб,1 ГБ,только Wi-Fi,2 Mpx,"0,3 Mpx",
+s102,Планшет Apple iPad Pro 11'' (2018) 256GB Wi-Fi (MTXR2) Silver,494890,Apple,390372,Планшеты,"11″ - 27,94 см",256 Гб,4 ГБ,только Wi-Fi,12 Mpx,7 Mpx,MTXR2
+s103,Планшет Apple iPad Pro 11″ (2018) 512GB Wi-Fi (MTXT2) Space Grey,512990,Apple,390373,Планшеты,"11″ - 27,94 см",512 Гб,4 ГБ,только Wi-Fi,12 Mpx,7 Mpx,MTXT2
+s104,Планшет Apple iPad Pro 11″ (2020) 256GB Wi‑Fi (MXDC2) Space Grey,515990,Apple,459991,Планшеты,"11″ - 27,94 см",256 Гб,6 ГБ,только Wi-Fi,12 Mpx,7 Mpx,MXDC2
+s105,Планшет Lenovo Tab M7 16GB (TB-7305X) Platinum Grey,49990,Lenovo,460015,Планшеты,"7″ - 17,8 см",16 Гб,1 ГБ,,2 Mpx,2 Mpx,(TB-7305X)
+s106,Планшет Apple iPad 10.2″ 128GB Wi-Fi + Cellular (MW6F2) Silver,316990,Apple,393689,Планшеты,"10,2″ - 25,9 см",128 Гб,2 ГБ,Wi-Fi + 4G,8 Mpx,"1,2 Mpx",(MW6F2)
+s107,Планшет Apple iPad Pro 12.9″ (2020) 256GB Wi‑Fi + Cellular (MXF62) Silver,716990,Apple,460009,Планшеты,"12,9″ - 32,77 см",256 Гб,6 ГБ,Wi-Fi + 4G,12 Mpx,7 Mpx,MXF62
+s108,Планшет Apple iPad Pro 12.9″ (2020) 128GB Wi‑Fi (MY2J2) Silver,572990,Apple,460002,Планшеты,"12,9″ - 32,77 см",128 Гб,6 ГБ,только Wi-Fi,12 Mpx,7 Mpx,MY2J2
+s109,Планшет Apple iPad Pro 11″ (2020) 256GB Wi‑Fi (MXDD2) Silver,515990,Apple,459992,Планшеты,"11″ - 27,94 см",256 Гб,6 ГБ,только Wi-Fi,12 Mpx,7 Mpx,MXDD2
+s110,Планшет Apple iPad 10.2″ (2020) 32GB Wi-Fi + Cellular (MYMK2) Gold,262990,Apple,471897,Планшеты,"10,2″ - 25,9 см",32 Гб,3 ГБ,Wi-Fi + 4G,8 Mpx,"1,2 Mpx",MYMK2
+s111,Планшет Apple iPad Pro 11″ (2018) 512GB WI-FI + Cellular (MU1F2) Space Gray ,679890,Apple,390378,Планшеты,"11″ - 27,94 см",512 Гб,4 ГБ,Wi-Fi + 4G,12 Mpx,7 Mpx,MU1F2
+s112,Планшет Apple iPad Pro 11″ (2020) 256GB Wi‑Fi + Cellular (MXE52) Silver ,601990,Apple,459998,Планшеты,"11″ - 27,94 см",256 Гб,6 ГБ,Wi-Fi + 4G,12 Mpx,7 Mpx,MXE52
+s113,Планшет Apple iPad 10.2″ (2020) 128GB Wi-Fi + Cellular (MYMN2) Gold ,320990,Apple,471900,Планшеты,"10,2″ - 25,9 см",128 Гб,3 ГБ,Wi-Fi + 4G,8 Mpx,"1,2 Mpx",MYMN2
+s114,Планшет Apple iPad Pro 12.9″ (2018) 256GB Wi-Fi + Cellular (MTJ62) Silver,684990,Apple,390383,Планшеты,"12,9″ - 32,77 см",256 Гб,3 ГБ,Wi-Fi + 4G,12 Mpx,7 Mpx,MTJ62
+s115,Планшет Apple iPad Pro 12.9″ (2020) 256GB Wi‑Fi (MXAU2) Silver ,630990,Apple,460004,Планшеты,"12,9″ - 32,77 см",256 Гб,6 ГБ,только Wi-Fi,12 Mpx,7 Mpx,MXAU2
+s116,Планшет Apple iPad Pro 11″ (2020) 512GB Wi‑Fi + Cellular (MXE72) Silver ,716990,Apple,460000,Планшеты,"11″ - 27,94 см",512 Гб,6 ГБ,Wi-Fi + 4G,12 Mpx,7 Mpx,MXE72
+s117,Планшет Apple iPad 10.2″ (2020) 128GB Wi-Fi + Cellular (MYMM2) Silver ,320990,Apple,471899,Планшеты,"10,2″ - 25,9 см",128 Гб,3 ГБ,Wi-Fi + 4G,8 Mpx,"1,2 Mpx",MYMM2
+s118,Планшет Apple iPad 10.2″ (2020) 32GB Wi-Fi + Cellular (MYMJ2) Silver ,262990,Apple,471896,Планшеты,"10,2″ - 25,9 см",32 Гб,3 ГБ,Wi-Fi + 4G,8 Mpx,"1,2 Mpx",MYMJ2
+s119,Планшет Lenovo Tab M10 10.1″ 2/32GB 4G Grey (TB-X306X),84990,Lenovo,474866,Планшеты,"10,1"" - 25,65 см",32 Гб,2 ГБ,Wi-Fi + 4G,8 Mpx,5 Mpx,(TB-X306X)
+s120,Планшет Lenovo Tab M8 TB-8505F 2/32GB WiFi Grey,59990,Lenovo,474864,Планшеты,"8″ - 20,3 см",32 Гб,2 ГБ,только Wi-Fi,5 Mpx,2 Mpx,
+s121,Планшет Lenovo Tab M10 10.4″ 4/128GB 4G Grey (TB-X606X),119990,Lenovo,474867,Планшеты,"10,4″ - 26.31 см",128 Гб,4 Гб + 16 Гб Optane,Wi-Fi + 4G,8 Mpx,5 Mpx,(TB-X606X)
+s122,Планшет Lenovo Tab M10 10.1″ TB-X306X 2/32GB Wi-Fi Grey,74990,Lenovo,474865,Планшеты,"10,1"" - 25,65 см",32 Гб,2 ГБ,только Wi-Fi,8 Mpx,5 Mpx,
+s123,Планшет Apple iPad Pro 12.9″ 64GB Wi-Fi Demo (3D941) Space Grey,469990,Apple,86517,Планшеты,"12,9″ - 32,77 см",64 Гб,4 ГБ,,12 Mpx,7 Mpx,(3D941)
+s124,Планшет Apple iPad Pro 11″ (2020) 512GB Wi‑Fi (MXDF2) Silver,630990,Apple,459994,Планшеты,"11″ - 27,94 см",512 Гб,6 ГБ,только Wi-Fi,12 Mpx,7 Mpx,MXDF2
+s125,Планшет Apple iPad Pro 12.9″ (2020) 512GB Wi‑Fi (MXAW2) Silver,744990,Apple,460006,Планшеты,"12,9″ - 32,77 см",512 Гб,6 ГБ,только Wi-Fi,12 Mpx,7 Mpx,MXAW2
+s126,Планшет Samsung Galaxy Tab A7 10.4″ (SM-T505) Gold,119890,Samsung,474822,Планшеты,"10,4″ - 26.31 см",32 Гб,3 ГБ,Wi-Fi + 4G,8 Mpx,5 Mpx,(SM-T505)
+s127,"Планшет Huawei MatePad T 8"" 2/32GB",69990,Huawei,471885,Планшеты,"8″ - 20,3 см",32 Гб,2 ГБ,Wi-Fi + 4G,5 Mpx,2 Mpx,
+s128,Планшет Samsung Galaxy Tab A7 10.4″ (SM-T505) Gray,119890,Samsung,474821,Планшеты,"10,4″ - 26.31 см",32 Гб,3 ГБ,Wi-Fi + 4G,8 Mpx,5 Mpx,(SM-T505)
+s129,Планшет Prestigio Smartkids 3197 Blue,27990,Prestigio,474833,Планшеты,"7″ - 17,8 см",16 Гб,1 ГБ,только Wi-Fi,2 Mpx,"0,3 Mpx",
+s130,Планшет Prestigio MultiPad Wize 4137 4G Black,33990,Prestigio,474832,Планшеты,"7″ - 17,8 см",16 Гб,1 ГБ,Wi-Fi + 4G,2 Mpx,"0,3 Mpx",
+s131,Планшет Prestigio Smartkids 3197 Pink,27990,Prestigio,474834,Планшеты,"7″ - 17,8 см",16 Гб,1 ГБ,только Wi-Fi,2 Mpx,"0,3 Mpx",MTXR2
+s132,Планшет Apple iPad Pro 11'' (2018) 256GB Wi-Fi (MTXR2) Silver,494890,Apple,390372,Планшеты,"11″ - 27,94 см",256 Гб,4 ГБ,только Wi-Fi,12 Mpx,7 Mpx,MTXT2
+s133,Планшет Apple iPad Pro 11″ (2018) 512GB Wi-Fi (MTXT2) Space Grey,512990,Apple,390373,Планшеты,"11″ - 27,94 см",512 Гб,4 ГБ,только Wi-Fi,12 Mpx,7 Mpx,MXDC2
+s134,Планшет Apple iPad Pro 11″ (2020) 256GB Wi‑Fi (MXDC2) Space Grey,515990,Apple,459991,Планшеты,"11″ - 27,94 см",256 Гб,6 ГБ,только Wi-Fi,12 Mpx,7 Mpx,MXDC2
+s135,Планшет Lenovo Tab M7 16GB (TB-7305X) Platinum Grey,49990,Lenovo,460015,Планшеты,"7″ - 17,8 см",16 Гб,1 ГБ,,2 Mpx,2 Mpx,(TB-7305X)
+s136,Планшет Apple iPad 10.2″ 128GB Wi-Fi + Cellular (MW6F2) Silver,316990,Apple,393689,Планшеты,"10,2″ - 25,9 см",128 Гб,2 ГБ,Wi-Fi + 4G,8 Mpx,"1,2 Mpx",(MW6F2)
+s137,Планшет Apple iPad Pro 12.9″ (2020) 256GB Wi‑Fi + Cellular (MXF62) Silver,716990,Apple,460009,Планшеты,"12,9″ - 32,77 см",256 Гб,6 ГБ,Wi-Fi + 4G,12 Mpx,7 Mpx,MXF62
+s138,Планшет Apple iPad Pro 12.9″ (2020) 128GB Wi‑Fi (MY2J2) Silver,572990,Apple,460002,Планшеты,"12,9″ - 32,77 см",128 Гб,6 ГБ,только Wi-Fi,12 Mpx,7 Mpx,MY2J2
+s139,Планшет Apple iPad Pro 11″ (2020) 256GB Wi‑Fi (MXDD2) Silver,515990,Apple,459992,Планшеты,"11″ - 27,94 см",256 Гб,6 ГБ,только Wi-Fi,12 Mpx,7 Mpx,MXDD2
+s140,Планшет Apple iPad 10.2″ (2020) 32GB Wi-Fi + Cellular (MYMK2) Gold,262990,Apple,471897,Планшеты,"10,2″ - 25,9 см",32 Гб,3 ГБ,Wi-Fi + 4G,8 Mpx,"1,2 Mpx",MYMK2
+s141,Планшет Apple iPad Pro 11″ (2018) 512GB WI-FI + Cellular (MU1F2) Space Gray ,679890,Apple,390378,Планшеты,"11″ - 27,94 см",512 Гб,4 ГБ,Wi-Fi + 4G,12 Mpx,7 Mpx,MU1F2
+s142,Планшет Apple iPad Pro 11″ (2020) 256GB Wi‑Fi + Cellular (MXE52) Silver ,601990,Apple,459998,Планшеты,"11″ - 27,94 см",256 Гб,6 ГБ,Wi-Fi + 4G,12 Mpx,7 Mpx,MXE52
+s143,Планшет Apple iPad 10.2″ (2020) 128GB Wi-Fi + Cellular (MYMN2) Gold ,320990,Apple,471900,Планшеты,"10,2″ - 25,9 см",128 Гб,3 ГБ,Wi-Fi + 4G,8 Mpx,"1,2 Mpx",MYMN2
+s144,Планшет Apple iPad Pro 12.9″ (2018) 256GB Wi-Fi + Cellular (MTJ62) Silver,684990,Apple,390383,Планшеты,"12,9″ - 32,77 см",256 Гб,3 ГБ,Wi-Fi + 4G,12 Mpx,7 Mpx,MTJ62
+s145,Планшет Apple iPad Pro 12.9″ (2020) 256GB Wi‑Fi (MXAU2) Silver ,630990,Apple,460004,Планшеты,"12,9″ - 32,77 см",256 Гб,6 ГБ,только Wi-Fi,12 Mpx,7 Mpx,MXAU2
+s146,Планшет Apple iPad Pro 11″ (2020) 512GB Wi‑Fi + Cellular (MXE72) Silver ,716990,Apple,460000,Планшеты,"11″ - 27,94 см",512 Гб,6 ГБ,Wi-Fi + 4G,12 Mpx,7 Mpx,MXE72
+s147,Планшет Apple iPad 10.2″ (2020) 128GB Wi-Fi + Cellular (MYMM2) Silver ,320990,Apple,471899,Планшеты,"10,2″ - 25,9 см",128 Гб,3 ГБ,Wi-Fi + 4G,8 Mpx,"1,2 Mpx",MYMM2
+s148,Планшет Apple iPad 10.2″ (2020) 32GB Wi-Fi + Cellular (MYMJ2) Silver ,262990,Apple,471896,Планшеты,"10,2″ - 25,9 см",32 Гб,3 ГБ,Wi-Fi + 4G,8 Mpx,"1,2 Mpx",MYMJ2
+s149,Планшет Lenovo Tab M10 10.1″ 2/32GB 4G Grey (TB-X306X),84990,Lenovo,474866,Планшеты,"10,1"" - 25,65 см",32 Гб,2 ГБ,Wi-Fi + 4G,8 Mpx,5 Mpx,(TB-X306X)
+s150,Планшет Lenovo Tab M8 TB-8505F 2/32GB WiFi Grey,59990,Lenovo,474864,Планшеты,"8″ - 20,3 см",32 Гб,2 ГБ,только Wi-Fi,5 Mpx,2 Mpx,
+s151,Планшет Lenovo Tab M10 10.4″ 4/128GB 4G Grey (TB-X606X),119990,Lenovo,474867,Планшеты,"10,4″ - 26.31 см",128 Гб,4 Гб + 16 Гб Optane,Wi-Fi + 4G,8 Mpx,5 Mpx,(TB-X606X)
+s152,Планшет Lenovo Tab M10 10.1″ TB-X306X 2/32GB Wi-Fi Grey,74990,Lenovo,474865,Планшеты,"10,1"" - 25,65 см",32 Гб,2 ГБ,только Wi-Fi,8 Mpx,5 Mpx,
