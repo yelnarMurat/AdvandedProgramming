@@ -1,0 +1,445 @@
+id,title,price,brand,size,volume,main_camera,front_camera
+s1,Смартфон Samsung Galaxy Note 20 Gray,479890,Samsung,"6,7″ - 170,2 мм",256 Гб,64 Mpx + 12 Mpx + 12 Mpx,10 Mpx
+s2,Смартфон Huawei P40 Lite E Midnight Black,89890,Huawei,"6,39″ - 16,2 см",64 Гб,48 Мп + 8 Мп + 2 Мп,8 Mpx
+s3,Смартфон Samsung Galaxy A51 128GB Black,129890,Samsung,"6,5″ - 16,51 см",128 Гб,48.0 Mpx + 12.0 Mpx  + 5.0 Mpx  + 5.0 Mpx,32 Mpx
+s4,Смартфон Samsung Galaxy A71 Black,149890,Samsung,"6,7″ - 170,2 мм",128 Гб,64 Mpx + 12 Mpx + 5 Mpx+ 5 Mpx,32 Mpx
+s5,Смартфон Samsung Galaxy A10 32GB Black,54890,Samsung,"6,2″ - 15,8 см",32 Гб,13 Mpx,5 Mpx
+s6,Смартфон Apple iPhone 11 64GB Black,368090,Apple,"6,1″ - 15,5 см",64 Гб,12 Mpx + 12 Mpx,12 Mpx
+s7,Смартфон Samsung Galaxy S20 Ultra Gray,539890,Samsung,"6,9″ - 175,26 мм",128 Гб,108 Mpx + 48 Mpx + 12 Mpx,40 Mpx
+s8,Смартфон Samsung Galaxy S10 128GB Black,239890,Samsung,"6,1″ - 15,5 см",128 Гб,16 Mp x 12 Mp x 12 Mp,10 Mpx
+s9,Смартфон Samsung Galaxy Note 20 Ultra Black,589890,Samsung,"6,9″ - 175,26 мм",256 Гб,108Mpx + 12Mpx + 12Mpx,10 Mpx
+s10,Смартфон Samsung Galaxy S20 Blue,389890,Samsung,"6,2″ - 15,8 см",128 Гб,64 Mpx + 12 Mpx + 12 Mpx,10 Mpx
+s11,Смартфон ОРРО A5 2020 Dazzling White,79990,OPPO,"6,5″ - 16,51 см",64 Гб,12 Mpx + 12 Mpx,8 Mpx
+s12,Смартфон OPPO A1k 32GB Black,54990,OPPO,"6,1″ - 15,5 см",32 Гб,8 Mpx,5 Mpx
+s13,Смартфон Huawei Y6 2019 32GB Midnight Black,59890,Huawei,"6″ - 15,2 см",32 Гб,13 Mpx,8 Mpx
+s14,Смартфон Samsung Galaxy S20+ Black,449890,Samsung,"6,7″ - 170,2 мм",128 Гб,64 Mpx + 12 Mpx + 12 Mpx,10 Mpx
+s15,Смартфон Huawei P Smart 2019 Midnight Black,79890,Huawei,"6,21″ - 15,7 см",32 Гб,13 Mpx + 2 Mpx,16 Mpx
+s16,Смартфон Apple iPhone 11 Pro 64GB Space Grey,524190,Apple,"5,8″ - 14,7 см",64 Гб,12 Mpx + 12 Mpx + 12 Mpx,12 Mpx
+s17,Смартфон ОPPO A5s Red,67990,OPPO,"6,2″ - 15,8 см",32 Гб,13 Mpx + 2 Mpx,8 Mpx
+s18,Смартфон Huawei P Smart Z 64GB Midnight Black,99890,Huawei,"6,59″ - 16,74 см",64 Гб,16 Mpx + 2 Mpx,16 Mpx
+s19,Смартфон Huawei Mate 30 Pro Space Silver,449890,Huawei,"6,53″ - 16,59 см",256 Гб,40 Mpx+ 40 Mpx + 8 Mpx,32 Mpx
+s20,Смартфон Samsung Galaxy S10+ 128GB Black,229490,Samsung,"6,4″ - 16,3 см",128 Гб,12 Mpx + 16 Mpx + 12 Mpx,10 Mpx + 8 Mpx
+s21,Смартфон ОРРО A9 2020 Marine Green,119990,OPPO,"6,5″ - 16,51 см",128 Гб,48 Mpx + 8 Mpx + 2 Mpx,16 Mpx
+s22,Смартфон Huawei Y5 2019 32GB Modern Black,54890,Huawei,"5,71″ - 14,5 см",32 Гб,13 Mpx,5 Mpx
+s23,Смартфон Apple iPhone 11 Pro Max 64GB Midnight Green,568990,Apple,"6,5″ - 16,51 см",64 Гб,12 Mpx + 12 Mpx + 12 Mpx,12 Mpx
+s24,Смартфон Huawei Y7 2019 32GB Midnight Black,69890,Huawei,"6,26″ - 15,9 см",32 Гб,13 Mpx + 2 Mpx,8 Mpx
+s25,Смартфон Huawei P30 Pro Breathing Crystal,349890,Huawei,"6,5″ - 16,51 см",256 Гб,40 Mpx+20 Mpx+8 Mpx,32 Mpx
+s26,Смартфон Huawei P30 Aurora,249890,Huawei,"6,1″ - 15,5 см",128 Гб,40 Mpx + 16 Mpx + 8 Mpx,32 Mpx
+s27,Смартфон Samsung Galaxy S20 Gray,389890,Samsung,"6,2″ - 15,8 см",128 Гб,64 Mpx + 12 Mpx + 12 Mpx,10 Mpx
+s28,Смартфон Huawei P30 Lite 128GB Midnight Black,109890,Huawei,"6,1″ - 15,5 см",128 Гб,24 Mpx + 8 Mpx + 2 Mpx,32 Mpx
+s29,Смартфон Samsung Galaxy S20 Red,389890,Samsung,"6,2″ - 15,8 см",128 Гб,64 Mpx + 12 Mpx + 12 Mpx,10 Mpx
+s30,Смартфон Samsung Galaxy S20+ Gray,449890,Samsung,"6,7″ - 170,2 мм",128 Гб,64 Mpx + 12 Mpx + 12 Mpx,10 Mpx
+s31,Смартфон Samsung Galaxy S20+ Blue,449890,Samsung,"6,7″ - 170,2 мм",128 Гб,64 Mpx + 12 Mpx + 12 Mpx,10 Mpx
+s32,Смартфон Samsung Galaxy S20+ Red,449890,Samsung,"6,7″ - 170,2 мм",128 Гб,64 Mpx + 12 Mpx + 12 Mpx,10 Mpx
+s33,Смартфон Samsung Galaxy S20 Ultra Black,539890,Samsung,"6,9″ - 175,26 мм",128 Гб,108 Mpx + 48 Mpx + 12 Mpx,40 Mpx
+s34,Смартфон Samsung Galaxy S20 Ultra White,539890,Samsung,"6,9″ - 175,26 мм",128 Гб,108 Mpx + 48 Mpx + 12 Mpx,40 Mpx
+s35,Смартфон Samsung Galaxy A51 64GB Black,109890,Samsung,"6,5″ - 16,51 см",64 Гб,48.0 Mpx + 12.0 Mpx  + 5.0 Mpx  + 5.0 Mpx,32 Mpx
+s36,Смартфон Samsung Galaxy A51 128GB Blue,129890,Samsung,"6,5″ - 16,51 см",128 Гб,48.0 Mpx + 12.0 Mpx  + 5.0 Mpx  + 5.0 Mpx,32 Mpx
+s37,Смартфон Samsung Galaxy A51 64GB Blue,109890,Samsung,"6,5″ - 16,51 см",64 Гб,48.0 Mpx + 12.0 Mpx  + 5.0 Mpx  + 5.0 Mpx,32 Mpx
+s38,Смартфон Samsung Galaxy A51 128GB White,129890,Samsung,"6,5″ - 16,51 см",128 Гб,48.0 Mpx + 12.0 Mpx  + 5.0 Mpx  + 5.0 Mpx,32 Mpx
+s39,Смартфон Samsung Galaxy A51 64GB White,109890,Samsung,"6,5″ - 16,51 см",64 Гб,48.0 Mpx + 12.0 Mpx  + 5.0 Mpx  + 5.0 Mpx,32 Mpx
+s40,Смартфон Huawei P40 Lite E Aurora Blue,89890,Huawei,"6,39″ - 16,2 см",64 Гб,48 Мп + 8 Мп + 2 Мп,8 Mpx
+s41,Смартфон Huawei P40 Lite Sakura Pink,129890,Huawei,"6,4″ - 16,3 см",128 Гб,48 Мп + 8 Мп + 2 Мп + 2 Мп,16 Mpx
+s42,Смартфон Apple iPhone 7 32GB Black ,183090,Apple,"4,7″ - 11,9 см",32 Гб,12 Mpx,7 Mpx
+s43,Смартфон Apple iPhone 7 32GB Gold,183090,Apple,"4,7″ - 11,9 см",32 Гб,12 Mpx,7 Mpx
+s44,Смартфон Apple iPhone 7 Plus 32GB Black,199890,Apple,"5,5″ - 14 см",32 Гб,12 Mpx,7 Mpx
+s45,Смартфон Xiaomi Redmi Note 8 4/64GB Space Black,79990,Xiaomi,"6,3″ - 16 см",64 Гб,48 Mpx + 8 Mpx + 2 Mpx + 2 Mpx,13 Mpx
+s46,Смартфон Apple iPhone SE 64GB 2020 Black,238190,Apple,"4,7″ - 11,9 см",64 Гб,12 Mpx,7 Mpx
+s47,Смартфон Apple iPhone 7 32GB Silver,183990,Apple,"4,7″ - 11,9 см",32 Гб,12 Mpx,7 Mpx
+s48,Смартфон Apple iPhone X 64GB Silver,299990,Apple,"5,8″ - 14,7 см",64 Гб,12 Mpx + 12 Mpx,7 Mpx
+s49,Смартфон Samsung Galaxy S10 Lite Black,179890,Samsung,"6,7″ - 170,2 мм",128 Гб,48 Mpx + 12 Mpx + 5 Mpx,32 Mpx
+s50,Смартфон Xiaomi Redmi 9A 2/32GB Sky Blue,47990,Xiaomi,"6,53″ - 16,59 см",32 Гб,13 Mpx,5 Mpx
+s51,Смартфон Samsung Galaxy A10 32GB Blue,54890,Samsung,"6,2″ - 15,8 см",32 Гб,13 Mpx,5 Mpx
+s52,Смартфон Samsung Galaxy A71 Silver,149890,Samsung,"6,7″ - 170,2 мм",128 Гб,64 Mpx + 12 Mpx + 5 Mpx+ 5 Mpx,32 Mpx
+s53,Смартфон Samsung Galaxy A20s 32GB Red,69890,Samsung,"6,5″ - 16,51 см",32 Гб,13 Mpx + 8 Mpx + 5 Mpx,8 Mpx
+s54,Смартфон Apple iPhone 11 128GB Black,397990,Apple,"6,1″ - 15,5 см",128 Гб,12 Mpx + 12 Mpx,12 Mpx
+s55,Смартфон Samsung Galaxy A31 White,89890,Samsung,"6,4″ - 16,3 см",64 Гб,48 Mpx + 8 Mpx + 5 Mpx + 5 Mpx,20 Mpx
+s56,Смартфон Vivo Y91C Ocean Blue,54990,Vivo,"6,2″ - 15,8 см",32 Гб,13 Mpx,5 Mpx
+s57,Смартфон Apple iPhone XR 64GB Black,329890,Apple,"6,1″ - 15,5 см",64 Гб,12 Mpx,7 Mpx
+s58,Смартфон Samsung Galaxy A21s White,69890,Samsung,"6,5″ - 16,51 см",32 Гб,48 Мп + 8 Мп + 2 Мп + 2 Мп,13 Mpx
+s59,Смартфон Xiaomi Redmi Note 9 Pro 6/128GB Interstellar Grey,129990,Xiaomi,"6,67"" - 16,94 см",128 Гб,64 Mpx + 8 Mpx + 5 Mpx + 2 Mpx,16 Mpx
+s60,Смартфон Apple iPhone 11 64GB Green,368090,Apple,"6,1″ - 15,5 см",64 Гб,12 Mpx + 12 Mpx,12 Mpx
+s61,Смартфон Apple iPhone XR 64GB (PRODUCT) RED,329890,Apple,"6,1″ - 15,5 см",64 Гб,12 Mpx,7 Mpx
+s62,Смартфон Samsung Galaxy A10 32GB Red,54890,Samsung,"6,2″ - 15,8 см",32 Гб,13 Mpx,5 Mpx
+s63,Смартфон Apple iPhone XS 64GB Gold,329890,Apple,"5,8″ - 14,7 см",64 Гб,12 Mpx + 12 Mpx,7 Mpx
+s64,Смартфон Samsung Galaxy A21s Black,69890,Samsung,"6,5″ - 16,51 см",32 Гб,48 Мп + 8 Мп + 2 Мп + 2 Мп,13 Mpx
+s65,Смартфон Samsung Galaxy A01 Blue ,44890,Samsung,"5,7″ - 14,48 см",16 Гб,13 Mpx + 2 Mpx,5 Mpx
+s66,Смартфон Apple iPhone XS 64GB Space Grey,329890,Apple,"5,8″ - 14,7 см",64 Гб,12 Mpx + 12 Mpx,7 Mpx
+s67,Смартфон Apple iPhone 11 64GB Purple,368090,Apple,"6,1″ - 15,5 см",64 Гб,12 Mpx + 12 Mpx,12 Mpx
+s68,Смартфон Samsung Galaxy A20s 32GB Black,59890,Samsung,"6,5″ - 16,51 см",32 Гб,13 Mpx + 8 Mpx + 5 Mpx,8 Mpx
+s69,Смартфон Samsung Galaxy S10 128GB White,239890,Samsung,"6,1″ - 15,5 см",128 Гб,12 Mpx + 16 Mpx + 12 Mpx,10 Mpx
+s70,Смартфон Samsung Galaxy Z Fold 2 Black,999890,Samsung,"7,6″ - 177,8 мм",256 Гб,12 Mpx + 12 Mpx + 12 Mpx,10 Mpx
+s71,Смартфон Samsung Galaxy A31 Blue ,89890,Samsung,"6,4″ - 16,3 см",64 Гб,48 Mpx + 8 Mpx + 5 Mpx + 5 Mpx,20 Mpx
+s72,Смартфон Apple iPhone 6s 64GB Space Grey CPO,119890,Apple,"4,7″ - 11,9 см",64 Гб,12 Mpx,5 Mpx
+s73,Смартфон Samsung Galaxy A11 Black,59890,Samsung,"6,4″ - 16,3 см",32 Гб,13 Mpx + 5 Mpx + 2 Mpx,8 Mpx
+s74,Смартфон Xiaomi Redmi Note 9S 4/64GB Interstellar Grey,99990,Xiaomi,"6,7″ - 170,2 мм",64 Гб,48 Mpx + 8 Mpx + 5 Mpx + 2 Mpx,16 Mpx
+s75,Смартфон Apple iPhone 11 64GB White,368090,Apple,"6,1″ - 15,5 см",64 Гб,12 Mpx + 12 Mpx,12 Mpx
+s76,Смартфон Samsung Galaxy A01 Black,44890,Samsung,"5,7″ - 14,48 см",16 Гб,13 Mpx + 2 Mpx,5 Mpx
+s77,Смартфон Apple iPhone 7 Plus 32GB Silver,199890,Apple,"5,5″ - 14 см",32 Гб,12 Mpx,7 Mpx
+s78,Смартфон Xiaomi Redmi Note 9S 6/128GB Interstellar Grey,109990,Xiaomi,"6,7″ - 170,2 мм",128 Гб,48 Mpx + 8 Mpx + 5 Mpx + 2 Mpx,16 Mpx
+s79,Смартфон Samsung Galaxy A01 Red,44890,Samsung,"5,7″ - 14,48 см",16 Гб,13 Mpx + 2 Mpx,5 Mpx
+s80,Смартфон Huawei P30 Lite 128GB Peacock Blue,109890,Huawei,"6,1″ - 15,5 см",128 Гб,24 Mpx + 8 Mpx + 2 Mpx,32 Mpx
+s81,Смартфон Xiaomi Redmi Note 9S 6/128GB Aurora Blue,109990,Xiaomi,"6,7″ - 170,2 мм",128 Гб,48 Mpx + 8 Mpx + 5 Mpx + 2 Mpx,16 Mpx
+s82,Смартфон Samsung Galaxy A31 Black,89890,Samsung,"6,4″ - 16,3 см",64 Гб,48 Mpx + 8 Mpx + 5 Mpx + 5 Mpx,20 Mpx
+s83,Смартфон Xiaomi Redmi 9 3/32GB Carbon Grey,69990,Xiaomi,"6,53″ - 16,59 см",32 Гб,13Mpx + 8Mpx + 5Mpx + 2Mpx,8 Mpx
+s84,Смартфон Apple iPhone 11 Pro 64GB Midnight Green,524190,Apple,"5,8″ - 14,7 см",64 Гб,12 Mpx + 12 Mpx + 12 Mpx,12 Mpx
+s85,Смартфон Vivo Y12 Burgundy Red,74990,Vivo,"6,35"" - 16,1 см",64 Гб,13 Mpx + 8 Mpx + 2 Mpx,8 Mpx
+s86,Смартфон Apple iPhone SE 128GB 2020 Black,268290,Apple,"4,7″ - 11,9 см",128 Гб,12 Mpx,7 Mpx
+s87,Смартфон Xiaomi Redmi Note 9S 4/64GB Aurora Blue,99990,Xiaomi,"6,7″ - 170,2 мм",64 Гб,48 Mpx + 8 Mpx + 5 Mpx + 2 Mpx,16 Mpx
+s88,Смартфон OPPO A5s Blue,59990,OPPO,"6,2″ - 15,8 см",32 Гб,13 Mpx + 2 Mpx,8 Mpx
+s89,Смартфон Samsung Galaxy A50 64GB White,74890,Samsung,"6,4″ - 16,3 см",64 Гб,25 Mpx + 5 Mpx + 8 Mpx,25 Mpx
+s90,Смартфон Samsung Galaxy A41 Black,99890,Samsung,"6,1″ - 15,5 см",64 Гб,48 Mpx + 8 Mpx + 5 Mpx,25 Mpx
+s91,Смартфон Xiaomi Redmi 9A 2/32GB Granite Gray,47990,Xiaomi,"6,53″ - 16,59 см",32 Гб,13 Mpx,5 Mpx
+s92,Смартфон Xiaomi Redmi Note 9 Pro 6/64GB Interstellar Grey,119990,Xiaomi,"6,67"" - 16,94 см",64 Гб,64 Mpx + 8 Mpx + 5 Mpx + 2 Mpx,16 Mpx
+s93,Смартфон ОPPO A5s Black,67990,OPPO,"6,2″ - 15,8 см",32 Гб,13 Mpx + 2 Mpx,8 Mpx
+s94,Смартфон Apple iPhone 7 Jet Black 32GB,184390,Apple,"4,7″ - 11,9 см",32 Гб,12 Mpx,7 Mpx
+s95,Смартфон Xiaomi Redmi Note 9 3/64GB Polar White,89990,Xiaomi,"6,53″ - 16,59 см",64 Гб,48 Мп + 8 Мп + 2 Мп + 2 Мп,13 Мп
+s96,Смартфон Xiaomi Redmi 9A 2/32GB Peacock Green,47990,Xiaomi,"6,53″ - 16,59 см",32 Гб,13 Mpx,5 Mpx
+s97,Смартфон Xiaomi Redmi Note 9 3/64GB Midnight Grey,89990,Xiaomi,"6,53″ - 16,59 см",64 Гб,48 Мп + 8 Мп + 2 Мп + 2 Мп,13 Мп
+s98,Смартфон Xiaomi Redmi Note 9 Pro 6/64GB Tropical Green,119990,Xiaomi,"6,67"" - 16,94 см",64 Гб,64 Mpx + 8 Mpx + 5 Mpx + 2 Mpx,16 Mpx
+s99,Смартфон Samsung Galaxy A21s Red,69890,Samsung,"6,5″ - 16,51 см",32 Гб,48 Мп + 8 Мп + 2 Мп + 2 Мп,13 Mpx
+s100,Смартфон Xiaomi Redmi 9 4/64GB Carbon Grey,74990,Xiaomi,"6,53″ - 16,59 см",64 Гб,13Mpx + 8Mpx + 5Mpx + 2Mpx,8 Mpx
+s101,Смартфон Samsung Galaxy Z Flip Mirror Black,359890,Samsung,"6,7″ - 170,2 мм",256 Гб,12 Mpx + 12 Mpx,10 Mpx
+s102,Смартфон Apple iPhone 11 128GB White,397990,Apple,"6,1″ - 15,5 см",128 Гб,12 Mpx + 12 Mpx,12 Mpx
+s103,Смартфон Samsung Galaxy S10 Lite White,179890,Samsung,"6,7″ - 170,2 мм",128 Гб,48 Mpx + 12 Mpx + 5 Mpx,32 Mpx
+s104,Смартфон Apple iPhone XR 64GB White,329890,Apple,"6,1″ - 15,5 см",64 Гб,12 Mpx,7 Mpx
+s105,Смартфон Xiaomi Redmi Note 9 4/128GB Forest Green,99990,Xiaomi,"6,53″ - 16,59 см",128 Гб,48 Мп + 8 Мп + 2 Мп + 2 Мп,13 Мп
+s106,Смартфон OPPO A1k 32GB Red,54990,OPPO,"6,1″ - 15,5 см",32 Гб,8 Mpx,5 Mpx
+s107,Смартфон Apple iPhone 11 Pro 64GB Gold,524190,Apple,"5,8″ - 14,7 см",64 Гб,12 Mpx + 12 Mpx + 12 Mpx,12 Mpx
+s108,Смартфон OPPO Reno 256GB Jet Black,119990,OPPO,"6,4″ - 16,3 см",256 Гб,48 Mpx + 5 Mpx,16 Mpx
+s109,Смартфон Huawei Y5 Lite 16GB Modern Black ,39890,Huawei,"5,45″ - 13,8 см",16 Гб,8 Mpx,5 Mpx
+s110,Смартфон Samsung Galaxy S20+ BTS Edition,419890,Samsung,"6,7″ - 170,2 мм",128 Гб,64 Mpx + 12 Mpx + 12 Mpx,10 Mpx
+s111,Смартфон Vivo Y12 Aqua blue,74990,Vivo,"6,35"" - 16,1 см",64 Гб,13 Mpx + 8 Mpx + 2 Mpx,8 Mpx
+s112,Смартфон Apple iPhone SE 64GB 2020 White,238190,Apple,"4,7″ - 11,9 см",64 Гб,12 Mpx,7 Mpx
+s113,Смартфон Apple iPhone 11 128GB Purple,399090,Apple,"6,1″ - 15,5 см",128 Гб,12 Mpx + 12 Mpx,12 Mpx
+s114,Смартфон Samsung Galaxy S10 Lite Blue,179890,Samsung,"6,7″ - 170,2 мм",128 Гб,48 Mpx + 12 Mpx + 5 Mpx,32 Mpx
+s115,Смартфон Apple iPhone 11 Pro 256GB Space Grey,598990,Apple,"5,8″ - 14,7 см",256 Гб,12 Mpx + 12 Mpx + 12 Mpx,12 Mpx
+s116,Смартфон Apple iPhone XR 128GB Black,359890,Apple,"6,1″ - 15,5 см",128 Гб,12 Mpx,7 Mpx
+s117,Смартфон ОРРО A9 2020 Space Purple,119990,OPPO,"6,5″ - 16,51 см",128 Гб,48 Mpx + 8 Mpx + 2 Mpx,16 Mpx
+s118,Смартфон Xiaomi Redmi Note 9 4/128GB Polar White,99990,Xiaomi,"6,53″ - 16,59 см",128 Гб,48 Мп + 8 Мп + 2 Мп + 2 Мп,13 Мп
+s119,Смартфон Xiaomi Redmi Note 9S 4/64GB Glacier White,99990,Xiaomi,"6,7″ - 170,2 мм",64 Гб,48 Mpx + 8 Mpx + 5 Mpx + 2 Mpx,16 Mpx
+s120,Смартфон Vivo V17 Knight Black,129990,Vivo,"6,38″ - 16.21 см",128 Гб,48 Mpx + 8 Mpx + 2 Mpx + 2 Mpx,32 Mpx
+s121,Смартфон Apple iPhone 6s 64GB Rose Gold CPO,119890,Apple,"4,7″ - 11,9 см",64 Гб,12 Mpx,5 Mpx
+s122,Смартфон Huawei P Smart 2019 Aurora Blue,79890,Huawei,"6,21″ - 15,7 см",32 Гб,13 Mpx + 2 Mpx,12 Mpx + 12 Mpx + 16 Mpx
+s123,Смартфон Xiaomi Redmi Note 9S 6/128GB Glacier White,109990,Xiaomi,"6,7″ - 170,2 мм",128 Гб,48 Mpx + 8 Mpx + 5 Mpx + 2 Mpx,16 Mpx
+s124,Смартфон Apple iPhone 11 64GB (PRODUCT) RED ,368090,Apple,"6,1″ - 15,5 см",64 Гб,12 Mpx + 12 Mpx,12 Mpx
+s125,Смартфон Vivo Y91C Fusion Black,54990,Vivo,"6,2″ - 15,8 см",32 Гб,13 Mpx,5 Mpx
+s126,Смартфон Huawei Y5P Phantom Blue,44890,Huawei,"5,45″ - 13,8 см",32 Гб,8 Mpx,5 Mpx
+s127,Смартфон Xiaomi Redmi 9 4/64GB Sunset Purple,74990,Xiaomi,"6,53″ - 16,59 см",64 Гб,13Mpx + 8Mpx + 5Mpx + 2Mpx,8 Mpx
+s128,Смартфон Samsung Galaxy S10+ 128GB White,269890,Samsung,"6,4″ - 16,3 см",128 Гб,12 Mpx + 16 Mpx + 12 Mpx,10 Mpx + 8 Mpx
+s129,Смартфон Huawei Y7 2019 32GB Aurora Blue,69890,Huawei,"6,26″ - 15,9 см",32 Гб,13 Mpx + 2 Mpx,8 Mpx
+s130,Смартфон Xiaomi Redmi 9 4/64GB Ocean Green,74990,Xiaomi,"6,53″ - 16,59 см",64 Гб,13Mpx + 8Mpx + 5Mpx + 2Mpx,8 Mpx
+s131,Смартфон Huawei P40 Lite Midnight Crush Green,129890,Huawei,"6,4″ - 16,3 см",128 Гб,48 Мп + 8 Мп + 2 Мп + 2 Мп,16 Mpx
+s132,Смартфон Bravis A505 Joy Plus Deep blue,29990,Bravis,"5″ - 12,7 см",8 Гб,8 Mpx,8 Mpx
+s133,Смартфон Apple iPhone 6s Plus 32GB Space Gray CPO,109890,Apple,"5,5″ - 14 см",32 Гб,12 Mpx,5 Mpx
+s134,Смартфон ОРРО A5 2020 Mirror Black,79990,OPPO,"6,5″ - 16,51 см",64 Гб,12 Mpx,8 Mpx
+s135,Смартфон Apple iPhone XS 256GB Space Grey,389890,Apple,"5,8″ - 14,7 см",256 Гб,12 Mpx + 12 Mpx,7 Mpx
+s136,Смартфон Samsung Galaxy A30s 32GB Green,69890,Samsung,"6,4″ - 16,3 см",32 Гб,25 Mpx + 5 Mpx + 8 Mpx,16 Mpx
+s137,Смартфон Xiaomi Redmi Note 9 4/128GB Midnight Grey,99990,Xiaomi,"6,53″ - 16,59 см",128 Гб,48 Мп + 8 Мп + 2 Мп + 2 Мп,13 Мп
+s138,Смартфон Apple iPhone 7 32GB Rose Gold,183090,Apple,"4,7″ - 11,9 см",32 Гб,12 Mpx,7 Mpx
+s139,Смартфон Prestigio Wize YA3 Black,15890,Prestigio,"4″ - 10,1 см",8 Гб,2 Mpx,2 Mpx
+s140,Смартфон Huawei Y6 2019 32GB Sapphire Blue,59890,Huawei,"6″ - 15,2 см",32 Гб,13 Mpx,8 Mpx
+s141,Смартфон Xiaomi Redmi Note 9 3/64GB Forest Green,89990,Xiaomi,"6,53″ - 16,59 см",64 Гб,48 Мп + 8 Мп + 2 Мп + 2 Мп,13 Мп
+s142,Смартфон Apple iPhone SE 64GB 2020 (PRODUCT)RED,238190,Apple,"4,7″ - 11,9 см",64 Гб,12 Mpx,7 Mpx
+s143,Смартфон Samsung Galaxy S20 FE 6/128GB Blue,329890,Samsung,"6,5″ - 16,51 см",128 Гб,12 Mpx + 12 Mpx + 8 Mpx,32 Mpx
+s144,Смартфон Huawei P30 Lite 256GB Midnight Black,149890,Huawei,"6,15″ - 15,62 см",256 Гб,48 Mpx + 8 Mpx + 2 Mpx,32 Mpx
+s145,Смартфон Xiaomi Mi 10 8/256GB Coral Green,359990,Xiaomi,"6,67"" - 16,94 см",256 Гб,108Mpx + 2Mpx + 2Mpx + 13Mpx,20 Mpx
+s146,Смартфон Vivo Y19 Magnetic Black,89990,Vivo,"6,53″ - 16,59 см",128 Гб,16 Mpx + 8 Mpx + 2 Mpx,16 Mpx
+s147,Смартфон Samsung Galaxy A01 Core 1/16GB Blue,34890,Samsung,"5,14″ - 13,05 см",16 Гб,8 Mpx,5 Mpx
+s148,Смартфон Huawei Nova 5T Midsummer purple,179890,Huawei,"6,26″ - 15,9 см",128 Гб,48 Mpx + 16 Mpx + 2 Mpx + 2Mpx,32 Mpx
+s149,Смартфон Apple iPhone 11 128GB Green,397990,Apple,"6,1″ - 15,5 см",128 Гб,12 Mpx + 12 Mpx,12 Mpx
+s150,Смартфон Xiaomi Redmi Note 9 3/64GB Onyx Black,89990,Xiaomi,"6,53″ - 16,59 см",64 Гб,48 Мп + 8 Мп + 2 Мп + 2 Мп,13 Мп
+s151,Смартфон Apple iPhone 11 Pro Max 64GB Gold,568990,Apple,"6,5″ - 16,51 см",64 Гб,12 Mpx + 12 Mpx + 12 Mpx,12 Mpx
+s152,Смартфон Xiaomi Redmi Note 9 Pro 6/64GB Glacier White,119990,Xiaomi,"6,67"" - 16,94 см",64 Гб,64 Mpx + 8 Mpx + 5 Mpx + 2 Mpx,16 Mpx
+s153,Смартфон Samsung Galaxy S10+ 8/128GB Ceramic Black ,269890,Samsung,"6,4″ - 16,3 см",128 Гб,12 Mpx + 16 Mpx + 12 Mpx,10 Mpx + 8 Mpx
+s154,Смартфон Huawei Y5 Lite 16GB Amber Brown,39890,Huawei,"5,45″ - 13,8 см",16 Гб,8 Mpx,5 Mpx
+s155,Смартфон Xiaomi Redmi Note 9 4/128GB Onyx Black,99990,Xiaomi,"6,53″ - 16,59 см",128 Гб,48 Мп + 8 Мп + 2 Мп + 2 Мп,13 Мп
+s156,Смартфон Huawei Y5 2019 32GB Saphire Blue,54890,Huawei,"5,71″ - 14,5 см",32 Гб,13 Mpx,5 Mpx
+s157,Смартфон Huawei P Smart Z 64GB Saphire Blue,99890,Huawei,"6,15″ - 15,62 см",64 Гб,16 Mpx + 2 Mpx,16 Mpx
+s158,Смартфон Apple iPhone 11 Pro 256GB Midnight Green,598990,Apple,"5,8″ - 14,7 см",256 Гб,12 Mpx + 12 Mpx + 12 Mpx,12 Mpx
+s159,Смартфон Xiaomi Mi Note 10 Lite 6/128GB Midnight Black,179990,Xiaomi,"6,47″ - 16,43 см",128 Гб,64 Mpx + 8 Mpx + 5 Mpx + 2 Mpx,16 Mpx
+s160,Смартфон Samsung Galaxy A01 Core 1/16GB Black,34890,Samsung,"5,14″ - 13,05 см",16 Гб,8 Mpx,5 Mpx
+s161,Смартфон Huawei Y9S Breathing Crystal,129890,Huawei,"6,59″ - 16,74 см",128 Гб,48 Mpx + 8 Mpx + 2 Mpx,16 Mpx
+s162,Смартфон Samsung Galaxy A41 White,99890,Samsung,"6,1″ - 15,5 см",64 Гб,48 Mpx + 8 Mpx + 5 Mpx,25 Mpx
+s163,Смартфон Apple iPhone 11 256GB Black,459790,Apple,"6,1″ - 15,5 см",256 Гб,12 Mpx + 12 Mpx,12 Mpx
+s164,Смартфон Nokia 1 Dark Blue,25990,Nokia,"4,5″ - 11,4 см",8 Гб,5 Mpx,2 Mpx
+s165,Смартфон Huawei P30 Pro Aurora,349890,Huawei,"6,5″ - 16,51 см",256 Гб,40 Mpx+20 Mpx+8 Mpx,32 Mpx
+s166,Смартфон Huawei Y6P Emerald Green,69890,Huawei,"6,3″ - 16 см",64 Гб,13 Mpx + 5 Mpx + 2 Mpx,8 Мп
+s167,Смартфон Xiaomi Redmi 9 3/32GB Ocean Green,69990,Xiaomi,"6,53″ - 16,59 см",32 Гб,13Mpx + 8Mpx + 5Mpx + 2Mpx,8 Mpx
+s168,Смартфон Xiaomi Redmi 9C 3/64GB Midnight Gray,54990,Xiaomi,"6,53″ - 16,59 см",64 Гб,13 Mpx + 2 Mpx,5 Mpx
+s169,Смартфон Samsung Galaxy A11 White,59890,Samsung,"6,4″ - 16,3 см",32 Гб,13 Mpx + 5 Mpx + 2 Mpx,8 Mpx
+s170,Смартфон Honor 9X Middle Night Black,80990,Honor,"6,59″ - 16,74 см",128 Гб,48 Mpx + 2 Mpx,16 Mpx
+s171,Смартфон Apple iPhone 11 Pro Max 256GB Space Grey,619090,Apple,"6,5″ - 16,51 см",256 Гб,12 Mpx + 12 Mpx + 12 Mpx,12 Mpx
+s172,Смартфон Huawei P40 Pro Silver,499890,Huawei,"6,59″ - 16,74 см",256 Гб,50Mpx + 40Mpx + 12Mpx + 3D датчик глубины,32 Mpx + датчик глубины
+s173,Смартфон Huawei P Smart Z 64GB Emerald Green,99890,Huawei,"6,15″ - 15,62 см",64 Гб,16 Mpx + 2 Mpx,16 Mpx
+s174,Смартфон Xiaomi Mi Note 10 Lite 6/128GB Glacier White,179990,Xiaomi,"6,47″ - 16,43 см",128 Гб,64 Mpx + 8 Mpx + 5 Mpx + 2 Mpx,16 Mpx
+s175,Смартфон Apple iPhone 11 64GB Yellow,368890,Apple,"6,1″ - 15,5 см",64 Гб,12 Mpx + 12 Mpx,12 Mpx
+s176,Смартфон Apple iPhone SE 128GB 2020 White,268290,Apple,"4,7″ - 11,9 см",128 Гб,12 Mpx,7 Mpx
+s177,Смартфон Samsung Galaxy A11 Red,59890,Samsung,"6,4″ - 16,3 см",32 Гб,13 Mpx + 5 Mpx + 2 Mpx,8 Mpx
+s178,Смартфон Apple iPhone 11 Pro 256GB Gold,598990,Apple,"5,8″ - 14,7 см",256 Гб,12 Mpx + 12 Mpx + 12 Mpx,12 Mpx
+s179,Смартфон Apple iPhone 11 128GB (PRODUCT) RED,397990,Apple,"6,1″ - 15,5 см",128 Гб,12 Mpx + 12 Mpx,12 Mpx
+s180,Смартфон ОPPO A91 8/128GB Lightening Black,139990,OPPO,"6,5″ - 16,51 см",128 Гб,48 Mpx + 8 Mpx + 2 Mpx + 2 Mpx,16 Mpx
+s181,Смартфон Xiaomi Mi Note 10 Lite 6/64GB Midnight Black,169990,Xiaomi,"6,47″ - 16,43 см",64 Гб,64 Mpx + 8 Mpx + 5 Mpx + 2 Mpx,16 Mpx
+s182,Смартфон Apple iPhone 6s 64GB Silver CPO,119890,Apple,"4,7″ - 11,9 см",64 Гб,12 Mpx,5 Mpx
+s183,Смартфон Xiaomi Redmi 9C 3/64GB Twilight Blue,54990,Xiaomi,"6,53″ - 16,59 см",64 Гб,13 Mpx + 2 Mpx,5 Mpx
+s184,Смартфон Vivo V17 Neo Skyline Blue,80390,Vivo,"6,39″ - 16,2 см",128 Гб,16 Mpx + 8 Mpx + 2 Mpx,32 Mpx
+s185,Смартфон Apple iPhone 6s Plus 128GB Rose Gold CPO,159890,Apple,"5,5″ - 14 см",128 Гб,12 Mpx,5 Mpx
+s186,Смартфон ОРРО A72 Aurora Purple,119990,OPPO,"6,5″ - 16,51 см",128 Гб,48 Мп + 8 Мп + 2 Мп + 2 Мп,16 Mpx
+s187,Смартфон Huawei P30 Lite 256GB Peacock Blue,149890,Huawei,"6,5″ - 16,51 см",256 Гб,48 Mpx + 8 Mpx + 2 Mpx,32 Mpx
+s188,Смартфон Apple iPhone XR 128GB (PRODUCT) RED,359890,Apple,"6,1″ - 15,5 см",128 Гб,12 Mpx,7 Mpx
+s189,Смартфон Huawei Y5 2019 32GB Amber Brown,54890,Huawei,"5,71″ - 14,5 см",32 Гб,13 Mpx,5 Mpx
+s190,Смартфон Apple iPhone XR 128GB White,359890,Apple,"6,1″ - 15,5 см",128 Гб,12 Mpx,7 Mpx
+s191,Смартфон ОРРО A9 2020 Vanilla Mint,119990,OPPO,"6,5″ - 16,51 см",128 Гб,48 Mpx + 8 Mpx + 2 Mpx + 2 Mpx,16 Mpx
+s192,Смартфон Huawei Y6 2019 32GB Amber Brown,59890,Huawei,"6″ - 15,2 см",32 Гб,13 Mpx,8 Mpx
+s193,Смартфон Samsung Galaxy A01 Core 1/16GB Red,34890,Samsung,"5,14″ - 13,05 см",16 Гб,8 Mpx,5 Mpx
+s194,Смартфон Huawei Y6S 64GB Starry Black,69890,Huawei,"6,09'' - 15,4 см",64 Гб,13 Mpx,8 Mpx
+s195,Смартфон Samsung Galaxy A41 Blue,99890,Samsung,"6,1″ - 15,5 см",64 Гб,48 Mpx + 8 Mpx + 5 Mpx,25 Mpx
+s196,Смартфон Apple iPhone 11 Pro Max 64GB Space Grey,568890,Apple,"6,5″ - 16,51 см",64 Гб,12 Mpx + 12 Mpx + 12 Mpx,12 Mpx
+s197,Смартфон Vivo V17 Nebula Blue,129990,Vivo,"6,38″ - 16.21 см",128 Гб,48 Mpx + 8 Mpx + 2 Mpx + 2 Mpx,32 Mpx
+s198,Смартфон Vivo Y19 Spring White,89990,Vivo,"6,53″ - 16,59 см",128 Гб,16 Mpx + 8 Mpx + 2 Mpx,16 Mpx
+s199,Смартфон Samsung Galaxy Note 20 Ultra Brown,589890,Samsung,"6,9″ - 175,26 мм",256 Гб,108Mpx + 12Mpx + 12Mpx,10 Mpx
+s200,Смартфон Honor 8X Blue,74990,Honor,"6,5″ - 16,51 см",64 Гб,20 Mpx,16 Mpx
+s201,Смартфон Apple iPhone SE 128GB 2020 (PRODUCT)RED,268290,Apple,"4,7″ - 11,9 см",128 Гб,12 Mpx,7 Mpx
+s202,Смартфон Samsung Galaxy A51 64GB Silver,109890,Samsung,"6,5″ - 16,51 см",64 Гб,48.0 Mpx + 12.0 Mpx  + 5.0 Mpx  + 5.0 Mpx,32 Mpx
+s203,Смартфон Huawei Y5P Mint Green,44890,Huawei,"5,45″ - 13,8 см",32 Гб,8 Mpx,5 Mpx
+s204,Смартфон Huawei P40 Pro Black,499890,Huawei,"6,59″ - 16,74 см",256 Гб,50Mpx + 40Mpx + 12Mpx + 3D датчик глубины,32 Mpx + датчик глубины
+s205,Смартфон Huawei P30 Breathing Crystal,249890,Huawei,"6,1″ - 15,5 см",128 Гб,40 Mpx + 16 Mpx + 8 Mpx,32 Mpx
+s206,Смартфон Samsung Galaxy Note 20 Ultra 512GB Black,689890,Samsung,"6,9″ - 175,26 мм",512 Гб,108Mpx + 12Mpx + 12Mpx,10 Mpx
+s207,Смартфон Prestigio Muze K3 Gold,25990,Prestigio,"5,3″ - 13,5 см",8 Гб,5 Mpx,2 Mpx
+s208,Смартфон Xiaomi Redmi 9 3/32GB Sunset Purple,69990,Xiaomi,"6,53″ - 16,59 см",32 Гб,13Mpx + 8Mpx + 5Mpx + 2Mpx,8 Mpx
+s209,Смартфон Huawei Nova 5T Crush blue,179890,Huawei,"6,26″ - 15,9 см",128 Гб,48 Mpx + 16 Mpx + 2 Mpx + 2Mpx,32 Mpx
+s210,Смартфон Xiaomi Poco F2 Pro 6/128GB Cyber Grey,249990,Xiaomi,"6,67"" - 16,94 см",128 Гб,64Mpx + 13Mpx + 5Mpx + 2Mpx,20 Mpx
+s211,Смартфон Samsung Galaxy Z Flip Mirror Gold,359890,Samsung,"6,7″ - 170,2 мм",256 Гб,12 Mpx + 12 Mpx,10 Mpx
+s212,Смартфон ОРРО A52 Stream White,99990,OPPO,"6,5″ - 16,51 см",64 Гб,12Mpx + 8Mpx + 2Mpx + 2Mpx,8 Mpx
+s213,Смартфон Samsung Galaxy S10+ 128GB Red,269890,Samsung,"6,4″ - 16,3 см",128 Гб,12 Mpx + 16 Mpx + 12 Mpx,10 Mpx + 8 Mpx
+s214,Смартфон Samsung Galaxy S10+ 8/128GB Ceramic White ,269890,Samsung,"6,4″ - 16,3 см",128 Гб,12 Mpx + 16 Mpx + 12 Mpx,10 Mpx + 8 Mpx
+s215,Смартфон Huawei Y5P Midnight Black,44890,Huawei,"5,45″ - 13,8 см",32 Гб,8 Mpx,5 Mpx
+s216,Смартфон Apple iPhone 11 Pro 256GB Silver,598990,Apple,"5,8″ - 14,7 см",256 Гб,12 Mpx + 12 Mpx + 12 Mpx,12 Mpx
+s217,Смартфон Huawei P40 Black,349890,Huawei,"6,1″ - 15,5 см",128 Гб,50 Mpx + 16 Mpx + 8 Mpx,32 Mpx
+s218,Смартфон Huawei Y9 Prime 2019 Midnight Black,119890,Huawei,"6,59″ - 16,74 см",128 Гб,16 Mpx + 8 Mpx + 2 Mpx,16 Mpx
+s219,Смартфон Huawei Y6S 64GB Orchid Blue,69890,Huawei,"6,09'' - 15,4 см",64 Гб,13 Mpx,8 Mpx
+s220,Смартфон Xiaomi Poco F2 Pro 6/128GB Phantom White,249990,Xiaomi,"6,67"" - 16,94 см",128 Гб,64Mpx + 13Mpx + 5Mpx + 2Mpx,20 Mpx
+s221,Смартфон ОРРО A91 8/128GB Blazing Blue,139990,OPPO,"6,5″ - 16,51 см",128 Гб,48 Mpx + 8 Mpx + 2 Mpx + 2 Mpx,16 Mpx
+s222,Смартфон ОРРО A31 4/64G Mystery Black,79990,OPPO,"6,5″ - 16,51 см",64 Гб,12 Mpx+2+2 Мpx,8 Mpx
+s223,Смартфон ОРРО Find X2 256GB Black,429990,OPPO,"6,7″ - 170,2 мм",256 Гб,48 Mpx,32 Mpx
+s224,Смартфон Huawei Y6P Midnight Black,69890,Huawei,"6,3″ - 16 см",64 Гб,13 Mpx + 5 Mpx + 2 Mpx,8 Мп
+s225,Смартфон ОРРО A72 Twilight Black,119990,OPPO,"6,5″ - 16,51 см",128 Гб,48 Мп + 8 Мп + 2 Мп + 2 Мп,16 Mpx
+s226,Смартфон Samsung Galaxy A51 128GB Silver,129890,Samsung,"6,5″ - 16,51 см",128 Гб,48.0 Mpx + 12.0 Mpx  + 5.0 Mpx  + 5.0 Mpx,32 Mpx
+s227,Смартфон Xiaomi Mi Note 10 Lite 6/128GB Nebula Purple,179990,Xiaomi,"6,47″ - 16,43 см",128 Гб,64 Mpx + 8 Mpx + 5 Mpx + 2 Mpx,16 Mpx
+s228,Смартфон Apple iPhone XS Max 64GB Silver,369890,Apple,"6,5″ - 16,51 см",64 Гб,12 Mpx + 12 Mpx,7 Mpx
+s229,Смартфон HTC Wildfire E Gold,41990,HTC,"5,45″ - 13,8 см",32 Гб,13 Mpx,5 Mpx
+s230,Смартфон Apple iPhone 11 256GB White,459190,Apple,"6,1″ - 15,5 см",256 Гб,12 Mpx + 12 Mpx,12 Mpx
+s231,Смартфон ОРРО A52 Twilight Black,99990,OPPO,"6,5″ - 16,51 см",64 Гб,12Mpx + 8Mpx + 2Mpx + 2Mpx,8 Mpx
+s232,Смартфон Оppo Reno Z Jet Black,99990,OPPO,"6,4″ - 16,3 см",,48 Mpx + 5 Mpx,32 Mpx
+s233,Смартфон ZTE BLADE V10 Vita 2/32GB Black,49990,ZTE,"6,26″ - 15,9 см",32 Гб,13 Mpx + 2 Mpx,8 Mpx
+s234,Смартфон Huawei Y9S Midnight Black,129890,Huawei,"6,59″ - 16,74 см",128 Гб,48 Mpx + 8 Mpx + 2 Mpx,16 Mpx
+s235,Смартфон ОРРО AX7 4/64GB Glaze Blue,64990,OPPO,"6,21″ - 15,7 см",64 Гб,13 Mpx + 2 Mpx,16 Mpx
+s236,Смартфон ОРРО Reno3 128GB Midnight Black,159990,OPPO,"6,4″ - 16,3 см",128 Гб,48 Mpx + 8 Mpx+ 13 Mpx + 2 Mpx,44 Mpx
+s237,Смартфон Prestigio Muze K3 Black,22790,Prestigio,"5,3″ - 13,5 см",8 Гб,5 Mpx,2 Mpx
+s238,Смартфон Huawei Y8P Breathing Crystal,109890,Huawei,"6,3″ - 16 см",128 Гб,48 Мп + 8 Мп + 2 Мп,16 Mpx
+s239,Смартфон Apple iPhone 11 Pro 512GB Space Grey,699090,Apple,"5,8″ - 14,7 см",512 Гб,12 Mpx + 12 Mpx + 12 Mpx,12 Mpx
+s240,Смартфон ОРРО A31 4/64G BLake Green,79990,OPPO,"6,5″ - 16,51 см",64 Гб,12 Mpx+2+2 Мpx,8 Mpx
+s241,Смартфон Huawei Y9 Prime 2019 Emerald Green,119890,Huawei,"6,59″ - 16,74 см",128 Гб,16 Mpx + 8 Mpx + 2 Mpx,16 Mpx
+s242,Смартфон ОРРО A12 3/32GB Black,64990,OPPO,6.22″ - 15.79 см,32 Гб,13 Mpx + 2 Mpx,5 Mpx
+s243,Смартфон Nokia 6.2 32GB Черный,79990,Nokia,"6,3″ - 16 см",32 Гб,16 Mpx + 8 Mpx + 5 Mpx,8
+s244,Смартфон Apple iPhone 11 256GB Green,459790,Apple,"6,1″ - 15,5 см",256 Гб,12 Mpx + 12 Mpx,12 Mpx
+s245,Смартфон Xiaomi Poco X3 6+128GB Cobalt Blue,129990,Xiaomi,"6,67"" - 16,94 см",128 Гб,64Mpx + 13 Mpx + 2Mpx + 2Mpx,20 Mpx
+s246,Смартфон Samsung Galaxy Note 20 Green,479890,Samsung,"6,7″ - 170,2 мм",256 Гб,64 Mpx + 12 Mpx + 12 Mpx,10 Mpx
+s247,Смартфон Xiaomi Mi 10 8/256GB Twilight Grey,359990,Xiaomi,"6,67"" - 16,94 см",256 Гб,108Mpx + 2Mpx + 2Mpx + 13Mpx,20 Mpx
+s248,Смартфон Samsung Galaxy Note 20 Ultra White,589890,Samsung,"6,9″ - 175,26 мм",256 Гб,108Mpx + 12Mpx + 12Mpx,10 Mpx
+s249,Смартфон ОРРО A72 Shining White,119990,OPPO,"6,5″ - 16,51 см",128 Гб,48 Мп + 8 Мп + 2 Мп + 2 Мп,16 Mpx
+s250,Смартфон Xiaomi Poco F2 Pro 8/256GB Cyber Grey,279990,Xiaomi,"6,67"" - 16,94 см",256 Гб,64Mpx + 13Mpx + 5Mpx + 2Mpx,20 Mpx
+s251,Смартфон Nokia 7.2  4/64GB Eacua Green TA-1196 DS,109990,Nokia,"6,3″ - 16 см",64 Гб,48 Mpx + 8 Mpx + 5 Mpx,20 Mpx
+s252,Смартфон Samsung Galaxy Note 20 Brown,479890,Samsung,"6,7″ - 170,2 мм",256 Гб,64 Mpx + 12 Mpx + 12 Mpx,10 Mpx
+s253,Смартфон ОРРО Reno3 128GB Sky White,159990,OPPO,"6,4″ - 16,3 см",128 Гб,48 Mpx + 8 Mpx+ 13 Mpx + 2 Mpx,44 Mpx
+s254,Смартфон Apple iPhone 11 Pro 512GB Midnight Green,699090,Apple,"5,8″ - 14,7 см",512 Гб,12 Mpx + 12 Mpx + 12 Mpx,12 Mpx
+s255,Смартфон OPPO RX17 Pro Radiant Mist,119990,OPPO,"6,4″ - 16,3 см",128 Гб,12 Mpx + 20 Mpx + TOF,25 Mpx
+s256,Смартфон Nokia 5.1 16GB Blue,54990,Nokia,"5,5″ - 14 см",16 Гб,16 Mpx,8 Mpx
+s257,Смартфон ОРРО A31 4/64GB Fantasy White,79990,OPPO,"6,5″ - 16,51 см",64 Гб,12 Mpx+2+2 Мpx,8 Mpx
+s258,Смартфон Xiaomi Redmi 9C 3/64GB Sunrise Orange,54990,Xiaomi,"6,53″ - 16,59 см",64 Гб,13 Mpx + 2 Mpx,5 Mpx
+s259,Смартфон Apple iPhone 11 Pro 512GB Gold,699090,Apple,"5,8″ - 14,7 см",512 Гб,12 Mpx + 12 Mpx + 12 Mpx,12 Mpx
+s260,Смартфон Huawei Y8P Midnight Black,109890,Huawei,"6,3″ - 16 см",128 Гб,48 Мп + 8 Мп + 2 Мп,16 Mpx
+s261,Смартфон Vivo X50 Pro Alpha Grey,299990,Vivo,"6,56″ - 16,6 см",256 Гб,48 Mpx + 13 Mpx + 8 Mpx + 8 Mpx,32 Mpx
+s262,Смартфон ОРРО Reno3 128GB Auroral Blue,159990,OPPO,"6,4″ - 16,3 см",128 Гб,48 Mpx + 8 Mpx+ 13 Mpx + 2 Mpx,44 Mpx
+s263,Смартфон Doogee BL5500 Lite Blue,49990,Doogee,"6,15″ - 15,62 см",16 Гб,13 Mpx,5 Mpx
+s264,Смартфон ОРРО A12 3/32GB Blue,64990,OPPO,6.22″ - 15.79 см,32 Гб,13 Mpx + 2 Mpx,5 Mpx
+s265,Смартфон Vivo Y30 4/64GB Dazzle Blue,89990,Vivo,"6,47″ - 16,43 см",64 Гб,12Mpx + 8Mpx + 2Mpx + 2Mpx,8 Mpx
+s266,Смартфон ОРРО Reno3 Pro 256GB Starry Blue,279990,OPPO,"6,5″ - 16,51 см",256 Гб,48 Mpx + 8 Mpx+ 13 Mpx + 2 Mpx,8 Mpx
+s267,Смартфон Xiaomi Poco X3 6+128GB Shadow Gray,129990,Xiaomi,"6,67"" - 16,94 см",128 Гб,64Mpx + 13 Mpx + 2Mpx + 2Mpx,20 Mpx
+s268,Смартфон Apple iPhone 11 256GB Yellow,459790,Apple,"6,1″ - 15,5 см",256 Гб,12 Mpx + 12 Mpx,12 Mpx
+s269,Смартфон Nokia 2.3 TA-1206 DS 2/32 EAC UA Cyan Green,54990,Nokia,"6,2″ - 15,8 см",32 Гб,13 Mpx + 2 Mpx,5 Mpx
+s270,Смартфон Xiaomi Poco F2 Pro 8/256GB Electric Purple,279990,Xiaomi,"6,67"" - 16,94 см",256 Гб,64Mpx + 13Mpx + 5Mpx + 2Mpx,20 Mpx
+s271,Смартфон Samsung Galaxy S20 FE 6/128GB Violet,329890,Samsung,"6,5″ - 16,51 см",128 Гб,12 Mpx + 12 Mpx + 8 Mpx,32 Mpx
+s272,Смартфон Xiaomi Poco F2 Pro 8/256GB Neon Blue,279990,Xiaomi,"6,67"" - 16,94 см",256 Гб,64Mpx + 13Mpx + 5Mpx + 2Mpx,20 Mpx
+s273,Смартфон Xiaomi Mi Note 10 Lite 6/64GB Glacier White,169990,Xiaomi,"6,47″ - 16,43 см",64 Гб,64 Mpx + 8 Mpx + 5 Mpx + 2 Mpx,16 Mpx
+s274,Смартфон INOI 6i Lite Black,32990,INOI,"5,5″ - 14 см",8 Гб,8 Mpx,5 Mpx
+s275,Смартфон Xiaomi Poco F2 Pro 6/128GB Electric Purple,249990,Xiaomi,"6,67"" - 16,94 см",128 Гб,64Mpx + 13Mpx + 5Mpx + 2Mpx,20 Mpx
+s276,Смартфон Vivo Y30 4/64GB Emerald Black,89990,Vivo,"6,47″ - 16,43 см",64 Гб,12Mpx + 8Mpx + 2Mpx + 2Mpx,8 Mpx
+s277,Смартфон HTC Wildfire E1 Black,49990,HTC,"6,08″ - 15,44 см",32 Гб,16 Mpx,5 Mpx
+s278,Смартфон Nokia 1.3 1/16GB Charcoal (TA-1205 DS) cis ua,41990,Nokia,"5,71″ - 14,5 см",16 Гб,8 Mpx,5 Mpx
+s279,Смартфон Apple iPhone 12 128GB Black,524990,Apple,"6,1″ - 15,5 см",128 Гб,12 Mpx + 12 Mpx,12 Mpx
+s280,Смартфон Xiaomi Mi Note 10 Lite 6/64GB Nebula Purple,169990,Xiaomi,"6,47″ - 16,43 см",64 Гб,64 Mpx + 8 Mpx + 5 Mpx + 2 Mpx,16 Mpx
+s281,Смартфон Haier I8 Blue,49990,Haier,,32 Гб,13 Mpx,8 Mpx
+s282,Смартфон Samsung Galaxy S20 FE 6/128GB Green,329890,Samsung,"6,5″ - 16,51 см",128 Гб,12 Mpx + 12 Mpx + 8 Mpx,32 Mpx
+s283,Смартфон Apple iPhone 11 Pro 512GB Silver,699890,Apple,"5,8″ - 14,7 см",512 Гб,12 Mpx + 12 Mpx + 12 Mpx,12 Mpx
+s284,Смартфон Nokia 1.3 1/16GB Cyan TA-1205 DS cis ua,41990,Nokia,"5,71″ - 14,5 см",16 Гб,8 Mpx,5 Mpx
+s285,Смартфон Vivo X50 Glaze Black,199990,Vivo,"6,56″ - 16,6 см",128 Гб,48 Mpx + 13 Mpx + 8 Mpx + 5 Mpx,32 Mpx
+s286,Смартфон INOI 5i Lite Black,24990,INOI,"5,55″ - 14,1 см",8 Гб,8 Mpx + 0.3 Mpx,5 Mpx
+s287,Смартфон Nokia 2.3 TA-1206 DS 2/32 EAC UA Charcoal,54990,Nokia,"6,2″ - 15,8 см",32 Гб,13 Mpx + 2 Mpx,5 Mpx
+s288,Смартфон INOI 5i Lite Blue,24990,INOI,"5,5″ - 14 см",8 Гб,8 Mpx,5 Mpx
+s289,Смартфон Nokia 2.3 TA-1206 DS 2/32 EAC UA Sand,54990,Nokia,"6,2″ - 15,8 см",32 Гб,13 Mpx + 2 Mpx,5 Mpx
+s290,Смартфон Samsung Galaxy S20 FE 6/128GB Red,329890,Samsung,"6,5″ - 16,51 см",128 Гб,12 Mpx + 12 Mpx + 8 Mpx,32 Mpx
+s291,Смартфон Nokia 5.3 4/64GB Charcoal,89990,Nokia,"6,5″ - 16,51 см",4 Гб,13 Mpx + 8 Mpx + 5 Mpx,8 Mpx
+s292,Смартфон Apple iPhone 12 64GB Blue,494990,Apple,"6,1″ - 15,5 см",64 Гб,12 Mpx + 12 Mpx,12 Mpx
+s293,Смартфон ОРРО A12 4/64GB Blue,74990,OPPO,"6,21″ - 15,7 см",64 Гб,13 Mpx,5 Mpx
+s294,Смартфон Nokia 5.3 Blue,89990,Nokia,"6,5″ - 16,51 см",4 Гб,13 Mpx + 8 Mpx + 5 Mpx,8 Mpx
+s295,Смартфон Apple iPhone 12 Pro 256GB Graphite,679990,Apple,"6,1″ - 15,5 см",256 Гб,12 Mpx,12 Mpx
+s296,Смартфон Vivo X50 Frost Blue,199990,Vivo,,128 Гб,48 Mpx + 13 Mpx + 8 Mpx + 5 Mpx,32 Mpx
+s297,Смартфон ОРРО A91 Modern Red,139990,OPPO,"6,5″ - 16,51 см",128 Гб,48 Mpx + 8 Mpx + 2 Mpx + 2 Mpx,16 Mpx
+s298,Смартфон INOI 5i Red,28990,INOI,"5,5″ - 14 см",8 Гб,8 Mpx,5 Mpx
+s299,Смартфон Apple iPhone 12 64GB Black,494990,Apple,"6,1″ - 15,5 см",64 Гб,12 Mpx + 12 Mpx,12 Mpx
+s300,Смартфон HTC Wildfire E1 Plus Blue,54990,HTC,"6,08″ - 15,44 см",32 Гб,16 Mpx,5 Mpx
+s301,Смартфон Apple iPhone 12 64GB White,494990,Apple,"6,1″ - 15,5 см",64 Гб,12 Mpx + 12 Mpx,12 Mpx
+s302,Смартфон Apple iPhone 12 128GB Blue,524990,Apple,"6,1″ - 15,5 см",128 Гб,12 Mpx + 12 Mpx,12 Mpx
+s303,Смартфон Apple iPhone 12 Pro 128GB Graphite,619990,Apple,"6,1″ - 15,5 см",128 Гб,12 Mpx + 12 Mpx + 12 Mpx,12 Mpx
+s304,Смартфон Apple iPhone 12 Pro 512GB Pacific Blue,804990,Apple,,512 Гб,,
+s305,Смартфон Apple iPhone 12 Pro 512GB Gold,804990,Apple,,512 Гб,,
+s306,Смартфон Apple iPhone 12 Pro 128GB Gold,619990,Apple,"6,1″ - 15,5 см",128 Гб,12 Mpx + 12 Mpx + 12 Mpx,12 Mpx
+s307,Смартфон Apple iPhone 12 Pro 512GB Silver,804990,Apple,,512 Гб,,
+s308,Смартфон Apple iPhone 12 64GB Green,494990,Apple,"6,1″ - 15,5 см",64 Гб,12 Mpx + 12 Mpx,12 Mpx
+s309,Смартфон Apple iPhone 12 256GB Black ,584990,Apple,"6,1″ - 15,5 см",256 Гб,12 Mpx + 12 Mpx,12 Mpx
+s310,Смартфон Apple iPhone 12 128GB Green,524990,Apple,"6,1″ - 15,5 см",128 Гб,12 Mpx + 12 Mpx,12 Mpx
+s311,Смартфон Apple iPhone 12 Pro 512GB Graphite,804990,Apple,,512 Гб,,
+s312,Смартфон Apple iPhone 12 128GB (PRODUCT)RED,524990,Apple,"6,1″ - 15,5 см",128 Гб,12 Mpx + 12 Mpx,12 Mpx
+s313,Смартфон Apple iPhone 12 Pro 256GB Silver,679990,Apple,"6,1″ - 15,5 см",256 Гб,12 Mpx,12 Mpx
+s314,Смартфон Apple iPhone 12 64GB (PRODUCT)RED,494990,Apple,"6,1″ - 15,5 см",64 Гб,12 Mpx + 12 Mpx,12 Mpx
+s315,Смартфон Apple iPhone 12 256GB Blue,584990,Apple,"6,1″ - 15,5 см",256 Гб,12 Mpx + 12 Mpx,12 Mpx
+s316,Смартфон Apple iPhone 12 256GB White,584990,Apple,"6,1″ - 15,5 см",256 Гб,12 Mpx + 12 Mpx,12 Mpx
+s317,Смартфон Apple iPhone 12 256GB Green,584990,Apple,"6,1″ - 15,5 см",256 Гб,12 Mpx + 12 Mpx,12 Mpx
+s318,Смартфон Apple iPhone 12 256GB (PRODUCT)RED,584990,Apple,"6,1″ - 15,5 см",256 Гб,12 Mpx + 12 Mpx,12 Mpx
+s319,Смартфон Apple iPhone 12 Pro 128GB Pacific Blue,619990,Apple,"6,1″ - 15,5 см",128 Гб,12 Mpx + 12 Mpx + 12 Mpx,12 Mpx
+s320,Смартфон Apple iPhone 12 Pro 128GB Silver,619990,Apple,"6,1″ - 15,5 см",128 Гб,12 Mpx + 12 Mpx + 12 Mpx,12 Mpx
+s321,Смартфон Samsung Galaxy A10s 32GB Black ,54890,Samsung,"6,2″ - 15,8 см",32 Гб,13 Mpx + 2 Mpx,8 Mpx
+s322,Смартфон Samsung Galaxy Note 20 Ultra 512GB Brown,689890,Samsung,"6,9″ - 175,26 мм",512 Гб,108Mpx + 12Mpx + 12Mpx,10 Mpx
+s323,Смартфон Xiaomi Redmi Note 8 4/64GB Neptune blue,71790,Xiaomi,"6,3″ - 16 см",64 Гб,48 Mpx + 8 Mpx + 2 Mpx + 2 Mpx,13 Mpx
+s324,Смартфон Xiaomi Redmi 8A 2/32GB Ocean Blue,49990,Xiaomi,"6,21″ - 15,7 см",32 Гб,12 Mpx,8 Mpx
+s325,Смартфон Xiaomi Redmi Note 8 4/128GB Neptune blue,89990,Xiaomi,"6,3″ - 16 см",128 Гб,48 Mpx + 8 Mpx + 2 Mpx + 2 Mpx,13 Mpx
+s326,Смартфон Xiaomi Redmi Note 8 4/128GB Space Black,89790,Xiaomi,"6,3″ - 16 см",128 Гб,48 Mpx + 8 Mpx + 2 Mpx + 2 Mpx,13 Mpx
+s327,Смартфон Samsung Galaxy A10s 32GB Red ,54890,Samsung,"6,2″ - 15,8 см",32 Гб,13 Mpx + 2 Mpx,8 Mpx
+s328,Смартфон Xiaomi Redmi Note 9 Pro 6/128GB Tropical Green,129990,Xiaomi,"6,67"" - 16,94 см",128 Гб,64 Mpx + 8 Mpx + 5 Mpx + 2 Mpx,16 Mpx
+s329,Смартфон Xiaomi Redmi Note 9 Pro 6/128GB Glacier White,129990,Xiaomi,"6,67"" - 16,94 см",128 Гб,64 Mpx + 8 Mpx + 5 Mpx + 2 Mpx,16 Mpx
+s330,Смартфон Samsung Galaxy A10s 32GB Blue ,54890,Samsung,"6,2″ - 15,8 см",32 Гб,13 Mpx + 2 Mpx,8 Mpx
+s331,Смартфон Xiaomi Redmi Note 8 4/64GB Moonlight White,69990,Xiaomi,"6,3″ - 16 см",64 Гб,48 Мп + 8 Мп + 2 Мп + 2 Мп,13 Мп
+s332,Смартфон Samsung Galaxy Z Flip Mirror Purple,359890,Samsung,"6,7″ - 170,2 мм",256 Гб,12 Mpx + 12 Mpx,10 Mpx
+s333,Смартфон Xiaomi Redmi 8 4/64GB Sapphire Blue,59990,Xiaomi,"6,21″ - 15,7 см",64 Гб,12 Мп + 2 Мп,8 Мп
+s334,Смартфон Vivo NEX 3 Glowing Night,219990,Vivo,"6,9″ - 175,26 мм",128 Гб,64 Mpx + 13 Mpx + 13 Mpx,16 Mpx
+s335,Смартфон Xiaomi Mi 9T 128GB Carbon Black,119990,Xiaomi,"6,39″ - 16,2 см",128 Гб,48 Мп + 8 Мп + 13 Мп,20 Mpx
+s336,Смартфон Xiaomi Redmi Note 8 Pro 6/128GB Mineral Grey,89990,Xiaomi,"6,53″ - 16,59 см",128 Гб,64 Mpx + 8 Mpx + 2 Mpx + 2 Mpx,20 Mpx
+s337,Смартфон Xiaomi Mi Note 10 128GB Midnight Black,214990,Xiaomi,"6,4″ - 16,3 см",128 Гб,108 Mpx + 12 Mpx + 20 Mpx + 5 Mpx + 2 Mpx,32 Mpx
+s338,Смартфон Samsung Galaxy S20 Ultra 16/512GB Gray,479890,Samsung,"6,9″ - 175,26 мм",512 Гб,108 Mpx + 48 Mpx + 12 Mpx,40 Mpx
+s339,Смартфон Honor 9X Phantom Blue,80990,Honor,"6,59″ - 16,74 см",128 Гб,48 Mpx + 2 Mpx,16 Mpx
+s340,Смартфон Samsung Galaxy S20 Ultra 16/512GB Black,479890,Samsung,"6,9″ - 175,26 мм",512 Гб,108 Mpx + 48 Mpx + 12 Mpx,40 Mpx
+s341,Смартфон Sony Xperia 5 128GB Black,219890,Sony,"6,1″ - 15,5 см",128 Гб,12 Mpx + 12 Mpx + 12 Mpx,8 Mpx
+s342,Смартфон Xiaomi Mi Note 10 Pro 8/256GB Midnight Black,248890,Xiaomi,"6,5″ - 16,51 см",256 Гб,108 Mpx + 12 Mpx + 20 Mpx + 5 Mpx + 2 Mpx,32 Mpx
+s343,Смартфон ZTE Blade A7 2/32GB Black,39990,ZTE,"6,3″ - 16 см",32 Гб,16 Mpx + 8 Mpx + 2 Mpx,8 Mpx
+s344,Смартфон Xiaomi Redmi Note 8 3/32GB Space Black,64990,Xiaomi,"6,3″ - 16 см",32 Гб,48 Мп + 8 Мп + 2 Мп + 2 Мп,13 Мп
+s345,Смартфон Xiaomi Redmi Note 8T 4/128GB Starscape Blue,84990,Xiaomi,"6,3″ - 16 см",128 Гб,48 Мп + 8 Мп + 2 Мп + 2 Мп,13 Mpx + 2 Mpx
+s346,Смартфон Samsung Galaxy Fold Cosmos Black,549890,Samsung,"7,3″ - 18,542 см",512 Гб,12 Mpx + 12 Mpx + 16 Mpx,10 Mpx + 8 Mpx
+s347,Смартфон Xiaomi Mi Note 10 6/128 Aurora Green,224990,Xiaomi,"6,5″ - 16,51 см",128 Гб,108 Mpx + 12 Mpx + 20 Mpx + 5 Mpx + 2 Mpx,32 Mpx
+s348,Смартфон Xiaomi Mi 9T128GB Glacier Blue,139890,Xiaomi,"6,39″ - 16,2 см",128 Гб,48 Мп + 8 Мп + 13 Мп,20 Mpx
+s349,Смартфон Apple iPhone SE 256GB 2020 Black,349490,Apple,"4,7″ - 11,9 см",256 Гб,12 Mpx,7 Mpx
+s350,Смартфон Xiaomi Redmi Note 8 Pro 6/64GB Forest Green,99890,Xiaomi,"6,53″ - 16,59 см",64 Гб,64 Mpx + 8 Mpx + 2 Mpx + 2 Mpx,20 Mpx
+s351,Смартфон Xiaomi Mi Note 10 6/128 Glacier White,224990,Xiaomi,"6,5″ - 16,51 см",128 Гб,108 Mpx + 12 Mpx + 20 Mpx + 5 Mpx + 2 Mpx,32 Mpx
+s352,Смартфон ZTE Blade L8 1/16GB Black,16990,ZTE,"4,95″ - 12,6 см",16 Гб,8 Мп,5 Mpx
+s353,Смартфон Xiaomi Redmi Note 8 Pro 6/128GB Ocean Blue,89990,Xiaomi,"6,53″ - 16,59 см",128 Гб,64 Mpx + 8 Mpx + 2 Mpx + 2 Mpx,20 Mpx
+s354,Смартфон Xiaomi Redmi Note 8 3/32GB Moonlight White,64990,Xiaomi,"6,3″ - 16 см",32 Гб,48 Мп + 8 Мп + 2 Мп + 2 Мп,13 Мп
+s355,Смартфон Xiaomi Redmi Note 8 Pro 6/128GB Forest Green,109690,Xiaomi,"6,53″ - 16,59 см",128 Гб,64 Mpx + 8 Mpx + 2 Mpx + 2 Mpx,20 Mpx
+s356,Смартфон ОРРО Reno3 Pro 256GB Moonlight Black,279990,OPPO,"6,5″ - 16,51 см",256 Гб,48 Mpx + 8 Mpx+ 13 Mpx + 2 Mpx,8 Mpx
+s357,Смартфон Xiaomi Redmi Note 8 Pro 6/64GB Mineral Grey,99890,Xiaomi,"6,53″ - 16,59 см",64 Гб,64 Mpx + 8 Mpx + 2 Mpx + 2 Mpx,20 Mpx
+s358,Смартфон Samsung Galaxy Fold Space Silver,549890,Samsung,"7,3″ - 18,542 см",512 Гб,12 Mpx + 12 Mpx + 16 Mpx,10 Mpx + 8 Mpx
+s359,Смартфон Xiaomi Mi Note 10 Pro 8/256GB Aurora Green,248890,Xiaomi,"6,5″ - 16,51 см",256 Гб,108 Mpx + 12 Mpx + 20 Mpx + 5 Mpx + 2 Mpx,32 Mpx
+s360,Смартфон Xiaomi Redmi Note 8 Pro 6/64GB Blue,99890,Xiaomi,"6,53″ - 16,59 см",64 Гб,64 Mpx + 8 Mpx + 2 Mpx + 2 Mpx,20 Mpx
+s361,Смартфон Xiaomi Mi 9 Lite 6/64GB Onyx Grey,99990,Xiaomi,"6,39″ - 16,2 см",64 Гб,48 Mpx + 8 Mpx + 2 Mpx,32 Mpx
+s362,Смартфон Nokia 7.2 6/128GB Eacua Green TA-1196 DS,119990,Nokia,"6,3″ - 16 см",128 Гб,48 Mpx + 8 Mpx + 5 Mpx,20 Mpx
+s363,Смартфон Sony Xperia 5 128GB Navy,239990,Sony,"6,1″ - 15,5 см",128 Гб,12 Mpx + 12 Mpx + 12 Mpx,8 Mpx
+s364,Смартфон Xiaomi Redmi Note 8 Pro 6/128GB Pearl White,89990,Xiaomi,"6,53″ - 16,59 см",128 Гб,64 Mpx + 8 Mpx + 2 Mpx + 2 Mpx,20 Mpx
+s365,Смартфон Doogee Y7 Aurora Blue,47990,Doogee,"5,84″ - 14,8 см",32 Гб,13 Mpx,8 Mpx
+s366,Смартфон HTC Wildfire E1 Gold,49990,HTC,"6,08″ - 15,44 см",32 Гб,16 Mpx,5 Mpx
+s367,Смартфон Xiaomi Mi 9 Lite 6/128GB White,99990,Xiaomi,"6,39″ - 16,2 см",128 Гб,48 Мп + 8 Мп + 2 Мп,32 Mpx
+s368,Смартфон Xiaomi Redmi Note 8 Pro 6/64GB Pearl White,99890,Xiaomi,"6,53″ - 16,59 см",64 Гб,64 Mpx + 8 Mpx + 2 Mpx + 2 Mpx,20 Mpx
+s369,Смартфон Apple iPhone SE 256GB 2020 (PRODUCT)RED,344390,Apple,"4,7″ - 11,9 см",256 Гб,12 Mpx,7 Mpx
+s370,Смартфон Xiaomi Redmi Note 8T 4/128GB Moonshadow Grey,84990,Xiaomi,"6,3″ - 16 см",128 Гб,48 Мп + 8 Мп + 2 Мп + 2 Мп,13 Mpx + 2 Mpx
+s371,Смартфон Apple iPhone SE 256GB 2020 White,329890,Apple,"4,7″ - 11,9 см",256 Гб,12 Mpx,7 Mpx
+s372,Смартфон Xiaomi Poco F2 Pro 8/256GB Phantom White,299990,Xiaomi,"6,67"" - 16,94 см",256 Гб,64Mpx + 13Mpx + 5Mpx + 2Mpx,20 Mpx
+s373,Смартфон HTC Wildfire E1 Plus Black,54990,HTC,"6,08″ - 15,44 см",32 Гб,16 Mpx,5 Mpx
+s374,Смартфон Xiaomi Poco F2 Pro 6/128GB Neon Blue,269990,Xiaomi,"6,67"" - 16,94 см",128 Гб,64Mpx + 13Mpx + 5Mpx + 2Mpx,20 Mpx
+s375,Смартфон Xiaomi Redmi 8 4/64GB Ruby Red,59990,Xiaomi,"6,23″ - 15,8 см",64 Гб,12 Мп + 2 Мп,8 Мп
+s376,Смартфон Honor 9Lite Gray 51092CSJ,69890,Honor,"5,55″ - 14,1 см",32 Гб,13 Mpx,13 Mpx + 2 Mpx
+s377,Смартфон Apple iPhone 12 mini 128GB Green,0,Apple,"5,4″ - 13,7 см",128 Гб,12 Mpx,12 Mpx
+s378,Смартфон Apple iPhone 12 Pro 256GB Pacific Blue,679990,Apple,"6,1″ - 15,5 см",256 Гб,12 Mpx,12 Mpx
+s379,Смартфон Apple iPhone 12 128GB White,524990,Apple,"6,1″ - 15,5 см",128 Гб,12 Mpx + 12 Mpx,12 Mpx
+s380,Смартфон Xiaomi Poco X3 6+64GB Cobalt Blue,119990,Xiaomi,"6,67"" - 16,94 см",64 Гб,64Mpx + 13 Mpx + 2Mpx + 2Mpx,20 Mpx
+s381,Смартфон Xiaomi Poco X3 6+64GB Shadow Gray,119990,Xiaomi,"6,67"" - 16,94 см",64 Гб,64Mpx + 13 Mpx + 2Mpx + 2Mpx,20 Mpx
+s382,Смартфон Apple iPhone 12 Pro Max 512GB Silver,0,Apple,"6,7″ - 170,2 мм",512 Гб,12 Mpx + 12 Mpx + 12 Mpx,12 Mpx
+s383,Смартфон Apple iPhone 12 Pro 256GB Gold,679990,Apple,"6,1″ - 15,5 см",256 Гб,12 Mpx,12 Mpx
+s384,Смартфон Haier Alpha A7 Black,36990,Haier,"5,7″ - 14,48 см",16 Гб,13 Mpx + 2 Mpx,8 Mpx
+s385,Смартфон Apple iPhone 12 mini 128GB Black,0,Apple,"5,4″ - 13,7 см",128 Гб,12 Mpx + 12 Mpx,12 Mpx + 12 Mpx
+s386,Смартфон Apple iPhone 12 mini 64GB Black,0,Apple,"5,4″ - 13,7 см",64 Гб,12 Mpx,12 Mpx
+s387,Смартфон Apple iPhone 12 Pro Max 512GB Pacific Blue,0,Apple,"6,7″ - 170,2 мм",512 Гб,12 Mpx + 12 Mpx + 12 Mpx,12 Mpx
+s388,Смартфон Apple iPhone 12 mini 256GB Black,0,Apple,"5,4″ - 13,7 см",256 Гб,12 Mpx + 12 Mpx,12 Mpx
+s389,Смартфон ОРРО A12 4/64GB Black,79990,OPPO,"6,21″ - 15,7 см",64 Гб,13 Mpx,5 Mpx
+s390,Смартфон Apple iPhone 12 Pro Max 128GB Graphite,0,Apple,"6,7″ - 170,2 мм",128 Гб,12 Mpx + 12 Mpx + 12 Mpx,12 Mpx
+s391,Смартфон Apple iPhone 12 Pro Max 512GB Gold,0,Apple,"6,7″ - 170,2 мм",512 Гб,12 Mpx + 12 Mpx + 12 Mpx,12 Mpx
+s392,Смартфон Apple iPhone 12 Pro Max 128GB Pacific Blue,0,Apple,"6,7″ - 170,2 мм",128 Гб,12 Mpx + 12 Mpx + 12 Mpx,12 Mpx
+s393,Смартфон Apple iPhone 12 mini 128GB Blue,0,Apple,"5,4″ - 13,7 см",128 Гб,12 Mpx,12 Mpx
+s394,Смартфон Apple iPhone 12 Pro Max 256GB Silver,0,Apple,"6,7″ - 170,2 мм",256 Гб,12 Mpx + 12 Mpx + 12 Mpx,12 Mpx
+s395,Смартфон Apple iPhone 12 Pro Max 256GB Gold,0,Apple,"6,7″ - 170,2 мм",256 Гб,12 Mpx + 12 Mpx + 12 Mpx,12 Mpx
+s396,Смартфон Apple iPhone 12 Pro Max 512GB Graphite,0,Apple,"6,7″ - 170,2 мм",512 Гб,12 Mpx + 12 Mpx + 12 Mpx,12 Mpx
+s397,Смартфон Apple iPhone 12 mini 64GB Green,0,Apple,"5,4″ - 13,7 см",64 Гб,12 Mpx + 12 Mpx,12 Mpx
+s398,Смартфон Apple iPhone 12 mini 64GB Blue,0,Apple,"5,4″ - 13,7 см",64 Гб,12 Mpx + 12 Mpx,12 Mpx
+s399,Смартфон Apple iPhone 12 mini 128GB White,0,Apple,"5,4″ - 13,7 см",128 Гб,12 Mpx,12 Mpx
+s400,Смартфон Apple iPhone 12 mini 256GB Blue,0,Apple,"5,4″ - 13,7 см",256 Гб,12 Mpx + 12 Mpx,12 Mpx
+s401,Смартфон Apple iPhone 12 Pro Max 256GB Pacific Blue,0,Apple,"6,7″ - 170,2 мм",256 Гб,12 Mpx + 12 Mpx + 12 Mpx,12 Mpx
+s402,Смартфон Apple iPhone 12 Pro Max 128GB Gold,0,Apple,"6,7″ - 170,2 мм",128 Гб,12 Mpx + 12 Mpx + 12 Mpx,12 Mpx
+s403,Смартфон Apple iPhone 12 Pro Max 256GB Graphite,0,Apple,"6,7″ - 170,2 мм",256 Гб,12 Mpx + 12 Mpx + 12 Mpx,12 Mpx
+s404,Смартфон Apple iPhone 12 mini 64GB White,0,Apple,"5,4″ - 13,7 см",64 Гб,12 Mpx + 12 Mpx,12 Mpx
+s405,Смартфон Apple iPhone 12 mini 64GB (PRODUCT)RED,0,Apple,"5,4″ - 13,7 см",64 Гб,12 Mpx + 12 Mpx,12 Mpx
+s406,Смартфон Apple iPhone 12 mini 256GB Green,0,Apple,"5,4″ - 13,7 см",256 Гб,12 Mpx + 12 Mpx,12 Mpx
+s407,Смартфон Apple iPhone 12 mini 128GB (PRODUCT)RED,0,Apple,"5,4″ - 13,7 см",128 Гб,12 Mpx + 12 Mpx,12 Mpx
+s408,Смартфон Apple iPhone 12 mini 256GB (PRODUCT)RED,0,Apple,"5,4″ - 13,7 см",256 Гб,12 Mpx + 12 Mpx,12 Mpx
+s409,Смартфон Apple iPhone 12 mini 256GB White,0,Apple,"5,4″ - 13,7 см",256 Гб,12 Mpx + 12 Mpx,12 Mpx + 12 Mpx
+s410,Смартфон Apple iPhone 12 Pro Max 256GB Graphite,0,Apple,"6,7″ - 170,2 мм",256 Гб,12 Mpx + 12 Mpx + 12 Mpx,12 Mpx
+s411,Смартфон Apple iPhone 12 mini 64GB White,0,Apple,"5,4″ - 13,7 см",64 Гб,12 Mpx + 12 Mpx,12 Mpx
+s412,Смартфон Apple iPhone 12 mini 64GB (PRODUCT)RED,0,Apple,"5,4″ - 13,7 см",64 Гб,12 Mpx + 12 Mpx,12 Mpx
+s413,Смартфон Apple iPhone 12 mini 256GB Green,0,Apple,"5,4″ - 13,7 см",256 Гб,12 Mpx + 12 Mpx,12 Mpx
+s414,Смартфон Apple iPhone 12 mini 128GB (PRODUCT)RED,0,Apple,"5,4″ - 13,7 см",128 Гб,12 Mpx + 12 Mpx,12 Mpx
+s415,Смартфон Apple iPhone 12 mini 256GB (PRODUCT)RED,0,Apple,"5,4″ - 13,7 см",256 Гб,12 Mpx + 12 Mpx,12 Mpx
+s416,Смартфон Apple iPhone 12 mini 256GB White,0,Apple,"5,4″ - 13,7 см",256 Гб,12 Mpx + 12 Mpx,12 Mpx + 12 Mpx
+s417,Смартфон Apple iPhone 12 Pro Max 256GB Graphite,0,Apple,"6,7″ - 170,2 мм",256 Гб,12 Mpx + 12 Mpx + 12 Mpx,12 Mpx
+s418,Смартфон Apple iPhone 12 mini 64GB White,0,Apple,"5,4″ - 13,7 см",64 Гб,12 Mpx + 12 Mpx,12 Mpx
+s419,Смартфон Apple iPhone 12 mini 64GB (PRODUCT)RED,0,Apple,"5,4″ - 13,7 см",64 Гб,12 Mpx + 12 Mpx,12 Mpx
+s420,Смартфон Apple iPhone 12 mini 256GB Green,0,Apple,"5,4″ - 13,7 см",256 Гб,12 Mpx + 12 Mpx,12 Mpx
+s421,Смартфон Apple iPhone 12 mini 128GB (PRODUCT)RED,0,Apple,"5,4″ - 13,7 см",128 Гб,12 Mpx + 12 Mpx,12 Mpx
+s422,Смартфон Apple iPhone 12 mini 256GB (PRODUCT)RED,0,Apple,"5,4″ - 13,7 см",256 Гб,12 Mpx + 12 Mpx,12 Mpx
+s423,Смартфон Apple iPhone 12 mini 256GB White,0,Apple,"5,4″ - 13,7 см",256 Гб,12 Mpx + 12 Mpx,12 Mpx + 12 Mpx
+s424,Смартфон Apple iPhone 12 Pro Max 256GB Graphite,0,Apple,"6,7″ - 170,2 мм",256 Гб,12 Mpx + 12 Mpx + 12 Mpx,12 Mpx
+s425,Смартфон Apple iPhone 12 mini 64GB White,0,Apple,"5,4″ - 13,7 см",64 Гб,12 Mpx + 12 Mpx,12 Mpx
+s426,Смартфон Apple iPhone 12 mini 64GB (PRODUCT)RED,0,Apple,"5,4″ - 13,7 см",64 Гб,12 Mpx + 12 Mpx,12 Mpx
+s427,Смартфон Apple iPhone 12 mini 256GB Green,0,Apple,"5,4″ - 13,7 см",256 Гб,12 Mpx + 12 Mpx,12 Mpx
+s428,Смартфон Apple iPhone 12 mini 128GB (PRODUCT)RED,0,Apple,"5,4″ - 13,7 см",128 Гб,12 Mpx + 12 Mpx,12 Mpx
+s429,Смартфон Apple iPhone 12 mini 256GB (PRODUCT)RED,0,Apple,"5,4″ - 13,7 см",256 Гб,12 Mpx + 12 Mpx,12 Mpx
+s430,Смартфон Apple iPhone 12 mini 256GB White,0,Apple,"5,4″ - 13,7 см",256 Гб,12 Mpx + 12 Mpx,12 Mpx + 12 Mpx
+s431,Смартфон Apple iPhone 12 Pro Max 256GB Graphite,0,Apple,"6,7″ - 170,2 мм",256 Гб,12 Mpx + 12 Mpx + 12 Mpx,12 Mpx
+s432,Смартфон Apple iPhone 12 mini 64GB White,0,Apple,"5,4″ - 13,7 см",64 Гб,12 Mpx + 12 Mpx,12 Mpx
+s433,Смартфон Apple iPhone 12 mini 64GB (PRODUCT)RED,0,Apple,"5,4″ - 13,7 см",64 Гб,12 Mpx + 12 Mpx,12 Mpx
+s434,Смартфон Apple iPhone 12 mini 256GB Green,0,Apple,"5,4″ - 13,7 см",256 Гб,12 Mpx + 12 Mpx,12 Mpx
+s435,Смартфон Apple iPhone 12 mini 128GB (PRODUCT)RED,0,Apple,"5,4″ - 13,7 см",128 Гб,12 Mpx + 12 Mpx,12 Mpx
+s436,Смартфон Apple iPhone 12 mini 256GB (PRODUCT)RED,0,Apple,"5,4″ - 13,7 см",256 Гб,12 Mpx + 12 Mpx,12 Mpx
+s437,Смартфон Apple iPhone 12 mini 256GB White,0,Apple,"5,4″ - 13,7 см",256 Гб,12 Mpx + 12 Mpx,12 Mpx + 12 Mpx
+s438,Смартфон Apple iPhone 12 Pro Max 256GB Graphite,0,Apple,"6,7″ - 170,2 мм",256 Гб,12 Mpx + 12 Mpx + 12 Mpx,12 Mpx
+s439,Смартфон Apple iPhone 12 mini 64GB White,0,Apple,"5,4″ - 13,7 см",64 Гб,12 Mpx + 12 Mpx,12 Mpx
+s440,Смартфон Apple iPhone 12 mini 64GB (PRODUCT)RED,0,Apple,"5,4″ - 13,7 см",64 Гб,12 Mpx + 12 Mpx,12 Mpx
+s441,Смартфон Apple iPhone 12 mini 256GB Green,0,Apple,"5,4″ - 13,7 см",256 Гб,12 Mpx + 12 Mpx,12 Mpx
+s442,Смартфон Apple iPhone 12 mini 128GB (PRODUCT)RED,0,Apple,"5,4″ - 13,7 см",128 Гб,12 Mpx + 12 Mpx,12 Mpx
+s443,Смартфон Apple iPhone 12 mini 256GB (PRODUCT)RED,0,Apple,"5,4″ - 13,7 см",256 Гб,12 Mpx + 12 Mpx,12 Mpx
+s444,Смартфон Apple iPhone 12 mini 256GB White,0,Apple,"5,4″ - 13,7 см",256 Гб,12 Mpx + 12 Mpx,12 Mpx + 12 Mpx

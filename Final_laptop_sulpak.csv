@@ -1,0 +1,278 @@
+id,title,price,brand,size,model_cpu,freq,ram_size,storage,code2,video_card
+s1,Ноутбук Acer Aspire 3 A315-34-P351 (NX.HE3ER.010),174990,Acer,"15,6″ - 39,62 см",Intel® Pentium® Silver N5030,1.1 ГГц,4 ГБ,1 ТБ,(NX.HE3ER.010),Intel UHD Graphics 605
+s2,"Ноутбук Apple MacBook Air 13″ (2020) i3 1,1/8Gb/256GB SSD Space Gray (MWTJ2)",553890,Apple,"13,3″ - 33,78 см",Intel® Core™ i3-1000NG4,1.10 ГГц,8 ГБ,256 Гб,(MWTJ2),Iris Plus Graphics
+s3,Ноутбук Acer Aspire 7 Gaming  A715-75G-701Q   (NH.Q87ER.00F),439390,Acer,"15,6″ - 39,62 см",Intel® Core™ i7-9750H,2.6 ГГц,16 ГБ,512 ГБ,(NH.Q87ER.00F),GeForce GTX 1650 Super
+s4,Ноутбук Asus TUF Gaming FX505D (90NR02D1-M12900),339890,Asus,"15,6″ - 39,62 см",AMD Ryzen 5 3550H,2.1 ГГц,8 ГБ,512 ГБ,(90NR02D1-M12900),GeForce GTX 1650 Super
+s5,Ноутбук Asus VivoBook 15 X512D R341TUW (90NB0LZ3-M25760),229990,Asus,"15,6″ - 39,62 см",AMD Ryzen 3 3200U,2.6 ГГц,4 ГБ,1 ТБ,(90NB0LZ3-M25760),Radeon Vega 3
+s6,Ноутбук Acer Aspire 3 A315-54K (NX.HEEER.01Q),269990,Acer,"15,6″ - 39,62 см",Intel® Core™ i5-6300U,2.4 ГГц,4 ГБ,1 ТБ,(NX.HEEER.01Q),Intel HD Graphics 520
+s7,Ноутбук HP Laptop Potter 1.0 I341TUN 1X2S1EA (15-da0567ur),189990,HP,"15,6″ - 39,62 см",Intel® Core™ i3-8130U,,4 ГБ,1 ТБ,(15-da0567ur),Intel UHD Graphics 620
+s8,"Ноутбук Apple MacBook Air 13″ (2020) i3 1,1/8Gb/256GB SSD Gold (MWTL2)",561990,Apple,"13,3″ - 33,78 см",Intel® Core™ i3-1000NG4,1.10 ГГц,8 ГБ,256 Гб, (MWTL2),Iris Plus Graphics
+s9,Ноутбук Acer Predator Triton 700 PT715-51 (NH.Q2KER.002),799990,Acer,"15,6″ - 39,62 см",Intel® Core™ i7-7700HQ,2.8 ГГц,16 ГБ,512 ГБ,(NH.Q2KER.002),GeForce GTX 1060
+s10,Ноутбук Lenovo Legion Y7000 I781T1SGN (81T0001DRK),499990,Lenovo,"15,6″ - 39,62 см",Intel® Core™ i7-9750H,2.6 ГГц,8 ГБ,HDD 1 Тб + SSD 128 Гб,(81T0001DRK),GeForce GTX 1650 Super
+s11,Ноутбук Lenovo IdeaPad 330-15IKB 81DC006URU,284890,Lenovo,"15,6″ - 39,62 см",Intel® Core™ i5-7200U,2.5 ГГц,4 ГБ,500 Гб,,Intel HD Graphics 620
+s12,"Ноутбук Apple MacBook Air 13″ (2020) i3 1,1/8Gb/256GB SSD Silver (MWTK2)",553890,Apple,"13,3″ - 33,78 см",Intel® Core™ i3-1000NG4,1.10 ГГц,8 ГБ,256 Гб,(MWTK2),Iris Plus Graphics
+s13,"Ноутбук Apple MacBook Pro 16"" i9 2.3/16/1TB SSD Silver (MVVM2) ",1541990,Apple,"16″ - 40,64 см",Intel® Core™ i9-9880H,2.3 ГГц,16 ГБ,1 ТБ,(MVVM2),Radeon 5500
+s14,Ноутбук Asus ROG Strix G512L I7165GN (90NR0351-M02900),549990,Asus,"15,6″ - 39,62 см",Intel® Core™ i7-10750H,2.6 ГГц,16 ГБ,512 ГБ,(90NR0351-M02900),GeForce GFX 1650 Ti
+s15,Ноутбук HP Pavilion Gaming 15-dk1017ur 15C51EA,399990,HP,"15,6″ - 39,62 см",Intel ® Core™ i5-10300H,2.5 ГГц,8 ГБ,512 ГБ,,GeForce GTX 1650 Super
+s16,"Ноутбук Apple MacBook Pro 16"" i9 2.3/16/1TB SSD Space Grey (MVVK2) ",1441390,Apple,"16″ - 40,64 см",Intel® Core™ i9-9880H,2.3 ГГц,16 ГБ,1 ТБ,MVVK2) ,Radeon 5500
+s17,"Ноутбук Apple MacBook Air 13″ (2020) i5 1,1/8Gb/512GB SSD Space Gray (MVH22)",720890,Apple,"13,3″ - 33,78 см",Intel® Core™ i5-1030NG7,1.10 ГГц,8 ГБ,512 ГБ,(MVH22),Iris Plus Graphics
+s18,Ноутбук Acer Swift 3 SF314-58G (NX.HPKER.002),439990,Acer,"14″ - 35,56 см",Intel® Core™ i7-10510U,1.8 ГГц,8 ГБ,256 Гб,(NX.HPKER.002),GeForce MX 250
+s19,"Ноутбук Apple MacBook Pro 16"" TB i7 2.6/16/512 SSD Space Grey(MVVJ2) ",1254790,Apple,"16″ - 40,64 см",Intel® Core™ i7-9750H,2.6 ГГц,16 ГБ,512 ГБ,(MVVJ2),Radeon 5300
+s20,Ноутбук Acer Aspire 3 A315-57G-382U I341TMN (NX.HZRER.007),239990,Acer,"15,6″ - 39,62 см",Intel® Core™ i3 1005G1,1.2 ГГц,4 ГБ,1 ТБ,(NX.HZRER.007),GeForce MX 230
+s21,Ультрабук Lenovo IdeaPad 5 14IIL05 (81YH00KFRU),369990,Lenovo,"14″ - 35,56 см",Intel® Core™ i5-10210U,1 ГГц,8 ГБ,512 ГБ,(81YH00KFRU),Intel UHD Graphics 620
+s22,Ноутбук Apple MacBook Air 13″ i5 1.6/8Gb/256Gb SSD Gold (MREF2),632990,Apple,"13,3″ - 33,78 см",Intel® Core™ i5-8210Y,1.6 ГГц,8 ГБ,256 Гб,(MREF2),Intel UHD Graphics 617
+s23,Ноутбук Acer ConceptD CN515-51 (NX.C4JER.002),749990,Acer,"15,6″ - 39,62 см",Core ™ i7-8705G,"3,10",16 ГБ,512 ГБ,(NX.C4JER.002),Radeon
+s24,"Ноутбук Apple MacBook Air 13″ (2020) i5 1,1/8Gb/512GB SSD Silver (MVH42)",720890,Apple,"13,3″ - 33,78 см",Intel® Core™ i5-1030NG7,1.10 ГГц,8 ГБ,512 ГБ, (MVH42),Iris Plus Graphics
+s25,Ноутбук Apple MacBook Pro 13 2020 Space Grey (MWP42),998890,Apple,"13,3″ - 33,78 см",Intel® Core™ i5-165UX,2.0 ГГц,16 ГБ,512 ГБ,(MWP42),Iris Plus Graphics
+s26,"Ноутбук Apple MacBook Pro 16"" i7 2.6/16/512 SSD Silver (MVVL2)",1320990,Apple,"16″ - 40,64 см",Intel® Core™ i7-9750H,2.6 ГГц,16 ГБ,512 ГБ,(MVVL2),Radeon 5300
+s27,Ноутбук Asus Laptop E410M С41UW (90NB0Q12-M03320),179990,Asus,"14″ - 35,56 см",Intel® Celeron® N4020,1.1 ГГц,4 ГБ,128 ГБ,(90NB0Q12-M03320),Intel UHD Graphics 600
+s28,Ноутбук HP Pavilion Gaming R585GN 16D68EA (15-ec1021ur),347290,HP,"15,6″ - 39,62 см",AMD® Ryzen ™ 5 4600H,,8 ГБ,512 ГБ,(15-ec1021ur),GeForce GTX 1650 Super
+s29,"Ноутбук Apple MacBook Air 13″ (2020) i5 1,1/8Gb/512GB SSD Gold (MVH52)",720890,Apple,"13,3″ - 33,78 см",Intel® Core™ i5-1030NG7,1.10 ГГц,8 ГБ,512 ГБ,(MVH52),Iris Plus Graphics
+s30,Ноутбук Acer Predator Triton 300 PT315-52-5123 i5161TSGN (NH.Q7CER.004),659990,Acer,"15,6″ - 39,62 см",Intel ® Core™ i5-10300H,2.5 ГГц,16 ГБ,1 ТБ,(NH.Q7CER.004),GeForce GTX 1660 Ti
+s31,Ноутбук Acer Swift 5 SF514-54T-51UF (NX.HHYER.006),499990,Acer,"14″ - 35,56 см",Intel® Core™ i5-1035G1,1 ГГц,16 ГБ,512 ГБ,(NX.HHYER.006),Intel UHD Graphics
+s32,Ноутбук Acer ConceptD 9 CN917-71-76H5 I7322TSGW (NX.C4LER.005),1999990,Acer,"17,3″ - 43,94 см",Intel® Core™ i7-9750H,,32 Гб,2 Гб,(NX.C4LER.005),GeForce RTX
+s33,Ноутбук Lenovo IdeaPad Gaming 3 I781T1SGN (81Y400NTRK),419990,Lenovo,"15,6″ - 39,62 см",Intel® Core™ i7-9750H,2.6 ГГц,8 ГБ,HDD 1 Тб + SSD 128 Гб,(81Y400NTRK),GeForce GTX 1650 Super
+s34,Ноутбук Apple MacBook Pro 13 2020 Space Grey (MXK52),831890,Apple,"13,3″ - 33,78 см",Intel® Core™ i5-85UX,1.4 ГГц,8 ГБ,512 ГБ,(MXK52),Iris Plus Graphics 645
+s35,Ультрабук Lenovo IdeaPad 5 14IIL05 (81YH00KQRK),359590,Lenovo,"14″ - 35,56 см",Intel® Core™ i5-10210U,1 ГГц,8 ГБ,512 ГБ,(81YH00KQRK),GeForce MX
+s36,Ноутбук Acer Predator Triton 300 PT315-52-58EU I5161TSGN (NH.Q7BER.004),699990,Acer,"15,6″ - 39,62 см",Intel ® Core™ i5-10300H,2.5 ГГц,16 ГБ,1 ТБ,(NH.Q7BER.004),GeForce GTX 2060
+s37,Ноутбук HP Spectre 13-AF009UR (2PT12EA),581790,HP,"13,3″ - 33,78 см",Intel® Core™ i7-8550U,1.8 ГГц,16 ГБ,1 ТБ,(2PT12EA),Intel UHD Graphics 620
+s38,Ноутбук Apple MacBook Pro 13 2020 Silver (MXK72),842990,Apple,"13,3″ - 33,78 см",,1.4 ГГц,8 ГБ,512 ГБ,(MXK72),Iris Plus Graphics 645
+s39,Ноутбук Asus ZenBook 14 UM425I R582SUW (90NB0RT1-M01140),349990,Asus,"14″ - 35,56 см",AMD Ryzen™ 5 4500U,2.3 ГГц,8 ГБ,256 Гб,(90NB0RT1-M01140),Radeon RX
+s40,Ноутбук Acer ConceptD 7 CN715-71P-70XB (NX.C4PER.001),1999890,Acer,"15,6″ - 39,62 см",Intel® Core™ i7-9750H,2.6 ГГц,32 Гб,2 Гб,(NX.C4PER.001),Quadro 5000
+s41,Ноутбук Acer Swift 3 SF314-57-34H1 I382UW (NX.HJ5ER.001),299890,Acer,"14″ - 35,56 см",Intel® Core™ i3 1005G1,1.2 ГГц,8 ГБ,256 Гб,(NX.HJ5ER.001),Intel UHD Graphics
+s42,Ноутбук Acer Predator Triton 500 PT515-52-73Q8 (NH.Q6YER.005),999990,Acer,"15,6″ - 39,62 см",Intel® Core™ i7-10750H,2.6 ГГц,32 Гб,2 Гб,(NH.Q6YER.005),GeForce RTX 2070
+s43,Ноутбук Lenovo Yoga C940 81TE001VRU,754990,Lenovo,"15,6″ - 39,62 см",Intel® Core™ i7-9750H,2.6 ГГц,16 ГБ,512 ГБ,(81TE001VRU),GeForce GTX 1650 Super
+s44,Ноутбук Apple MacBook Pro 13 2020 Space Grey (MWP52),1109890,Apple,"13,3″ - 33,78 см",Intel® Core™ i5-161TSUX,2.0 ГГц,16 ГБ,1 ТБ,(MWP52),Iris Plus Graphics
+s45,Ноутбук Asus TUF Gaming FX505D R785SGN (90NR02D1-M12320),349890,Asus,"15,6″ - 39,62 см",AMD Ryzen 7 3750H,2.3 ГГц,8 ГБ,512 ГБ,(90NR02D1-M12320),GeForce GTX 1650 Super
+s46,"Ультрабук Apple Macbook Pro 13″ Touch Bar i5 2,4/8/512SSD Space Grey (MV972)",999990,Apple,"13,3″ - 33,78 см",Intel® Core™ i5-8279U,2.4 ГГц,8 ГБ,512 ГБ,(MV972),Iris Plus Graphics 655
+s47,Ноутбук Acer ConceptD 5 CN515-71-79QG (NX.C4VER.004),749990,Acer,"15,6″ - 39,62 см",Intel® Core™ i7-9750H,2.6 ГГц,16 ГБ,1 ТБ,(NX.C4VER.004),GeForce RTX 1660Ti
+s48,Ноутбук Asus TUF Gaming FA506I R585GN (90NR03M2-M04110),449990,Asus,"15,6″ - 39,62 см",AMD Ryzen™ 7 4800H,2.9 ГГц,8 ГБ,512 ГБ,(90NR03M2-M04110),GeForce GTX 1650 Ti
+s49,Ноутбук Apple MacBook Pro 13 2020 Silver (MXK62),730990,Apple,"13,3″ - 33,78 см",Intel® Core™ i5-82UX,1.4 ГГц,8 ГБ,256 Гб,(MXK62),Iris Plus Graphics 645
+s50,Ноутбук Acer Predator Helios 300 PH317-54-76VC (NH.Q9WER.001),979990,Acer,"15,6″ - 39,62 см",Intel® Core™ i7-10750H,2.6 ГГц,32 Гб,2 Гб,(NH.Q9WER.001),GeForce RTX 2070
+s51,Ноутбук Asus Vivobook S403F (90NB0LP2-M06800),447190,Asus,"15,6″ - 39,62 см",Intel® Core™ i7-10510U,1.8 ГГц,16 ГБ,,(90NB0LP2-M06800),Intel® UHD Graphics
+s52,Ноутбук Apple MacBook Pro 13 2020 Silver (MWP82),1109890,Apple,"13,3″ - 33,78 см",Intel® Core™ i5-161TSUX,2.0 ГГц,16 ГБ,1 ТБ,(MWP82),Iris Plus Graphics
+s53,Ноутбук Apple MacBook Pro 13 2020 Silver (MWP72),1011990,Apple,"13,3″ - 33,78 см",Intel® Core™ i5-165UX,2.0 ГГц,16 ГБ,512 ГБ,(MWP72),Iris Plus Graphics
+s54,Ноутбук ASUS E Gaming X571G (90NB0NL1-M11970),399990,Asus,"15,6″ - 39,62 см",Intel® Core™ i5-9300H,2.3 ГГц,8 ГБ,512 ГБ,(90NB0NL1-M11970),GeForce GTX 1650 Super
+s55,Ноутбук Acer Swift 7 SF714-52T-55C6 (NX.H98ER.00A),745990,Acer,"14″ - 35,56 см",Intel® Core™ i5-8200Y,1.3 ГГц,8 ГБ,512 ГБ,(NX.H98ER.00A),Intel UHD Graphics 615
+s56,Ноутбук Lenovo IdeaPad Gaming 3 I581T1GN (81Y400NWRK),369990,Lenovo,"15,6″ - 39,62 см",Intel ® Core™ i5-10300H,2.5 ГГц,8 ГБ,HDD 1 Тб + SSD 128 Гб,(81Y400NWRK),GeForce GTX 1650 Super
+s57,Ноутбук Asus TUF Gaming FX705D (90NR02B1-M03930),489990,Asus,"17,3″ - 43,94 см",AMD Ryzen 5 3550H,2.1 ГГц,8 ГБ,512 ГБ,(90NR02B1-M03930),GeForce GTX 1650 Super
+s58,Ноутбук Lenovo IdeaPad 5 15IIL05 I342UW (81YK00PKRK),279990,Lenovo,"15,6″ - 39,62 см",Intel® Core™ i3-10110U,1.2 ГГц,4 ГБ,256 Гб,(81YK00PKRK),Intel UHD Graphics 620
+s59,Ноутбук Asus TUF Gaming FX505GT (90NR02M2-M03250),419990,Asus,"15,6″ - 39,62 см",Intel® Core™ i5-9300H,2.4 ГГц,8 ГБ,512 ГБ,(90NR02M2-M03250),GeForce GTX 1650 Super
+s60,Ноутбук Lenovo IdeaPad Gaming 3 I781T1SGN (81Y400NVRK),439990,Lenovo,"15,6″ - 39,62 см",Intel® Core™ i7-9750H,2.6 ГГц,8 ГБ,HDD 1 Тб + SSD 128 Гб,(81Y400NVRK),GeForce GTX 1650 Ti
+s61,"Ноутбук Acer Nitro 5, AN515-54-5292 (NH.Q59ER.02P)",399990,Acer,"15,6″ - 39,62 см",Intel® Core™ i5-9300H,2.4 ГГц,8 ГБ,512 ГБ,(NH.Q59ER.02P),GeForce GTX 1650 Super
+s62,Ноутбук Asus Zenbook UM431DA-AM020T R785UW (90NB0PB3-M01810),399990,Asus,"14″ - 35,56 см",AMD Ryzen 7 3700U,2.3 ГГц,8 ГБ,512 ГБ,(90NB0PB3-M01810),Radeon
+s63,Ноутбук Apple MacBook Air 13″ i5 1.8/8Gb/128SSD Silver (MQD32),389890,Apple,"13,3″ - 33,78 см",Intel® Core™ i5-5350U,1.8 ГГц,8 ГБ,128 ГБ,(MQD32),Intel HD Graphics 6000
+s64,Ноутбук Acer Aspire 3 A315-54K (NX.HEEER.01F),199990,Acer,"15,6″ - 39,62 см",Intel® Core™ i3-6006U,2.0 ГГц,4 ГБ,1 ТБ,(NX.HEEER.01F),Intel HD Graphics 520
+s65,Ноутбук Asus Vivobook S15 S533FL-BQ019T (90NB0LX3-M00720),369990,Asus,"15,6″ - 39,62 см",Intel® Core™ i5-10210U,1.6 ГГц,8 ГБ,512 ГБ,(90NB0LX3-M00720),GeForce MX 250
+s66,Ноутбук Acer Nitro 5 AN515-42 (NH.Q3RER.003),299990,Acer,"15,6″ - 39,62 см",AMD Ryzen 5 2500U,2.0 ГГц,8 ГБ,1 ТБ,(NH.Q3RER.003),Radeon RX 560X
+s67,Ноутбук Acer Nitro 5 AN515-55-50CH (NH.Q7MER.005),369690,Acer,"15,6″ - 39,62 см",Intel ® Core™ i5-10300H,2.5 ГГц,8 ГБ,512 ГБ,(NH.Q7MER.005),GeForce GTX 1650 Super
+s68,Ноутбук HP Gaming Pavilion 15-ec0031ur (8RU06EA),329890,HP,"15,6″ - 39,62 см",AMD Ryzen 5 3550H,2.1 ГГц,8 ГБ,HDD 1 Тб + SSD 256 Гб,(8RU06EA),GeForce GTX 1650 Super
+s69,"Ноутбук Acer Spin 3, SP314-52-36E8 (NX.H60ER.007)",199990,Acer,"14″ - 35,56 см",Intel® Core™ i3-8145U,2.1 ГГц,4 ГБ,128 ГБ,(NX.H60ER.007),Intel UHD Graphics 620
+s70,Ноутбук Acer Aspire 3 A315-34 C45UW (NX.HE3ER.001),169990,Acer,"15,6″ - 39,62 см",Intel® Celeron® N4000,1.10 ГГц,4 ГБ,500 Гб,(NX.HE3ER.001),Intel HD Graphics SMA (выделяется из операт. памяти)
+s71,Ноутбук ASUS TUF Gaming FX505DT-AL097 (R585GN),319990,Asus,"15,6″ - 39,62 см",AMD Ryzen 5 3550H,2.1 ГГц,8 ГБ,512 ГБ,(R585GN),GeForce GTX 1650 Super
+s72,Ноутбук ASUS TUF Gaming FX506 R585GW (90NR03M2-M04310),349990,Asus,"15,6″ - 39,62 см",AMD® Ryzen ™ 5 4600H,,8 ГБ,512 ГБ,(90NR03M2-M04310),GeForce GTX 1650 Super
+s73,Ноутбук Asus Laptop X509UJ-EJ037T Slate Gray (90NB0N72-M00430),259990,Asus,"15,6″ - 39,62 см",‎Intel® Core™ i3-7020U,2.3 ГГц,4 ГБ,1 ТБ,(90NB0N72-M00430),GeForce MX 230
+s74,Ноутбук Acer Nitro 5 AN515-43 R5КТ (NH.Q6ZER.00D),369990,Acer,"15,6″ - 39,62 см",AMD Ryzen 5 3550H,2.1 ГГц,16 ГБ,512 ГБ,(NH.Q6ZER.00D),GeForce GTX 1650 Super
+s75,Ноутбук Lenovo Legion Y540 81SY00N7RK,399990,Lenovo,"15,6″ - 39,62 см",Intel® Core™ i5-9300H,2.4 ГГц,8 ГБ,HDD 1 Тб + SSD 128 Гб,(81SY00N7RK),GeForce GTX 1650 Super
+s76,Ноутбук Acer Nitro 5 AN515-43 R18U (NH.Q6ZER.00C),349990,Acer,"15,6″ - 39,62 см",AMD Ryzen 5 3550H,2.1 ГГц,8 ГБ,512 ГБ,(NH.Q6ZER.00C),GeForce GTX 1650 Super
+s77,Ноутбук Acer Aspire 3 A315-34 C45UN (NX.HE3ER.003),149990,Acer,"15,6″ - 39,62 см",Intel® Celeron® N4000,1.10 ГГц,4 ГБ,500 Гб,(NX.HE3ER.003),Intel UHD Graphics 600
+s78,Ноутбук Asus ROG Strix G G531GT-AL007 (90NR01L3-M05960),429990,Asus,"15,6″ - 39,62 см",Intel® Core™ i5-9300H,2.4 ГГц,8 ГБ,512 ГБ,(90NR01L3-M05960),GeForce GTX 1650 Super
+s79,Ноутбук Acer Nitro 5 AN515-54 i5165GN (NH.Q59ER.02Y),449990,Acer,"15,6″ - 39,62 см",Intel® Core™ i5-9300H,2.4 ГГц,16 ГБ,512 ГБ,(NH.Q59ER.02Y),GeForce GTX 1650 Super
+s80,Ноутбук Asus Vivobook X403FA-EB021T Silver Blue & Sand Blast (90NB0LP2-M02040),275690,Asus,"14″ - 35,56 см",Intel® Core™ i5-8265U,1.6 ГГц,8 ГБ,512 ГБ,(90NB0LP2-M02040),Intel UHD Graphics
+s81,"Ноутбук Acer Swift 1, SF114-32, (NX.GXUER.007)",149990,Acer,"14″ - 35,56 см",Intel® Celeron® N4000,1.10 ГГц,4 ГБ,128 ГБ,(NX.GXUER.007),Intel UHD Graphics 600
+s82,Ноутбук Asus VivoBook 15 X512JA (90NB0QU6-M02240),329990,Asus,"15,6″ - 39,62 см",Intel® Core™ i5-1035G1,1 ГГц,8 ГБ,512 ГБ,(90NB0QU6-M02240),Intel UHD Graphics
+s83,Ноутбук Acer Aspire 3 A315-54K NX.HEEER.01G,209990,Acer,"15,6″ - 39,62 см",Intel® Core™ i3-6006U,2.0 ГГц,4 ГБ,1 ТБ,(NX.HEEER.01G),Intel HD Graphics 250
+s84,Ноутбук Acer Predator Helios 500 PH517-61 Obsidian Black (NH.Q3GER.003),499990,Acer,"17,3″ - 43,94 см",AMD Ryzen 5 2600,3.9 ГГц,16 ГБ,HDD 1 ТБ + SSD 512 ГБ,(NH.Q3GER.003),Radeon™ RX Vega 56
+s85,Ноутбук Asus Laptop X507MA-EJ305T (90NB0HL1-M05420),149990,Asus,"15,6″ - 39,62 см",Intel® Pentium® N5000,1.10 ГГц,4 ГБ,500 Гб,(90NB0HL1-M05420),Intel UHD Graphics 605
+s86,Ноутбук Acer Extensa EX215-21-47NN (NX.EFUER.001),109990,Acer,"15,6″ - 39,62 см",AMD A4-9120e,1.8 ГГц,4 ГБ,500 Гб,(NX.EFUER.001),Radeon R3
+s87,Ноутбук Acer Swift 3 SF314-57G-59DK I585MW (NX.HUGER.002),389690,Acer,"14″ - 35,56 см",Intel® Core™ i5-1035G1,1 ГГц,8 ГБ,512 ГБ,(NX.HUGER.002),GeForce MX
+s88,Ноутбук Acer Nitro 5 AN515-43 NH.Q6NER.003,269990,Acer,,AMD Ryzen 5 3550H,2.1 ГГц,16 ГБ,512 ГБ,(NH.Q6NER.003),GeForce GTX 1050 Ti
+s89,"Ноутбук Apple MacBook Pro 13"" i5 2.3/8/128Gb Space Gray (MPXQ2)",499990,Apple,"13″ - 33,02 см",Intel® Core™ i5-5257U,2.3 ГГц,8 ГБ,128 ГБ,(MPXQ2),Iris Graphics 640
+s90,Ноутбук Lenovo Legion Y540-15IRH-PG0 Black 81SY00ERRK,339990,Lenovo,"15,6″ - 39,62 см",Intel® Core™ i5-9300H,2.4 ГГц,8 ГБ,512 ГБ,,GeForce GTX 1650 Super
+s91,Ноутбук Acer Aspire 3 A315-55 (NX.HEHER.01G),259990,Acer,"15,6″ - 39,62 см",‎Intel® Core™ i3-7020U,2.3 ГГц,4 ГБ,1 ТБ,(NX.HEHER.01G),GeForce MX 130
+s92,Ноутбук Acer Extensa 15 EX215-51K 50BY (NX.EFPER.019),299990,Acer,"15,6″ - 39,62 см",Intel® Core™ i5-6300U,2.4 ГГц,8 ГБ,512 ГБ,(NX.EFPER.019),
+s93,Ноутбук Asus Laptop X507M 90NB0HL1-M05410,169990,Asus,"14″ - 35,56 см",Intel® Celeron® N4000,1.10 ГГц,4 ГБ,500 Гб,,Intel UHD Graphics
+s94,Ноутбук Asus Laptop 15 X509JB-EJ060T (90NB0QD1-M01540),269990,Asus,"15,6″ - 39,62 см",Intel® Core™ i3 1005G1,1.2 ГГц,4 ГБ,1 ТБ,(90NB0QD1-M01540),GeForce MX 110
+s95,Ноутбук Lenovo Ideapad S145 (81N300DXRK),119990,Lenovo,"15,6″ - 39,62 см",AMD A6-9225,2.6 ГГц,4 ГБ,500 Гб,(81N300DXRK),Radeon R4 UMA
+s96,Ноутбук Acer Nitro 5 AN515-43 NH.Q5XER.004,239990,Acer,,AMD Ryzen 5 3550H,2.1 ГГц,8 ГБ,512 ГБ,(NH.Q5XER.004),Radeon RX 560X
+s97,Ноутбук Asus Laptop 15 X509M (90NB0Q32-M00620),199990,Asus,"15,6″ - 39,62 см",Intel® Pentium® N5000,1.1 ГГц,4 ГБ,500 Гб,(90NB0Q32-M00620),Intel UHD Graphics 605
+s98,Ноутбук Acer Nitro 5 AN515-54 (NH.Q5AER.01P),309990,Acer,"15,6″ - 39,62 см",Intel® Core™ i5-9300H,2.4 ГГц,8 ГБ,512 ГБ,(NH.Q5AER.01P),GeForce GTX 1050
+s99,"Ноутбук Hewlett Packard HP-255 G7, A445UN, 6HM04EA",95090,HP,"15,6″ - 39,62 см",AMD A4-9125,2.3 ГГц,4 ГБ,500 Гб,,Radeon R3
+s100,Ноутбук Acer Aspire 3 A315-55G-58MV (NX.HEDER.021),279990,Acer,"15,6″ - 39,62 см",Intel® Core™ i5-8265U,1.6 ГГц,8 ГБ,1 ТБ,(NX.HEDER.021),GeForce MX MX130
+s101,"Ноутбук Acer Extensa, EX2519-P07G, (NX.EFAER.059) ",139990,Acer,"15,6″ - 39,62 см",Intel® Pentium® N3710,1.6 ГГц,4 ГБ,1 ТБ,(NX.EFAER.059) ,Intel HD Graphics 405
+s102,Ноутбук Asus Vivobook X403FA-EB022 I385UN (90NB0LP2-M04400),279990,Asus,"14″ - 35,56 см",Intel® Core™ i3-8145U,,8 ГБ,512 ГБ,(90NB0LP2-M04400),Intel HD Graphics 620
+s103,Ноутбук Asus Vivobook X420UA-EK063T Transparent Silver (90NB0LA1-M06510),149990,Asus,"14″ - 35,56 см",Intel® Pentium® 4415U,2.3 ГГц,4 ГБ,256 Гб,(90NB0LA1-M06510),Intel HD Graphics 610
+s104,"Ультрабук Apple MacBook Air 13'' i5 1,6/8Gb/128GB SSD Space Grey (MVFH2)",459990,Apple,"13,3″ - 33,78 см",Intel® Core™ i5-8210Y,1.6 ГГц,8 ГБ,128 ГБ,(MVFH2),Intel UHD Graphics 617
+s105,Ноутбук Lenovo Ideapad S145-15IGM (81MX00B0RK),149990,Lenovo,"15,6″ - 39,62 см",Intel® Celeron® N4000,1.10 ГГц,4 ГБ,500 Гб,(81MX00B0RK),Intel HD Graphics 630M
+s106,Ноутбук Asus Laptop X543UA-DM1526T Star Gray (90NB0HF7-M31120),189990,Asus,"15,6″ - 39,62 см",‎Intel® Core™ i3-7020U,2.3 ГГц,4 ГБ,1 ТБ,(90NB0HF7-M31120),Intel HD Graphics 620
+s107,Ноутбук HP Potter 15-da0552ur C41TUN 14T41EA,119990,HP,"15,6″ - 39,62 см",Intel® Celeron® N4000,1.10 ГГц,4 ГБ,1 ТБ,,Intel UHD Graphics 600
+s108,"Ноутбук Lenovo Legion Y530-15ICH, I581T1SGN, 81FV01CMRK",309990,Lenovo,"15,6″ - 39,62 см",Intel® Core™ i5-8300H,2.3 ГГц,8 ГБ,HDD 1 Тб + SSD 128 Гб,(81FV01CMRK),GeForce GTX 1050
+s109,Ноутбук Apple MacBook Pro 13.3″ Touch Bar i5 /8Gb/128GB/ Silver (MUHQ2),579990,Apple,"13,3″ - 33,78 см",Intel® Core™ i5-8257U,1.4 ГГц,8 ГБ,128 ГБ,(MUHQ2),Iris Plus Graphics 645
+s110,Ноутбук Asus Laptop M509DA-EJ126 90NB0P51-M01550,169990,Asus,"15,6″ - 39,62 см",AMD Ryzen 3200U,2.6 ГГц,8 ГБ,1 ТБ,(90NB0P51-M01550),Radeon Vega 3
+s111,"Ноутбук Lenovo Legion Y540-15IRH-PG0, Black, 81SY00FDRK",449990,Lenovo,"15,6″ - 39,62 см",Intel® Core™ i7-9750H,2.6 ГГц,16 ГБ,1 ТБ,(81SY00FDRK),GeForce GTX 1650 Super
+s112,Ноутбук Asus Laptop 15 X509JB-EJ059 (90NB0QD2-M01800),259990,Asus,"15,6″ - 39,62 см",Intel® Core™ i3 1005G1,1.2 ГГц,4 ГБ,1 ТБ,(90NB0QD2-M01800),GeForce MX 110
+s113,Ноутбук Lenovo Ideapad S145-15IWL (81MV01ADRK),259990,Lenovo,"15,6″ - 39,62 см",Intel® Core™ i3-8145U,2.1 ГГц,4 ГБ,1 ТБ,(81MV01ADRK),GeForce MX MX 110
+s114,"Ноутбук Acer Extensa EX2519, Black (NX.EFAER.122)",139990,Acer,,Intel® Celeron® N3060,1.6 ГГц,4 ГБ,500 Гб,(NX.EFAER.122),Intel HD Graphics 500
+s115,"Ноутбук Asus Vivobook, X420UA-EK295T Transparent Silver (90NB0LA1-M07080)",209990,Asus,"14″ - 35,56 см",‎Intel® Core™ i3-7020U,2.3 ГГц,8 ГБ,512 ГБ,(90NB0LA1-M07080),Intel HD Graphics 620
+s116,Ноутбук Acer Nitro 5 AN515-44-R329 (NH.Q9GER.006),419990,Acer,"15,6″ - 39,62 см",AMD® Ryzen ™ 5 4600H,3.0 ГГц,16 ГБ,512 ГБ,(NH.Q9GER.006),GeForce GTX 1650 Super
+s117,Ноутбук Apple MacBook 12″ Core M3 1.1/8/256SSD Space Gray (MLH72),521890,Apple,"12″ - 30,48 см",Intel® Core™ m3-6Y30,1.10 ГГц,4 ГБ,256 Гб,(MLH72),Intel HD Graphics
+s118,Ноутбук Acer Aspire 7 Gaming A715-75G-52C8 (NH.Q99ER.002),369990,Acer,"15,6″ - 39,62 см",Intel ® Core™ i5-10300H,2.5 ГГц,8 ГБ,512 ГБ,(NH.Q99ER.002),GeForce GTX 1650 Super
+s119,Ноутбук Acer Spin 3 SP314-54N-36CU (NX.HQCER.002),239990,Acer,"14″ - 35,56 см",Intel® Core™ i3 1005G1,1.2 ГГц,8 ГБ,256 Гб,(NX.HQCER.002),Intel UHD Graphics Intel® UHD Graphics
+s120,Ноутбук Asus Laptop M509DA-EJ188T Transparent Silver  (90NB0P51-M02650),189990,Asus,"15,6″ - 39,62 см",AMD Ryzen 3 2200U,2.6 ГГц,4 ГБ,500 Гб,(90NB0P51-M02650),
+s121,Ноутбук Lenovo Ideapad S145-15API (81UT00GCRK),219990,Lenovo,"15,6″ - 39,62 см",AMD Ryzen 3 3200U,2.6 ГГц,4 ГБ,500 Гб,(81UT00GCRK),Intel HD Graphics 630M
+s122,Ноутбук Acer Aspire 3 A315-42 R381TUN (NX.HF9ER.02K),199990,Acer,"15,6″ - 39,62 см",AMD Ryzen 3 3200U,2.6 ГГц,8 ГБ,1 ТБ,(NX.HF9ER.02K),Radeon HD Vega 3
+s123,Ноутбук Acer Aspire 3 A315-34 C41TUN (NX.HE3ER.00B),149990,Acer,"15,6″ - 39,62 см",Intel® Celeron® N4000,1.10 ГГц,4 ГБ,1 ТБ,(NX.HE3ER.00B),Intel UHD Graphics 600
+s124,Ноутбук Acer Extensa EX2519-P1KB (NX.EFAER.12A),159990,Acer,"15,6″ - 39,62 см",Intel® Pentium® N3710,1.6 ГГц,4 ГБ,1 ТБ,(NX.EFAER.12A),Intel HD Graphics
+s125,Ноутбук Acer Nitro 5 AN515-43 (NH.Q6NER.004),349990,Acer,"15,6″ - 39,62 см",AMD Ryzen 5 3550H,2.1 ГГц,16 ГБ,HDD 1 ТБ + SSD 512 ГБ,(NH.Q6NER.004),GeForce GTX 1050 Ti
+s126,Ноутбук Lenovo Ideapad S340 Platinum Grey (81VV00J1RK),269990,Lenovo,"14″ - 35,56 см",Intel® Core™ i3-8145U,,8 ГБ,512 ГБ,(81VV00J1RK),Intel HD Graphics 630M
+s127,Ноутбук HP Maldives 15-dw1029ur I581TMW 13F99EA,279990,HP,"15,6″ - 39,62 см",Intel® Core™ i5-10210U,1.6 ГГц,8 ГБ,1 ТБ,,GeForce MX 110
+s128,Ноутбук Lenovo Ideapad S145-15IIL (81W800KNRK),219990,Lenovo,"15,6″ - 39,62 см",Intel® Core™ i3 1005G1,1.2 ГГц,4 ГБ,1 ТБ,(81W800KNRK),Intel HD Graphics 630M
+s129,Ноутбук Acer Aspire 3 A315-55G I345UN (NX.HEEER.01Z),219990,Acer,"15,6″ - 39,62 см",‎Intel® Core™ i3-7020U,2.3 ГГц,4 ГБ,512 ГБ,(NX.HEEER.01Z),
+s130,Ноутбук Asus ROG Strix G531G I585GN (90NR01L3-M13730),429990,Asus,"15,6″ - 39,62 см",Intel® Core™ i5-9300H,2.4 ГГц,8 ГБ,512 ГБ,(90NR01L3-M13730),GeForce GTX 1650 Super
+s131,Ноутбук Asus VivoBook X420F (90NB0K01-M05090),269990,Asus,"14″ - 35,56 см",Intel® Core™ i3-10110U,2.1 ГГц,4 ГБ,256 Гб,(90NB0K01-M05090),Intel UHD Graphics 620
+s132,Ноутбук HP Pavilion-15 15-cs3080ur I385UW (16F73EA),269990,HP,"15,6″ - 39,62 см",Intel® Core™ i3 1005G1,1.2 ГГц,8 ГБ,512 ГБ,(16F73EA),Intel UHD Graphics
+s133,Ноутбук Asus VivoBook 15 X512J (90NB0QU6-M05620),269990,Asus,"15,6″ - 39,62 см",Intel® Core™ i3 1005G1,1.2 ГГц,4 ГБ,1 ТБ,(90NB0QU6-M05620),Intel UHD Graphics G1
+s134,Ноутбук Acer Aspire 3 A315-55G 51К0 (NX.HNSER.008),339990,Acer,"15,6″ - 39,62 см",Intel® Core™ i5-10210U,1.6 ГГц,8 ГБ,512 ГБ,(NX.HNSER.008),GeForce MX 230
+s135,Ноутбук Acer Aspire 3 A315-54K i345UN (NX.HEEER.02R),229990,Acer,"15,6″ - 39,62 см",Intel® Core™ i3-8130U,2.2 ГГц,4 ГБ,512 ГБ,(NX.HEEER.02R),Intel UHD Graphics 620
+s136,Ноутбук Hewlett Packard Pavilion Gaming 15-Dk0038ur (7PW50EA),399990,HP,"15,6″ - 39,62 см",Intel® Core™ i5-9300H,2.4 ГГц,8 ГБ,HDD 1 Тб + SSD 256 Гб,(7PW50EA),GeForce GTX 1650 Super
+s137,Ноутбук Asus Vivobook X420FA-EB234T Transparent Silver (90NB0K01-M04700),229990,Asus,"14″ - 35,56 см",Intel® Core™ i3-8145U,2.1 ГГц,4 ГБ,512 ГБ,(90NB0K01-M04700),Intel UHD Graphics 620
+s138,"Ноутбук ASUS ROG Strix, G512LI-HN094, I585GN, 90NR0381-M02410",426890,Asus,"15,6″ - 39,62 см",Intel ® Core™ i5-10300H,2.5 ГГц,8 ГБ,512 ГБ,(90NR0381-M02410),GeForce GTX 1650 Ti
+s139,Ноутбук Acer Swift 3 SF314-57-35KA I382UW (NX.HJ7ER.003),300390,Acer,"14″ - 35,56 см",Intel® Core™ i3 1005G1,1.2 ГГц,8 ГБ,256 Гб,(NX.HJ7ER.003),Intel UHD Graphics
+s140,Ноутбук ASUS Zenbook 14 UX433F (90NB0JR4-M13400),319990,Asus,"14″ - 35,56 см",Intel® Core™ i3-8145U,2.1 ГГц,8 ГБ,512 ГБ,(90NB0JR4-M13400),Intel UHD Graphics 620
+s141,Ноутбук Asus FX505D 90NR02N2-M03000,419990,Asus,"14″ - 35,56 см",AMD Ryzen 7 3750H,2.3 ГГц,16 ГБ,512 ГБ,(90NR02N2-M03000),GeForce RTX 2060
+s142,"Ноутбук HUAWEI Matebook D14, Nbl-WAQ9R",249990,Huawei,,AMD Ryzen 5 3500U,2.1 ГГц,8 ГБ,512 ГБ,(Nbl-WAQ9R),Radeon Vega 8 Vega 8
+s143,"Ноутбук Acer Aspire 3, A315-55, NX.HEHER.01H",239990,Acer,"15,6″ - 39,62 см",‎Intel® Core™ i3-7020U,2.3 ГГц,8 ГБ,1 ТБ,(NX.HEHER.01H),GeForce MX 130
+s144,Ноутбук Lenovo Ideapad S340 Abyss Blue (81VV00J2RK),244990,Lenovo,"14″ - 35,56 см",Intel® Core™ i3 1005G1,1.2 ГГц,8 ГБ,512 ГБ,(81VV00J2RK),Intel HD Graphics 630M
+s145,"Ультрабук Apple Macbook Air i5 1,6/8Gb/128GB SSD Gold (MVFM2) 2019",459990,Apple,"13,3″ - 33,78 см",Intel® Core™ i5-8210Y,1.6 ГГц,8 ГБ,128 ГБ,(MVFM2),Intel UHD Graphics 617
+s146,"Ноутбук HP 15-ec0013ur, R585GN, 8NF73EA",319990,HP,"15,6″ - 39,62 см",AMD Ryzen 5 3550H,2.1 ГГц,8 ГБ,512 ГБ,(8NF73EA),GeForce GTX 1650 Super
+s147,Ноутбук Acer Predator Triton PT315-51 (NH.Q6DER.008),419990,Acer,"15,6″ - 39,62 см",Intel® Core™i5 9300H,2.4 ГГц,8 ГБ,512 ГБ,(NH.Q6DER.008),GeForce GTX 1650 Super
+s148,Ноутбук Lenovo Ideapad  S145-15IGM (81MX00AXRK),151990,Lenovo,"15,6″ - 39,62 см",Intel® Pentium® N5000,1.10 ГГц,4 ГБ,500 Гб,(81MX00AXRK),Intel HD Graphics 630M
+s149,Ноутбук Lenovo Legion Y540 81SX00XNRK,488990,Lenovo,"15,6″ - 39,62 см",Intel® Core™ i7-9750H,2.4 ГГц,16 ГБ,1 ТБ,(81SX00XNRK),GeForce GTX 1660 Ti
+s150,Ноутбук Acer Nitro 5 AN515-44-R67F (NH.Q9GER.008),379990,Acer,"15,6″ - 39,62 см",AMD® Ryzen ™ 5 4600H,3.0 ГГц,8 ГБ,512 ГБ,(NH.Q9GER.008),GeForce GTX 1650 Super
+s151,Ноутбук Asus Laptop M509DA-BR081T (90NB0P51-M02970),209990,Asus,"15,6″ - 39,62 см",AMD Ryzen 5 3550H,2.1 ГГц,8 ГБ,1 ТБ,(90NB0P51-M02970),Radeon Vega 8
+s152,"Ноутбук Xiaomi Mi NoteBook Air 12,5"" Silver (JYU4047CN)",189990,Xiaomi,"12,5″ - 31,75 см",Intel® Core™ M3-7Y30,1 ГГц,4 ГБ,128 ГБ,(JYU4047CN),Intel HD Graphics 615
+s153,"Ноутбук Apple MacBook Pro 13.3″ Touch Bar i5 1,4/8Gb/128GB SSD Space Gray (MUHN2)",577790,Apple,"13,3″ - 33,78 см",Intel® Core™ i5-8257U,1.4 ГГц,8 ГБ,128 ГБ,(MUHN2),Iris Plus Graphics 645
+s154,Ноутбук Lenovo Ideapad S145 81W800KSRK,259990,Lenovo,"15,6″ - 39,62 см",Intel® Core™ i5-1035G1,1 ГГц,4 ГБ,1 ТБ,(81W800KSRK),Intel HD Graphics 630M
+s155,Ноутбук Lenovo IdeaPad 3 L3 15IML05 I341TMN (81Y30020RK),239990,Lenovo,"15,6″ - 39,62 см",Intel® Core™ i3-10110U,2.1 ГГц,4 ГБ,1 ТБ,(81Y30020RK),GeForce MX 130
+s156,Ноутбук Lenovo IdeaPad S540 (81NF00E8RK),316990,Lenovo,"14″ - 35,56 см",Intel® Core™ i5-10210U,1.6 ГГц,8 ГБ,512 ГБ,(81NF00E8RK),GeForce MX250
+s157,Ноутбук Lenovo IdeaPad S340-14API R582UN (81NB00F2RK),194990,Lenovo,"14″ - 35,56 см",AMD Ryzen 5 3500U,2.1 ГГц,8 ГБ,256 Гб,(81NB00F2RK),Radeon Vega 8
+s158,Ноутбук Acer Nitro 5 AN515-43 NH.Q6NER.002,249990,Acer,,AMD Ryzen 5 3550H,2.1 ГГц,8 ГБ,512 ГБ,,GeForce GTX 1050 Ti
+s159,Ноутбук Hewlett Packard Pavilion Gaming 15-dk0036ur I585GN 7QA10EA,399990,HP,"15,6″ - 39,62 см",Intel® Core™ i5-9300H,2.4 ГГц,8 ГБ,512 ГБ,,GeForce GTX 1650 Super
+s160,"Ноутбук HP 15-ec0041ur, R581TSGN, 9PU27EA",399990,HP,"15,6″ - 39,62 см",AMD Ryzen 5 3550H,2.1 ГГц,8 ГБ,1 ТБ,,GeForce GTX 1660 Ti
+s161,Ноутбук Asus X420F i342UN (90NB0K01-M04880),219990,Asus,"14″ - 35,56 см",Intel® Core™ i3-8145U,2.1 ГГц,8 ГБ,256 Гб,(90NB0K01-M04880),Intel UHD Graphics 620
+s162,"Ноутбук Lenovo Ideapad 330S-15IKB, (81F501A6RU)",287490,Lenovo,"15,6″ - 39,62 см",Intel® Core™ i5-8250U,1.6 ГГц,12 Гб + 16 Гб Optane,1 ТБ,(81F501A6RU),Radeon 540
+s163,Ноутбук Acer Nitro 7 AN715-51 (NH.Q5HER.009),449990,Acer,"15,6″ - 39,62 см",Intel® Core™ i5-9300H,2.4 ГГц,8 ГБ,512 ГБ,(NH.Q5HER.009),GeForce GTX 1660 Ti
+s164,Ноутбук Asus Vivobook 14 X420UA-EK220T Transparent Silver (90NB0LA1-M06300),212190,Asus,"14″ - 35,56 см",‎Intel® Core™ i3-7020U,2.3 ГГц,8 ГБ,256 Гб,(90NB0LA1-M06300),Intel HD Graphics 620
+s165,Ноутбук Acer Swift 3 SF314-57-56VE (NX.HJHER.006),369990,Acer,"14″ - 35,56 см",Intel® Core™ i5-1035G1,1 ГГц,8 ГБ,256 Гб,(NX.HJHER.006),UHD 630 HD Graphics
+s166,Ноутбук Acer Aspire 3 A315-55G 3239 (NX.HEHER.01F),264990,Acer,"15,6″ - 39,62 см",‎Intel® Core™ i3-7020U,2.3 ГГц,8 ГБ,1 ТБ,(NX.HEHER.01F),GeForce MX 130
+s167,Ноутбук Acer Aspire 3 A315-54K (NX.HEEER.02K),199990,Acer,"15,6″ - 39,62 см",Intel® Core™ i3-8130U,2.2 ГГц,4 ГБ,1 ТБ,(NX.HEEER.02K),Intel UHD Graphics 620
+s168,Ноутбук Acer Aspire 3 A315-55KG-38DK I341TMW (NX.HEHER.028),259990,Acer,"15,6″ - 39,62 см",Intel® Core™ i3-8130U,2.2 ГГц,4 ГБ,1 ТБ,(NX.HEHER.028),GeForce MX 130
+s169,Ноутбук Lenovo Legion Y7000 I781T1SGN (81NS001TRK),559990,Lenovo,"15,6″ - 39,62 см",Intel® Core™ i7-9750H,2.6 ГГц,8 ГБ,HDD 1 Тб + SSD 128 Гб,(81NS001TRK),GeForce RTX 2060
+s170,Ноутбук Asus Laptop 15 X509J (90NB0QE2-M04160),219990,Asus,"15,6″ - 39,62 см",Intel® Core™ i3 1005G1,1.2 ГГц,4 ГБ,1 ТБ,(90NB0QE2-M04160),Intel UHD Graphics
+s171,Ноутбук Lenovo IdeaPad S340-15API R382UN (81NC00K7RK),155990,Lenovo,"15,6″ - 39,62 см",AMD Ryzen 3200U,2.6 ГГц,8 ГБ,256 Гб,(81NC00K7RK),Radeon Vega 3
+s172,Ультрабук Asus VivoBook 14 X412FA (90NB0L91-M18300),229990,Asus,"14″ - 35,56 см",Intel® Pentium® Gold 5405U,2.3 ГГц,4 ГБ,512 ГБ,(90NB0L91-M18300),Intel UHD Graphics 610
+s173,Ноутбук Asus FA506 R7161SGN (90NR03L1-M03470),499990,Asus,"15,6″ - 39,62 см",AMD Ryzen™ 7 4800H,2.9 ГГц,16 ГБ,1 ТБ,(90NR03L1-M03470),GeForce RTX 2060
+s174,Ультрабук Apple Macbook Pro 13″ Touch Bar  i5 2.4 /8GB/512GB SSD Silver (MV9A2),879990,Apple,"13,3″ - 33,78 см",Intel® Core™ i5-8279U,2.4 ГГц,8 ГБ,512 ГБ,(MV9A2),Iris Plus Graphics 655
+s175,"Ноутбук Apple MacBook 15"" Touch Bar i7 2.8/16/256 Silver (MPTR2)",976590,Apple,"15,4″ - 39,12 см",Intel® Core™ i7-7700HQ,2.8 ГГц,16 ГБ,256 Гб,(MPTR2),Radeon Pro 555
+s176,"Ноутбук HUAWEI Matebook D15, Boh-WAQ9R",259990,Huawei,,AMD Ryzen 5 3500U,2.1 ГГц,8 ГБ,256 Гб,(Boh-WAQ9R),Radeon Vega 8 Vega 8
+s177,"Ноутбук Lenovo Ideapad 330S-14IKB, (81F400V4RU)",240490,Lenovo,"14″ - 35,56 см",Intel® Core™ i5-8250U,1.6 ГГц,8 ГБ,256 Гб,(81F400V4RU),Intel UHD Graphics 620
+s178,Ноутбук Acer Aspire 3 A315-55G I541TMN (NX.HNSER.00F),289990,Acer,"15,6″ - 39,62 см",Intel® Core™ i5-10210U,1.6 ГГц,4 ГБ,1 ТБ,(NX.HNSER.00F),GeForce MX 230
+s179,Ноутбук Acer Swift 3 SF314-57-38QB I385UW (NX.HHXER.002),329990,Acer,"14″ - 35,56 см",Intel® Core™ i3 1005G1,1.2 ГГц,8 ГБ,512 ГБ,(NX.HHXER.002),Intel UHD Graphics
+s180,Ноутбук Acer Nitro 5 AN515-55-770N I7161TSGN (NH.Q7PER.008),499990,Acer,"15,6″ - 39,62 см",Intel® Core™ i7-10750H,2.6 ГГц,16 ГБ,1 ТБ,(NH.Q7PER.008),GeForce GTX 1660 Ti
+s181,Ноутбук Acer Aspire 5 A515-43G-R5NP R581TMN (NX.HF5ER.003),259990,Acer,"15,6″ - 39,62 см",AMD Ryzen 5 3500U,2.1 ГГц,8 ГБ,1 ТБ,(NX.HF5ER.003),Radeon 540X
+s182,Ноутбук HP ENVY-13 13-ar0016ur R585UW (9PU38EA),360990,HP,"13,3″ - 33,78 см",AMD Ryzen 5 3500U,2.1 ГГц,8 ГБ,512 ГБ,(9PU38EA),Radeon Vega 8
+s183,Ноутбук Acer Swift 1 SF114-32 Silver (NX.GXUER.00B),159990,Acer,"14″ - 35,56 см",Intel® Pentium® N5000,1.10 ГГц,4 ГБ,256 Гб,(NX.GXUER.00B),Intel UHD Graphics 605
+s184,Ноутбук Asus VivoBook S14 S433F (90NB0Q04-M03020),279990,Asus,"14-15,6″",Intel® Core™ i5-10210U,1.6 ГГц,8 ГБ,512 ГБ,(90NB0Q04-M03020),Intel HD Graphics
+s185,Ноутбук Lenovo Ideapad S145-15IWL (81MV011TRK),119990,Lenovo,"15,6″ - 39,62 см",Intel® Pentium® Gold 5405U,2.3 ГГц,4 ГБ,1 ТБ,(81MV011TRK),GeForce MX MX 110
+s186,Ультрабук Lenovo IdeaPad 5 14IIL05 (81YH00KERK),319990,Lenovo,"14″ - 35,56 см",Intel® Core™ i3 1005G1,1.2 ГГц,8 ГБ,512 ГБ,(81YH00KERK),Intel UHD Graphics 620
+s187,Ноутбук Acer Swift 1 SF114-32 (NX.GXRER.001),149990,Acer,"14″ - 35,56 см",,1.10 ГГц,4 ГБ,128 ГБ,(NX.GXRER.001),
+s188,Ноутбук Acer Predator Helios 300 PH315-53-53Z7 (NH.Q7YER.007),669990,Acer,"15,6″ - 39,62 см",Intel ® Core™ i5-10300H,2.5 ГГц,16 ГБ,1 ТБ,(NH.Q7YER.007),GeForce RTX 2060
+s189,Ноутбук Asus Laptop 15 X509J (90NB0QE1-M01710),219990,Asus,"15,6″ - 39,62 см",Intel® Core™ i3 1005G1,1.2 ГГц,4 ГБ,256 Гб,(90NB0QE1-M01710),Intel UHD Graphics
+s190,Ноутбук Apple MacBook Pro 13 2020 Space Grey (MXK32),730990,Apple,"13,3″ - 33,78 см",Intel® Core™ i5-82UX,1.4 ГГц,8 ГБ,256 Гб,(MXK32),Iris Plus Graphics 645
+s191,Ноутбук Asus ROG Strix G G531GT-AL003 (90NR01L3-M08800),429990,Asus,"15,6″ - 39,62 см",Intel® Core™ i7-9750H,2.6 ГГц,16 ГБ,512 ГБ,(90NR01L3-M08800),GeForce GTX 1650 Super
+s192,"Ноутбук Lenovo IdeaPad 330-15IKB, I541TMN, 81DC017VRK",289990,Lenovo,"15,6″ - 39,62 см",Intel® Core™ i5-7200U,2.5 ГГц,4 ГБ,1 ТБ,(81DC017VRK),GeForce MX 110
+s193,Ноутбук Lenovo Yoga S740 (81RS00AYRK),381990,Lenovo,"14″ - 35,56 см",Intel® Core™ i5-1035G4,1.1 ГГц,8 ГБ,512 ГБ,(81RS00AYRK),Intel HD Graphics 630M
+s194,Ноутбук Acer Swift 3 SF314-57-52B7 I585UW (NX.HJKER.00B),353290,Acer,"14″ - 35,56 см",Intel® Core™ i5-1035G1,1 ГГц,8 ГБ,512 ГБ,(NX.HJKER.00B),Intel UHD Graphics
+s195,Ноутбук Asus Vivobook 14 X412FA (90NB0L92-M18290),229990,Asus,"14″ - 35,56 см",Intel® Pentium® Gold 5405U,2.3 ГГц,4 ГБ,512 ГБ,(90NB0L92-M18290),Intel UHD Graphics 610
+s196,Ноутбук ASUS Laptop 15 X509U i381TUN (90NB0N72-M00300),219990,Asus,"15,6″ - 39,62 см",‎Intel® Core™ i3-7020U,2.3 ГГц,8 ГБ,1 ТБ,(90NB0N72-M00300),GeForce MX 230
+s197,Ноутбук Acer Swift 1 SF114-32-P54W Pink (NX.GZLER.001),199990,Acer,"14″ - 35,56 см",Intel® Pentium® N5000,1.1 ГГц,4 ГБ,128 ГБ,(NX.GZLER.001),Intel UHD Graphics 605
+s198,Ноутбук Acer Aspire 3 A315-55KG I341TMN (NX.HEHER.004),239990,Acer,"15,6″ - 39,62 см",‎Intel® Core™ i3-7020U,2.3 ГГц,4 ГБ,1 ТБ,(NX.HEHER.004),GeForce MX 130
+s199,"Ультрабук Apple Macbook Air 13,3"" i5 1,6/8Gb/128GB SSD Silver (MVFK2)",459990,Apple,"13,3″ - 33,78 см",Intel® Core™ i5-8210Y,1.6 ГГц,8 ГБ,128 ГБ,(MVFK2),Intel UHD Graphics 617
+s200,"Ультрабук Apple MacBook Air 13 i5 1,6/8Gb/256GB SSD Space Gray (MVFJ2) ",499990,Apple,"13″ - 33,02 см",Intel® Core™ i5-8210Y,1.6 ГГц,8 ГБ,256 Гб,(MVFJ2) ,Intel UHD Graphics 617
+s201,Ультрабук HP Weasley 1.0 15-db1237ur (1X2S6EA),209990,HP,"15,6″ - 39,62 см",AMD Ryzen 3 3200U,2.6 ГГц,4 ГБ,1 ТБ,(1X2S6EA),Radeon Vega 3
+s202,Ноутбук Acer Aspire 3 A315-56 (NX.HS5ER.004),219990,Acer,"15,6″ - 39,62 см",Intel® Core™ i3 1005G1,1.2 ГГц,4 ГБ,256 Гб,(NX.HS5ER.004),Intel UHD Graphics
+s203,Ноутбук Apple MacBook 12″ Core M3 1.2/8/256SSD Space Grey (MNYF2),369990,Apple,"12″ - 30,48 см",,1.2 ГГц,8 ГБ,256 Гб,(MNYF2),Intel HD Graphics 615
+s204,Ноутбук HP Pavilion Gaming R5161T2SGN 16D74EA (15-ec1027ur),399990,HP,"15,6″ - 39,62 см",AMD® Ryzen ™ 5 4600H,,16 ГБ,HDD 1 Тб + SSD 256 Гб,(15-ec1027ur),GeForce GTX 1650 Super
+s205,Ноутбук HP Laptop Weasley 19C1 R581TUW 1X2S5EA (15-db1230ur),259990,HP,"15,6″ - 39,62 см",AMD Ryzen 5 3500U,,8 ГБ,1 ТБ,(15-db1230ur),Radeon Vega 8
+s206,Ноутбук Acer Nitro 5 AN515-54 (NH.Q5BER.02T),499990,Acer,"15,6″ - 39,62 см",Intel® Core™ i7-9750H,2.6 ГГц,16 ГБ,1 ТБ,(NH.Q5BER.02T),GeForce GTX 1660 Ti
+s207,Ноутбук Acer Swift 1 SF114-32 Pink (NX.GZLER.008),189990,Acer,"14″ - 35,56 см",Intel® Pentium® Silver N5000,1.10 ГГц,4 ГБ,256 Гб,(NX.GZLER.008),Intel HD Graphics 650
+s208,Ноутбук Acer Extensa EX215-51K I345UN (NX.EFZER.00Y),219990,Acer,"15,6″ - 39,62 см",Intel® Core™ i3-10110U,2.1 ГГц,4 ГБ,512 ГБ,(NX.EFZER.00Y),Intel UHD Graphics 620
+s209,Ноутбук Asus Laptop 15 X509F (90NB0N02-M05090),199990,Asus,"15,6″ - 39,62 см",Intel® Core™ i3-8145U,2.1 ГГц,4 ГБ,256 Гб,(90NB0N02-M05090),GeForce MX 110
+s210,Ноутбук HP Laptop Potter 1.0 R581TUW 1X2T1EA (15-dw0121ur),279990,HP,"15,6″ - 39,62 см",Intel® Core™ i3-8130U,,8 ГБ,1 ТБ,(15-dw0121ur),GeForce MX 130
+s211,"Ноутбук Apple MacBook Pro 13.3″ Touch Bar i5 1,4/8Gb/256GB SSD Silver (MUHR2)",649990,Apple,,Intel® Core™ i5-8257U,1.4 ГГц,8 ГБ,256 Гб,(MUHR2),Iris Plus Graphics 645
+s212,Ноутбук Asus ROG Strix G512L (90NR04D1-M03870),579990,Asus,"14″ - 35,56 см",,1.8 ГГц,16 ГБ,16 ГБ,(90NR04D1-M03870),GeForce RTX
+s213,"Ультрабук Apple Macbook Air 13"" i5 1,6/8Gb/256GB SSD Gold (MVFN2)",529990,Apple,"13,3″ - 33,78 см",Intel® Core™ i5-8210Y,1.6 ГГц,8 ГБ,256 Гб,(MVFN2),Intel UHD Graphics 617
+s214,Ноутбук Acer Aspire 3 A315-55KG I345MN (NX.HEDER.03S),239990,Acer,"15,6″ - 39,62 см",Intel® Core™ i3-8130U,2.2 ГГц,4 ГБ,500 Гб,(NX.HEDER.03S),GeForce MX 130
+s215,Ноутбук Lenovo IdeaPad 3 L340-15IRH (81LK00K5RK),384990,Lenovo,"15,6″ - 39,62 см",Intel® Core™ i7-9750H,2.6 ГГц,8 ГБ,HDD 1 Тб + SSD 128 Гб,(81LK00K5RK),GeForce GTX 1650 Super
+s216,Ноутбук Asus ROG Strix G G531GU-AL065 (90NR01J3-M08960),599990,Asus,"15,6″ - 39,62 см",Intel® Core™ i7-9750H,2.6 ГГц,16 ГБ,512 ГБ,(90NR01J3-M08960),GeForce GTX 1660 Ti
+s217,Ноутбук Acer Aspire 3 A315-42 (NX.HF8ER.027),179990,Acer,"15,6″ - 39,62 см",AMD Athlon II 300U,2.4 ГГц,4 ГБ,500 Гб,(NX.HF8ER.027),Radeon 540X
+s218,Ноутбук Asus UX434F 90NB0MQ5-M07700,459990,Asus,"14″ - 35,56 см",Intel® Core™ i5-10210U,1.6 ГГц,16 ГБ,512 ГБ,,Intel UHD Graphics 620
+s219,Ноутбук Lenovo IdeaPad 3 330-17IKB (81DK0088RK),254990,Lenovo,"15,6″ - 39,62 см",Intel® Core™ i3-7130U,2.7 ГГц,4 ГБ,1 ТБ,(81DK0088RK),GeForce MX 110
+s220,Ноутбук Acer Aspire 3 A315-55KG-38C9 (NX.HEHER.019),239990,Acer,"15,6″ - 39,62 см",‎Intel® Core™ i3-7020U,2.3 ГГц,8 ГБ,1 ТБ,(NX.HEHER.019),GeForce MX MX130
+s221,Ноутбук Asus FX705D 90NR02B1-M02050,349990,Asus,"17,3″ - 43,94 см",AMD Ryzen 5 3550H,2.1 ГГц,8 ГБ,512 ГБ,,Radeon Vega 8 1650 Super
+s222,Ноутбук Lenovo Ideapad 530S-14ARR (81H10016RU),279990,Lenovo,"14″ - 35,56 см",AMD Ryzen 5 2500U,2.0 ГГц,8 ГБ,256 Гб,(81H10016RU),Radeon Vega 8
+s223,Ноутбук Acer Extensa EX215-51KG i341TMW (NX.EFQER.00L),259990,Acer,"15,6″ - 39,62 см",Intel® Core™ i3-8130U,2.2 ГГц,4 ГБ,1 ТБ,(NX.EFQER.00L),GeForce MX 130
+s224,"Ноутбук Apple MacBook Pro 13.3″ Touch Bar  i5 1,4/8Gb/256GB SSD Space Grey (MUHP2)",629990,Apple,"13,3″ - 33,78 см",Intel® Core™ i5-8257U,1.4 ГГц,8 ГБ,256 Гб,(MUHP2),Iris Plus Graphics 645
+s225,Ноутбук Asus Laptop 15 M509D A41TUN (90NB0P52-M19090),159990,Asus,"15,6″ - 39,62 см",AMD Athlon™ Silver 3050U,2.3 ГГц,4 ГБ,1 ТБ,(90NB0P52-M19090),Radeon Vega 3
+s226,Ноутбук Acer Swift 5 SF514-54T (NX.HLGER.001),459990,Acer,"14″ - 35,56 см",Intel® Core™ i7-1065G7,1.3 ГГц,8 ГБ,512 ГБ,(NX.HLGER.001),Iris Plus Graphics HD Graphics
+s227,Ноутбук Apple MacBook Air 13″ i5 /8GB/256GB SSD Silver (MREC2) 2018,628490,Apple,"13,3″ - 33,78 см",Intel® Core™ i5-8210Y,1.6 ГГц,8 ГБ,256 Гб,(MREC2),Intel UHD Graphics 617
+s228,Ноутбук Acer Predator Triton 500 PT515-52-705M (NH.Q6WER.004),1399990,Acer,"15,6″ - 39,62 см",Intel® Core™ i7-10750H,2.6 ГГц,32 Гб,2 Гб,(NH.Q6WER.004),GeForce RTX 2080 Super
+s229,"Ноутбук Acer Aspire 3, A315-54K-348J, Black, (NX.HEEER.007)",169990,Acer,"15,6″ - 39,62 см",‎Intel® Core™ i3-7020U,2.3 ГГц,4 ГБ,1 ТБ,(NX.HEEER.007),Intel HD Graphics 620
+s230,Ноутбук Acer Swift 3 SF314-57-33AB I385UW (NX.HJ7ER.002),319890,Acer,"14″ - 35,56 см",Intel® Core™ i3 1005G1,1.2 ГГц,8 ГБ,512 ГБ,(NX.HJ7ER.002),Intel UHD Graphics
+s231,Ноутбук Asus VivoBook Flip (TP412UA-EC056T),235090,Asus,"14″ - 35,56 см",‎Intel® Core™ i3-7020U,2.3 ГГц,4 ГБ,256 Гб,(TP412UA-EC056T),Intel HD Graphics 620
+s232,"Ультрабук Apple Macbook Pro 13'' Touch Bar i5 2,4/8/256SSD Space Grey (MV962)",769990,Apple,"13,3″ - 33,78 см",Intel® Core™ i5-8279U,2.4 ГГц,8 ГБ,256 Гб,(MV962),Iris Plus Graphics 655
+s233,Ноутбук Apple MacBook Air 13″ i5 1.6/8Gb/128Gb SSD Silver (MREA2),499990,Apple,"13,3″ - 33,78 см",Intel® Core™ i5-8210Y,1.6 ГГц,8 ГБ,128 ГБ,(MREA2),Intel UHD Graphics 617
+s234,Ноутбук Asus Laptop X509FB-BR015T Slate Gray (90NB0N02-M01220),239990,Asus,"15,6″ - 39,62 см",Intel® Core™ i5-8265U,1.6 ГГц,8 ГБ,1 ТБ,(90NB0N02-M01220),GeForce MX MX 110
+s235,Ультрабук Apple MacBook 12″ Core M3/8GB/256GB Gold (MRQN2),383790,Apple,"12″ - 30,48 см",Intel® Core™ M3-7Y30,1.2 ГГц,8 ГБ,256 Гб,(MRQN2),Intel HD Graphics 615
+s236,"Ультрабук Apple Macbook Pro 13"" Touch Bar i5 2,4/8/256SSD Silver (MV992)",799990,Apple,"13,3″ - 33,78 см",Intel® Core™ i5-8279U,2.4 ГГц,8 ГБ,256 Гб,(MV992),Iris Plus Graphics 655
+s237,Ультрабук Lenovo IdeaPad 5 S540-13API (81XC0009RK),239990,Lenovo,"13,3″ - 33,78 см",AMD Ryzen 5 3550H,2.1 ГГц,8 ГБ,256 Гб,(81XC0009RK),Radeon Vega 8
+s238,"Ноутбук Acer Aspire 3, A315-55G-575W, Black, NX.HEDER.027",259990,Acer,"15,6″ - 39,62 см",Intel® Core™ i5-8265U,1.6 ГГц,8 ГБ,1 ТБ,(NX.HEDER.027),GeForce MX
+s239,Ноутбук Acer Swift 3 SF314-57G (NX.HJEER.001),419990,Acer,"14″ - 35,56 см",Intel® Core™ i7-1065G7,1.3 ГГц,8 ГБ,256 Гб,(NX.HJEER.001),GeForce MX 250
+s240,"Ноутбук Apple MacBook Pro Touch Bar 15.4″ i7 2,2/16/R555X/256SSD Space Grey(MR932)",1010490,Apple,"15,4″ - 39,12 см",Intel® Core™ i7-8750H,2.2 ГГц,16 ГБ,256 Гб,(MR932),Radeon Pro 555X
+s241,Ноутбук Lenovo Yoga S940 (81Q8005VRK),754990,Lenovo,"14″ - 35,56 см",Intel® Core™ i7-1065G7,1.3 ГГц,16 ГБ,512 ГБ,(81Q8005VRK),Intel HD Graphics 630M
+s242,Ноутбук Acer Aspire 3 A315-54 I345SUN (NX.HEFER.01J),209990,Acer,"15,6″ - 39,62 см",Intel® Core™ i3-8145U,2.1 ГГц,4 ГБ,512 ГБ,(NX.HEFER.01J),Intel UHD Graphics 620 620
+s243,Ноутбук Acer Extensa EX2519 (NX.EFAER.12C),174990,Acer,"15,6″ - 39,62 см",Intel® Pentium® N3710,1.6 ГГц,4 ГБ,1 ТБ,(NX.EFAER.12C),Intel HD Graphics 405
+s244,"Ноутбук Acer Aspire 3, A315-54-336C, Black, NX.HEFER.01D",199990,Acer,"15,6″ - 39,62 см",Intel® Core™ i3-8145U,2.1 ГГц,8 ГБ,512 ГБ,( NX.HEFER.01D),Intel UHD Graphics 620
+s245,"Ноутбук Apple MacBook Pro 13.3″ Touch Bar i5 2,3/8/256SSD Silver (MR9U2)",719890,Apple,"13,3″ - 33,78 см",Intel® Core™ i5-8259U,2.4 ГГц,8 ГБ,256 Гб,(MR9U2),Iris Plus Graphics 655
+s246,Ноутбук Acer ConceptD 3 CN315-71-52E1 (NX.C57ER.002),599990,Acer,"15,6″ - 39,62 см",Intel® Core™ i5-9300H,2.4 ГГц,16 ГБ,1 ТБ,(NX.C57ER.002),GeForce GTX 1650 Super
+s247,"Ноутбук Acer Aspire 3, A315-55G-54HZ, Black, (NX.HEDER.03A)",329990,Acer,"15,6″ - 39,62 см",Intel® Core™ i5-8265U,1.6 ГГц,8 ГБ,512 ГБ,(NX.HEDER.03A),GeForce MX M230
+s248,Ноутбук Asus S530FN-BQ050T,253490,Asus,"15,6″ - 39,62 см",Intel® Core™ i5-8265U,1.6 ГГц,8 ГБ,256 Гб,,GeForce MX MX150
+s249,Ноутбук Lenovo Ideapad S145-15IWL (81MV00RCRK),263990,Lenovo,"15,6″ - 39,62 см",Intel® Core™ i5-8265U,1.6 ГГц,8 ГБ,1 ТБ,(81MV00RCRK),GeForce MX MX 110
+s250,"Ультрабук Apple MacBook Air 13"" i5 1,6/8Gb/256GB SSD Silver (MVFL2)",585890,Apple,"13″ - 33,02 см",Intel® Core™ i5-8210Y,1.6 ГГц,8 ГБ,256 Гб,(MVFL2),Intel UHD Graphics 617
+s251,Ноутбук Acer Aspire 3 A315-42 (NX.HF9ER.019),159990,Acer,"15,6″ - 39,62 см",AMD Athlon II 300U,2.4 ГГц,4 ГБ,500 Гб,(NX.HF9ER.019),Radeon RX Vega 3
+s252,"Ультрабук Apple Macbook Pro 15″ Touch Bar i7 2,6/16/256SSD Space Gray (MV902)",899990,Apple,"15,4″ - 39,12 см",Intel® Core™ i7-9750H,2.6 ГГц,16 ГБ,256 Гб,(MV902),Radeon Pro 555X
+s253,"Ноутбук Apple MacBook Pro Touch Bar 15.4″ i7 2,6/16/RX560/512SSD Silver (MR972)",1199990,Apple,"15,4″ - 39,12 см",Intel® Core™ i7-8850H,2.6 ГГц,16 ГБ,512 ГБ,(MR972),Radeon Pro 560X
+s254,Ноутбук Lenovo Ideapad S145-15IWL (81MV0115RK),174590,Lenovo,"15,6″ - 39,62 см",Intel® Core™ i3-8145U,2.1 ГГц,8 ГБ,1 ТБ,(81MV0115RK),GeForce MX MX 110
+s255,Ноутбук Acer AS5745G-434G50Mi,102990,Acer,"15,6″ - 39,62 см",Intel® Core™ i5-2430M,2.26 ГГц,4 ГБ,500 Гб,,GeForce GT 330M
+s256,Ноутбук ASUS Laptop 15 M509D R381TUN (90NB0P51-M01550),179990,Asus,"15,6″ - 39,62 см",AMD Ryzen 3 3200U,2.6 ГГц,8 ГБ,1 ТБ,(90NB0P51-M01550),Radeon Vega 3
+s257,"Ноутбук Apple MacBook Pro Touch Bar 13.3″ i5 2,3/8Gb/512SSD Space Grey (MR9R2)",860090,Apple,"13,3″ - 33,78 см",Intel® Core™ i5-8259U,2.4 ГГц,8 ГБ,512 ГБ,(MR9R2),Iris Plus Graphics 655
+s258,Ноутбук Acer Nitro 5 AN515-43 R5161T5SGN (NH.Q6ZER.00E),399990,Acer,"15,4″ - 39,12 см",AMD Ryzen 5 3550H,2.1 ГГц,16 ГБ,HDD 1 ТБ + SSD 512 ГБ,(NH.Q6ZER.00E),GeForce GTX 1650 Super
+s259,Ноутбук Asus ROG Strix G531G 90NR01L3-M12880,379990,Asus,"14″ - 35,56 см",Intel® Core™ i5-9300H,2.4 ГГц,16 ГБ,,,GeForce GFX 1650 Super
+s260,Ноутбук Acer Aspire 3 A315-42G R581TMW (NX.HF8ER.038),279990,Acer,"15,6″ - 39,62 см",AMD Ryzen 5 3500U,2.1 ГГц,8 ГБ,1 ТБ,(NX.HF8ER.038),Radeon 540X
+s261,Ноутбук Acer Aspire 3 A315-42G R381TMN (NX.HF8ER.02P),219990,Acer,"15,6″ - 39,62 см",AMD Ryzen 3 3200U,2.6 ГГц,8 ГБ,1 ТБ,(NX.HF8ER.02P),Radeon 540X
+s262,"Ультрабук Apple Macbook Pro 15″ Touch Bar i9 2,3/16/512SSD Silver (MV932)",1399990,Apple,"15,4″ - 39,12 см",Intel® Core™ i9-9880H,2.3 ГГц,16 ГБ,512 ГБ,(MV932),Radeon Pro 560X
+s263,Ноутбук Lenovo Yoga 530-14IKB (81EK00QKRU),239990,Lenovo,"14″ - 35,56 см",‎Intel® Core™ i3-7020U,2.3 ГГц,4 ГБ,,(81EK00QKRU),Intel HD Graphics 620
+s264,"Ультрабук Apple Macbook Pro 15"" Touch Bar i9 2,3/16/512SSD Space Grey (MV912",1449990,Apple,"15,4″ - 39,12 см",Intel® Core™ i9-9880H,2.3 ГГц,16 ГБ,512 ГБ,(MV912),Radeon Pro 560X
+s265,Ноутбук Lenovo IdeaPad S145 I341TUW (81W800KNRK),219990,Lenovo,"15,6″ - 39,62 см",Intel® Core™ i3 1005G1,1.2 ГГц,4 ГБ,1 ТБ,(81W800KNRK),Intel UHD Graphics 630M
+s266,Ноутбук Acer Aspire 3 A315-23G-R029 A85MW (NX.HVRER.00F),199990,Acer,"15,6″ - 39,62 см",AMD Athlon™ Silver 3050U,2.3 ГГц,8 ГБ,512 ГБ,(NX.HVRER.00F),Radeon 540X
+s267,Ноутбук Acer Swift 3 SF314-54 I342UW (NX.GXZER.007),219990,Acer,"14″ - 35,56 см",Intel® Core™ i3-8130U,2.2 ГГц,4 ГБ,256 Гб,(NX.GXZER.007),Intel UHD Graphics 620
+s268,"Ультрабук Apple Macbook Pro 13 Touch Bar i5 2,4/8/256SSD Silver (MV992)",949990,Apple,"13,3″ - 33,78 см",Intel® Core™ i5-8279U,2.4 ГГц,8 ГБ,256 Гб,(MV992),Iris Plus Graphics 655
+s269,Ноутбук Asus ROG Strix G512L I7161TSGN (90NR04D1-M03840),599990,Asus,"15,6″ - 39,62 см",Intel® Core™ i7-10750H,2.6 ГГц,16 ГБ,1 ТБ,(90NR04D1-M03840),GeForce RTX 2060
+s270,Ноутбук Acer Swift 3 SF314-54 I382UW (NX.GXZER.001),219990,Acer,"14″ - 35,56 см",Intel® Core™ i3-8130U,2.2 ГГц,8 ГБ,256 Гб,(NX.GXZER.001),
+s271,Ноутбук Asus Laptops 15 X509JA-EJ062 I341TUN (90NB0QE1-M13580),179990,Asus,"15,6″ - 39,62 см",Intel® Core™ i3 1005G1,1.2 ГГц,4 ГБ,1 ТБ,(90NB0QE1-M13580),Intel UHD Graphics
+s272,Ноутбук Lenovo IdeaPad 3 15ADA05 (81W100RBRK),154990,Lenovo,"15,6″ - 39,62 см",AMD Athlon™ Silver 3050U,2.3 ГГц,4 ГБ,1 ТБ,(81W100RBRK),Radeon Vega 3
+s273,Ноутбук Acer Aspire 3 A315-56-37KC I345UN (NX.HS5ER.018),179990,Acer,"15,6″ - 39,62 см",Intel® Core™ i3 1005G1,1.2 ГГц,4 ГБ,512 ГБ,(NX.HS5ER.018),Intel UHD Graphics
+s274,Ноутбук Acer Aspire 3 A315-56-37Y1 I341TUW (NX.HS5ER.00R),189990,Acer,"15,6″ - 39,62 см",Intel® Core™ i3 1005G1,1.2 ГГц,4 ГБ,1 ТБ,(NX.HS5ER.00R),Intel UHD Graphics
+s275,Ноутбук Asus Laptop 15 X509J I341TUN (90NB0QE1-M14800),219990,Asus,"15,6″ - 39,62 см",Intel® Core™ i3 1005G1,1.2 ГГц,4 ГБ,1 ТБ,(90NB0QE1-M14800),Intel UHD Graphics
+s276,Ноутбук Acer Aspire 3 A315-54K I341TUW (NX.HEEER.01T),209990,Acer,"15,6″ - 39,62 см",Intel® Core™ i3-8145U,2.1 ГГц,4 ГБ,1 ТБ,(NX.HEEER.01T),Intel UHD Graphics
+s277,Ноутбук Acer Aspire 3 A315-55G I341TMW (NX.HEHER.01G),222990,Acer,"15,6″ - 39,62 см",‎Intel® Core™ i3-7020U,2.3 ГГц,4 ГБ,1 ТБ,(NX.HEHER.01G),GeForce MX 130
